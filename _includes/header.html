@@ -1,0 +1,23 @@
+<header id="header" class="alt">
+	<h1><a href="index.html">Alpha</a> by HTML5 UP</h1>
+	<nav id="nav">
+		<ul>
+      <li><a href="/index.html">Home</a></li>
+      <li><a class="icon fa-angle-down" href="#">Vereinsleben</a>
+        <ul>
+        {% for doc in site.vereinsleben %}
+          <li><a href="{{ doc.url | prepend: site.base_url }}">{{ doc.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li><a class="icon fa-angle-down" href="#">Über Uns</a>
+        <ul>
+        {% for doc in site.ueber_uns %}
+          <li><a href="{{ doc.url | prepend: site.base_url }}">{{ doc.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li><a href="/spenden.html">Spenden</a></li>
+		</ul>
+	</nav>
+</header>

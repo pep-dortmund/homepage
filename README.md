@@ -8,13 +8,9 @@ Development repository for a new PeP et al. website.
 In order to test the site at this point, simply run
 
 ```bash
-python -m http.server
+jekyll serve
 ```
 
-in the same folder as the index.html. If you are using python2, the command is
+You need to install jekyll for that.
 
-```bash
-python2 -m SimpleHTTPServer
-```
-
-The website is then server on `localhost:8000`.
+The website is then server on `localhost:4000`.

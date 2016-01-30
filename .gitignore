@@ -7,3 +7,4 @@ cabal-dev
 *.chs.h
 .virthualenv
 .sass-cache/
+_site/

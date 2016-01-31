@@ -1,22 +1,50 @@
 ---
 title: Index
 layout: default
+landing: true
 ---
+{% assign special = site.categories.special[0] %}
+{% assign index = 0 %}
 
-<div class="home">
+<section id="banner" style="background-image: url('images/overlay.png'), url('{{ special.image }}')">
+	<h2>{{ special.special-title }}</h2>
+	<p>{{ special.special-subtitle }}</p>
+  {% if special.special-action %}
+	<ul class="actions">
+		<li><a href="{{ site.categories.special[0].url }}" class="button special">{{ site.categories.special[0].special-action }}</a></li>
+	</ul>
+  {% endif %}
+</section>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+<section id="main" class="container">
+  <section class="box special">
+  	<header class="major">
+      <h2>PeP et al. e.V.</h2>
+      <h4>Physikstudierende und ehemalige Physikstudierende der TU Dortmund</h4>
+      <p>Sieh dir an wofür wir stehen. Unser <a href="#">Leitbild.</a></p>
+  	</header>
+  </section>
+  {% for offset in (0..1) %}
+  <div class="row">
+    {% assign off = offset|times:2 %}
+    {% for post in site.posts limit:2 offset:off %}
+      <div class="6u 12u(narrower)">
+        <section class="box special">
+          {% if post.image %}
+            <span class="image featured"><img src="{{ post.image }}" alt=""></span>
+          {% endif %}
+          <h3>{{ post.title }}</h3>
+          <p>
+            {{ post.content | truncate: 400, '...' }}
+          </p>
+          {% if post.content.size > 400 %}
+          <ul class="actions">
+            <li><a href="{{ post.url }}" class="button alt">Mehr</a></li>
+          </ul>
+          {% endif %}
+        </section>
+      </div>
     {% endfor %}
-  </ul>
-
-</div>
+  </div>
+  {% endfor %}
+</section>

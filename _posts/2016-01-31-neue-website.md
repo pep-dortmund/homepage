@@ -1,0 +1,10 @@
+---
+layout: post
+title: Neue Website
+category: special
+special-title: Neue Website
+special-subtitle: Wir haben eine neue Homepage!
+special-action: Reinschauen
+image: /images/PeP.jpg
+---
+Juhuuu [pep-dortmund.org](www.pep-dortmund.org)

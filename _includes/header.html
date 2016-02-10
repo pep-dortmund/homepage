@@ -1,26 +1,22 @@
 <header id="header" class="{% if page.landing %}alt{% endif %}">
-	<h1>PeP et al. e.V.</h1>
+  <h1><a href="/">PeP et al. e.V.</a></h1>
 	<nav id="nav">
 		<ul>
-      <li><a href="/index.html">Home</a></li>
-      <li><a class="icon fa-angle-down" href="#">Über Uns</a>
+      {% for navlink in site.data.navigation %}
+      <li>
+        {% if navlink.submenu %}
+        <a class="icon fa-angle-down" href="#">{{ navlink.title }}</a>
         <ul>
-        {% for doc in site.ueber_uns %}
-          <li><a href="{{ doc.url | prepend: site.base_url }}">{{ doc.title }}</a></li>
-        {% endfor %}
+          {% for sublink in navlink.submenu %}
+          <li><a href="/{{ navlink.directory}}/{{ sublink.link }}">{{ sublink.title }}</a></li>
+          {% endfor %}
         </ul>
+        {% else %}
+        <a href="/{{ navlink.link }}">{{ navlink.title }}</a>
+        {% endif %}
       </li>
-      <li><a class="icon fa-angle-down" href="#">Vereinsleben</a>
-        <ul>
-        {% for doc in site.vereinsleben %}
-          <li><a href="{{ doc.url | prepend: site.base_url }}">{{ doc.title }}</a></li>
-        {% endfor %}
-        </ul>
-      </li>
-      <li><a href="/spenden.html">Spenden</a></li>
-      <li><a href="/stipendien.html">Stipendien</a></li>
-      <li><a href="/praktikumsboerse.html">Praktikumsbörse</a></li>
+      {% endfor %}
       <li style="white-space: nowrap;"><a href="/mitmachen.html" class="button">Mitmachen</a></li>
 		</ul>
-	</nav>
+  </nav>
 </header>

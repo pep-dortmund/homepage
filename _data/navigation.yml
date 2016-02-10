@@ -1,0 +1,35 @@
+- title: Home
+  link: index.html
+
+- title: Vereinsleben
+  directory: vereinsleben
+  submenu:
+      - title: Absolventenfeier
+        link: absolventenfeier.html
+      - title: Bachelorkolloquium
+        link: bachelorkolloquium.html
+      - title: Berufsfelderseminar
+        link: berufsfelderseminar.html
+      - title: LEGO Mindstorms
+        link: mindstorms.html
+      - title: Sommerakademie
+        link: soak.html
+      - title: Toolbox Workshop
+        link: toolbox.html
+      - title: Veranstaltungen
+        link: veranstaltungen.html
+
+- title: Über uns
+  directory: ueber_uns
+  submenu:
+      - title: Vorstand
+        link: vorstand.html
+
+- title: Praktika
+  link: praktikumsboerse.html
+
+- title: Spenden
+  link: spenden.html
+
+- title: Stipendien
+  link: stipendien.html

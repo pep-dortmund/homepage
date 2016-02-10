@@ -6,17 +6,12 @@ layout: default
     <h2>{{ page.title }}</h2>
     <p>{{ content }}</p>
   </header>
-  {% for cat in page.category %}
-    {{ cat }}
-    {% if cat == page.category %}
-      {% for post in cat %}
-        <div class="box">
-          {% if post.image %}
-          <span class="image featured"><img src="{{ post.image }}" alt=""></span>
-          {% endif %}
-          {{ post.content }}
-        </div>
-      {% endfor %}
-    {% endif %}
+  {% for post in site.categories[page.category] %}
+    <div class="box">
+      {% if post.image %}
+      <span class="image featured"><img src="{{ post.image }}" alt=""></span>
+      {% endif %}
+      {{ post.content }}
+    </div>
   {% endfor %}
 </section>

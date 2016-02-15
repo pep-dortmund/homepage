@@ -60,7 +60,8 @@
 
 	a {
 		@include vendor('transition', ('color #{_duration(transition)} ease-in-out', 'border-bottom-color #{_duration(transition)} ease-in-out'));
-		border-bottom: dotted 1px;
+		border-bottom: solid 0px;
+		// border-bottom: dotted 1px;
 		color: _palette(accent2, bg);
 		text-decoration: none;
 
@@ -84,7 +85,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
-		font-weight: _font(weight);
+		font-weight: _font(weight-bold);
 		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.25) 0;
 
@@ -93,6 +94,12 @@
 			text-decoration: none;
 		}
 	}
+
+	// h1 {
+	// 	font-size: 2.5em;
+	// 	line-height: 1.5em;
+	// 	letter-spacing: -0.035em;
+	// }
 
 	h2 {
 		font-size: 2.25em;
@@ -107,10 +114,16 @@
 	}
 
 	h4 {
-		font-size: 1.1em;
+		font-size: 1.25em;
 		line-height: 1.5em;
 		letter-spacing: 0;
 	}
+
+	// h4 {
+	// 	font-size: 1.1em;
+	// 	line-height: 1.5em;
+	// 	letter-spacing: 0;
+	// }
 
 	h5 {
 		font-size: 0.9em;
@@ -1276,7 +1289,8 @@
 /* Footer */
 
 	#footer {
-		background: #f0f0f0;
+		background: mix(#B7B6B6, #FFFFFF, 35%);
+		// background: #f0f0f0;
 		padding: 4em 0 6em 0;
 		text-align: center;
 

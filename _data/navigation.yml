@@ -22,8 +22,14 @@
 - title: Über uns
   directory: ueber_uns
   submenu:
+      - title: Satzung & Leitbild
+        link: satzung_und_leitbild.html
       - title: Vorstand
         link: vorstand.html
+      - title: Protokolle der MV
+        link: protokolle.html
+      - title: Jahresberichte
+        link: jahresberichte.html
 
 - title: Praktika
   link: praktikumsboerse.html

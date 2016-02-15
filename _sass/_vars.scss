@@ -21,13 +21,13 @@
 	$font: (
 		family:				('Source Sans Pro', sans-serif),
 		family-fixed:		monospace,
-		weight:				300,
-		weight-bold:		400,
+		weight:				350,
+		weight-bold:		450,
 	);
 
-// Palette.
+// Palette. white = #F7F7F7
 	$palette: (
-		bg:					#f5f5f5,
+		bg:					mix(#B7B6B6, #FFFFFF, 35%),
 		fg:					#777,
 		fg-bold:			#646464,
 		fg-light:			#999,
@@ -36,46 +36,77 @@
 		border2:			#dddddd,
 		border2-bg:			#f0f0f0,
 
+		// pep_gray for the header
 		header: (
-			bg:				#444,
-			fg:				#bbb,
-			fg-bold:		#fff,
-			fg-light:		#999
+			bg:				#565656,
+			fg:				#B7B6B6,
+			fg-bold:		#F7F7F7,
+			fg-light:		#878686
 		),
 
+		// pep_grey:
+		//   brighter:		#B7B6B6
+		//   bright:		#878686
+		//   main:			#565656
+		//   dark:			#181818
+		//   darker:		#040303
 		accent1: (
-			bg:				#666,
-			fg:				mix(#666, #ffffff, 25%),
-			fg-bold:		#ffffff,
-			fg-light:		mix(#666, #ffffff, 40%)
+			bg:				#565656,
+			fg:				#878686,
+			fg-bold:		#F7F7F7,
+			fg-light:		#B7B6B6
 		),
 
+		// pep_blue:
+		//   brighter:		#87b2e7
+		//   bright:		#5b94d9
+		//   main:			#397ccc
+		//   dark:			#1864c0
+		//   darker:		#0a4a96
 		accent2: (
-			bg:				#e89980,
-			fg:				mix(#e89980, #ffffff, 25%),
-			fg-bold:		#ffffff,
-			fg-light:		mix(#e89980, #ffffff, 40%)
+			bg:				#397ccc,
+			fg:				#5b94d9,
+			fg-bold:		#F7F7F7,
+			fg-light:		#87b2e7
 		),
 
+		// pep_green:
+		//   brighter:		#7EE7CA
+		//   bright:		#50D9B3
+		//   main:			#2CCCA0
+		//   dark:			#09C08E
+		//   darker:		#00966D
 		accent3: (
-			bg:				#7fcdb8,
-			fg:				mix(#7fcdb8, #ffffff, 25%),
-			fg-bold:		#ffffff,
-			fg-light:		mix(#7fcdb8, #ffffff, 40%)
+			bg:				#2CCCA0,
+			fg:				#50D9B3,
+			fg-bold:		#F7F7F7,
+			fg-light:		#7EE7CA
 		),
 
+		// pep_purple:
+		//   brighter:		#988EEA
+		//   bright:		#7164DD
+		//   main:			#5344D2
+		//   dark:			#3422C8
+		//   darker:		#21119F
 		accent4: (
-			bg:				#90b0ba,
-			fg:				mix(#90b0ba, #ffffff, 25%),
-			fg-bold:		#ffffff,
-			fg-light:		mix(#90b0ba, #ffffff, 40%)
+			bg:				#5344D2,
+			fg:				#7164DD,
+			fg-bold:		#F7F7F7,
+			fg-light:		#988EEA
 		),
 
+		// pep_orange:
+		//   brighter:		#FFD28B
+		//   bright:		#FFC05E
+		//   main:			#FFB137
+		//   dark:			#FFA00B
+		//   darker:		#E68C00
 		accent5: (
-			bg:				#e5cb95,
-			fg:				mix(#e5cb95, #ffffff, 25%),
-			fg-bold:		#ffffff,
-			fg-light:		mix(#e5cb95, #ffffff, 40%)
+			bg:				#FFB137,
+			fg:				#FFC05E,
+			fg-bold:		#F7F7F7,
+			fg-light:		#FFD28B
 		)
 
 	);

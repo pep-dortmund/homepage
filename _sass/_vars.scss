@@ -21,8 +21,8 @@
 	$font: (
 		family:				('Fira Sans', sans-serif),
 		family-fixed:		monospace,
-		weight:				350,
-		weight-bold:		450,
+		weight:				300,
+		weight-bold:		350,
 	);
 
 // Palette. white = #F7F7F7
@@ -107,6 +107,33 @@
 			fg:				#FFC05E,
 			fg-bold:		#F7F7F7,
 			fg-light:		#FFD28B
-		)
+		), 
 
+		facebook: (
+			bg:				#FFB137,
+			fg:				#FFC05E,
+			fg-bold:		#F7F7F7,
+			fg-light:		#FFD28B
+		), 
+
+		github: (
+			bg:				#FFB137,
+			fg:				#FFC05E,
+			fg-bold:		#F7F7F7,
+			fg-light:		#FFD28B
+		), 
+
+		twitter: (
+			bg:				#FFB137,
+			fg:				#FFC05E,
+			fg-bold:		#F7F7F7,
+			fg-light:		#FFD28B
+		), 
+
+		xing: (
+			bg:				#026466,
+			fg:				#cfdc00,
+			fg-bold:		#F7F7F7,
+			fg-light:		#FFD28B
+		)
 	);

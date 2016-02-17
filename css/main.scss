@@ -570,7 +570,6 @@
 			background: _palette(accent1, bg);
 			border-radius: 100%;
 			color: _palette(accent1, fg-bold);
-			cursor: default;
 			display: inline-block;
 			height: 5.5em;
 			line-height: 5.5em;
@@ -605,6 +604,23 @@
 				background: _palette(accent5, bg);
 				color: _palette(accent5, fg-bold);
 			}
+
+            &.color-facebook {
+				background: _palette(facebook, bg);
+				color: _palette(facebook, fg-bold);
+            }
+            &.color-xing {
+				background: _palette(xing, bg);
+				color: _palette(xing, fg-bold);
+            }
+            &.color-github {
+				background: _palette(github, bg);
+				color: _palette(github, fg-bold);
+            }
+            &.color-twitter {
+				background: _palette(twitter, bg);
+				color: _palette(twitter, fg-bold);
+            }
 		}
 	}
 

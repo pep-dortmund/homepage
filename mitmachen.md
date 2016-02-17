@@ -26,23 +26,22 @@ Komm zu den wöchentlichen, öffentlichen Vorstandsitzungen. Jeden Mittwoch Aben
   </div>
   <div class="features-row">
     <section>
-      <a href="http://www.xing.com/communities/groups/pep-et-al-1029339">
-        <span class="icon major fa-xing accent2"></span>
+      <a href="{{ site.xing_url }}" class="icon major fa-xing color-xing">
       </a>
       <h3>Xing</h3>
     </section>
     <section>
-      <span class="icon major fa-github accent3"></span>
+      <a href="{{ site.github_url }}" class="icon major fa-github color-github"></a>
       <h3>Github</h3>
     </section>
   </div>
   <div class="features-row">
     <section>
-      <span class="icon major fa-facebook accent4"></span>
+      <a href="{{ site.facebook_url }}" class="icon major fa-facebook color-facebook"></a>
       <h3>Facebook</h3>
     </section>
     <section>
-      <span class="icon major fa-twitter accent1"></span>
+      <a href="{{ site.twitter_url }}" class="icon major fa-twitter color-twitter"></a>
       <h3>Twitter</h3>
     </section>
   </div>

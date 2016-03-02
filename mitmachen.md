@@ -3,46 +3,51 @@ title: Mitmachen
 subtitle: Du möchtest bei PeP mitmachen, weißt aber nicht wie?
 layout: page-custom
 ---
-<div class="box" markdown="1">
-Trag dich in unseren Email-Verteiler ein: <br>
-Schreib einfach eine leere [Email](mailto:pep-alumni-tu-dortmund-aktive+subscribe@googlegroups.com)
-Antworte auf die kommende Mail (Kein Google-Account notwendig). <br>
-Wenn du schon einen Google-Account hast, dann kannst du auch direkt die Gruppen-Seite besuchen.
-
-Komm in unseren Büros vorbei: CP-01-190, CP-03-107 oder CP-03-108
-
-Komm zu den wöchentlichen, öffentlichen Vorstandsitzungen. Jeden Mittwoch Abend werden hier die aktuell anstehenden Termine und Aktionen besprochen: <br>
-17:30 Uhr im E5-Seminarraum (CP-03-123)
-
-- [XING](http://www.xing.com/communities/groups/pep-et-al-1029339)
-- [Facebook](http://www.facebook.com/groups/279810565457942/)
-- [LinkedIn](http://www.linkedin.com/grps?gid=3585359)
-- [Twitter](http://www.twitter.com/pepdortmund)
-</div>
-
 <section class="box special features">
   <div class="features-row">
-    <h3>Wenn du Mitglied in einem sozialen Netzwerk bist, dann tritt einer unserer Gruppen bei</h3>
+    <section>
+      <span class="icon major fa-envelope accent2"></span>
+      <h3>Email-Verteiler</h3>
+      <p>
+      Schreib einfach eine leere
+      <a href="mailto:pep-alumni-tu-dortmund-aktive+subscribe@googlegroups.com">Email</a>
+      Antworte auf die kommende Mail. Wenn du schon einen Google-Account hast, dann
+      kannst du auch direkt die Gruppen-Seite besuchen.
+      </p>
+    </section>
+    <section>
+      <span class="icon major fa-child accent2"></span>
+      <h3>Komm vorbei</h3>
+      <p>
+      Du findest uns im "neuen Gebäude" in
+      <strong>CP-01-190</strong>, <strong>CP-03-107</strong> oder <strong>CP-03-108</strong>.
+      </p>
+    </section>
   </div>
   <div class="features-row">
     <section>
-      <a href="{{ site.xing_url }}" class="icon major fa-xing color-xing">
-      </a>
-      <h3>Xing</h3>
+      <span class="icon major fa-group accent2"></span>
+      <h3>Vorstandssitzungen</h3>
+      <p>
+      Komm zu den wöchentlichen, öffentlichen Vorstandsitzungen. Jeden Mittwoch
+      Abend werden hier die aktuell anstehenden Termine und Aktionen
+      besprochen: 17:30 Uhr im E5-Seminarraum (CP-03-123)
+      </p>
     </section>
-    <section>
-      <a href="{{ site.github_url }}" class="icon major fa-github color-github"></a>
-      <h3>Github</h3>
-    </section>
-  </div>
-  <div class="features-row">
     <section>
       <a href="{{ site.facebook_url }}" class="icon major fa-facebook color-facebook"></a>
-      <h3>Facebook</h3>
-    </section>
-    <section>
       <a href="{{ site.twitter_url }}" class="icon major fa-twitter color-twitter"></a>
-      <h3>Twitter</h3>
+      <a href="{{ site.github_url }}" class="icon major fa-github color-github"></a>
+      <a href="{{ site.xing_url }}" class="icon major fa-xing color-xing"></a>
+      <h3>Soziale Netze</h3>
+      <p>
+      Folge uns einfach auf
+      <a href="{{ site.facebook_url }}">Facebook</a>,
+      <a href="{{ site.twitter_url }}">Twitter</a>,
+      <a href="{{ site.github_url }}">Github</a>
+      und <a href="{{ site.xing_url }}">Xing</a> um immer
+      auf dem Laufenden zu bleiben.
+      </p>
     </section>
   </div>
 </section>

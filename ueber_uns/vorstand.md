@@ -1,55 +1,88 @@
 ---
 title: Der Vorstand
-layout: page
+subtitle: Der Vorstand des Vereins wird einmal im Jahr von allen Mitgliedern gewählt. Dieser besteht aus einem geschäftsführendem und darüber hinaus aus einem erweiterten Vorstand.
+layout: page-custom
 ---
 
-Der Vorstand des Vereins wird einmal im Jahr von allen Mitgliedern gewählt. Dieser besteht aus einem geschäftsführendem und darüber hinaus aus einem erweiterten Vorstand.
+<div class="box special features">
+	<div class="features-row-thirds">
+		<h3>Aktueller Vorstand</h3>
+		<section>
+			<span class="image fit">
+				<img src="../images/passbilddummy.jpg">
+			</span>
+			<h4>Henning Moldenhauer</h4>
+			<p>1. Vorsitzender</p>
+		</section>
+		<section>
+			<span class="image fit">
+				<img src="../images/passbilddummy.jpg">
+			</span>
+			<h4>Alex Birnkraut</h4>
+			<p>2. Vorsitzender</p>
+		</section>
+		<section>
+			<span class="image fit">
+				<img src="../images/passbilddummy.jpg">
+			</span>
+			<h4>Vanessa Müller</h4>
+			<p>Finanzreferentin</p>
+		</section>
+	</div>
+</div>
 
-
-### Aktueller Vorstand
-
-- Hennig Moldenhauer, 1. Vorsitzender, Foto
-- Alex Birnkraut, 2. Vorsitzender, Foto
-- Vanessa Müller, Finanzreferentin, Foto
-
+<div class="box" markdown="1">
 #### Geschäftsführung, Mitgliederbetreuung und Ressourcenverwaltung
 
 - Kevin Heinicke, Foto
 - Sascha Dungs, Foto
 - Maximilian Nöthe, Foto
+</div>
 
+<div class="box" markdown="1">
 #### Begabtenförderung
 
 - Jan Brandt, Foto
 - Julian Wishahi, Foto
 - Birgit Brambach, Foto
+</div>
 
+<div class="box" markdown="1">
 #### Fortbildungsprojekte
 
 - Janine Müller, Foto
+</div>
 
+<div class="box" markdown="1">
 #### Öffentlichkeitsarbeit
 
 - Thorben Menne, Foto
 - Igor Babushkin, Foto
+</div>
 
+<div class="box" markdown="1">
 #### Alumniarbeit
 
 - Tobias Brambach, Foto
 - Christophe Cauet, Foto
+</div>
 
+<div class="box" markdown="1">
 #### Organisation der Sommerakademie
 
 - Sabrina Pospich, Foto
 - Johannes Bieker, Foto
 - Timon Schmelzer, Foto
+</div>
 
+<div class="box" markdown="1">
 #### Kassenprüfer
 
 - Florian Kruse, Foto
 - Daniel Weber, Foto
+</div>
 
-
+<div class="box" markdown="1">
 #### Chronik der geschäftsführenden Vorstände
 
 - 2005 bis 2009:
@@ -61,6 +94,8 @@ Der Vorstand des Vereins wird einmal im Jahr von allen Mitgliedern gewählt. Die
 	+ Erster Vorsitzender: Christophe Cauet
 	+ Zweiter Vorsitzender: Julian Wishahi
 	+ Finanzreferent: Tobias Brambach
+</div>
+
 
 
 

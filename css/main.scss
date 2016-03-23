@@ -80,7 +80,7 @@
 	}
 
 	p {
-		margin: 0 0 _size(element-margin) 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -225,13 +225,13 @@
 			line-height: 1.5em;
 		}
 
-		h3 + p {
+		h3 + p,
+        h4 + p {
 			font-size: 1.1em;
 			margin-top: -0.85em;
 			line-height: 1.5em;
 		}
 
-		h4 + p,
 		h5 + p,
 		h6 + p {
 			font-size: 0.8em;
@@ -1340,13 +1340,16 @@
 				margin: 0;
 			}
 
-			p {
+			p:first-of-type {
 				border-top: solid 2px _palette(border);
+				margin: 1em 0 1em 0;
+                padding-top: 1em;
+            }
+
+			p {
 				color: _palette(fg);
 				display: inline-block;
 				font-style: normal;
-				margin: 1em 0 0 0;
-				padding: 1em 0 1.25em 0;
 			}
 		}
 	}

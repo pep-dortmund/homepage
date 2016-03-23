@@ -1,18 +1,9 @@
 ---
-layout: default
+layout: page-custom
 ---
-<section id="main" class="container">
-  <header>
-    <h2>{{ page.title }}</h2>
-    {% if page.subtitle %}
-    <h4>{{ page.subtitle }}</h4>
-    {% endif %}
-  </header>
-  <div class="box">
-    {% if page.image %}
-    <span class="image featured"><img src="images/pic01.jpg" alt=""></span>
-    {% endif %}
-
-    {{ content }}
-  </div>
-</section>
+<div class="box">
+  {% if page.image %}
+  <span class="image featured"><img src="images/pic01.jpg" alt=""></span>
+  {% endif %}
+  {{ content }}
+</div>

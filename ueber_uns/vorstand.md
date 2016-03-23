@@ -4,30 +4,32 @@ subtitle: Der Vorstand des Vereins wird einmal im Jahr von allen Mitgliedern gew
 layout: page-custom
 ---
 
-<div class="box special features">
-	<div class="features-row-thirds">
+<div class="box">
+  <div class="row">
 		<h3>Aktueller Vorstand</h3>
-		<section>
+  </div>
+	<div class="row no-collapse 50% uniform">
+		<div class="4u">
 			<span class="image fit">
 				<img src="../images/passbilddummy.jpg">
 			</span>
 			<h4>Henning Moldenhauer</h4>
 			<p>1. Vorsitzender</p>
-		</section>
-		<section>
+		</div>
+		<div class="4u">
 			<span class="image fit">
 				<img src="../images/passbilddummy.jpg">
 			</span>
 			<h4>Alex Birnkraut</h4>
 			<p>2. Vorsitzender</p>
-		</section>
-		<section>
+		</div>
+		<div class="4u">
 			<span class="image fit">
 				<img src="../images/passbilddummy.jpg">
 			</span>
 			<h4>Vanessa Müller</h4>
 			<p>Finanzreferentin</p>
-		</section>
+		</div>
 	</div>
 </div>
 

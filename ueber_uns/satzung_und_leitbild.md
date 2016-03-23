@@ -1,15 +1,20 @@
 ---
 title: PeP et al. e.V.
 subtitle: Physikstudierende und ehemalige Physikstudierende der TU Dortmund
-layout: page
+layout: page-custom
 ---
+<div class="box" markdown="1">
+### Leitbild
 
 Wir sind die Plattform für generationsübergreifende Kommunikation und Zusammenarbeit aller der Dortmunder Physik verbundenen Gruppen: Absolventen, Studierende, Fakultät, Freunde und Förderer.
 Wir fördern Forschung, Lehre und Weiterbildung im Umfeld der Fakultät und den Austausch über die wissenschaftlichen-physikalische Forschung sowie über den Übergang zwischen Studium und Beruf und Karrierewege in Wirtschaft und Wissenschaft.
 Unsere Werte drücken sich aus in Transparenz, Gleichberechtigung und Überparteilichkeit.
 Wir bauen das Netzwerk zwischen den Alumni, den Studierenden und der Fakultät sowie zu Partnern in der Wirtschaft systematisch aus und wir entwickeln PeP et al. zu einem aktiven Alumni-Verein mit einer großen Zahl von Unterstützern und Förderern.
+</div>
 
+<div class="box" markdown="1">
 ### Satzung
+[Satzung als pdf Dokument herunterladen](/dokumente/pep_satzung.pdf)
 
 #### §1 Name, Sitz und Geschäftsjahr
 (1) Der Verein führt den Namen „Physikstudierende und ehemalige Physikstudierende der Technischen Universität Dortmund et al.“, im folgenden „PeP et al.“ genannt. Er ist beim Amtsgericht Dortmund eingetragen. Mit der Eintragung erhält der Verein den Zusatz „e.V.“.
@@ -127,5 +132,4 @@ erforderlich ist.
 
 #### §13 Schlussbestimmung
 (1) Die Satzung wurde von der Mitgliederversammlung des Vereins am 15.12.2007 in Dortmund beschlossen und tritt mit Eintragung in das Handelsregister Dortmund in Kraft.
-
-[Satzung als pdf Dokument herunterladen](/dokumente/pep_satzung.pdf)
+</div>

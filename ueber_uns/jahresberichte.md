@@ -1,8 +1,9 @@
 ---
 title: Jahresberichte
+subtitle: Hier findet ihr alle Jahresberichte der vergangenen Jahre
 layout: page
 ---
-Die Vereinsarbeit eines Jahres kurz zusammengefasst.
+In den Jahresberichten ist jeweils die Vereinsarbeit eines Jahres kurz zusammengefasst:
 
 - [Jahresbericht 2015](/dokumente/jahresbericht_2015.pdf)
 - [Jahresbericht 2014](/dokumente/jahresbericht_2014.pdf)

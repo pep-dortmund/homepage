@@ -24,11 +24,11 @@ landing: true
       <p>Sieh dir an wofür wir stehen. Unser <a href="/ueber_uns/satzung_und_leitbild.html">Leitbild.</a></p>
   	</header>
   </section>
-  {% for offset in (0..1) %}
   <div class="row">
-    {% assign off = offset|times:2 %}
-    {% for post in site.posts limit:2 offset:off %}
-      <div class="6u 12u(narrower)">
+    {% for offset in (0..1) %}
+    <div class="6u 12u(narrower)">
+      {% assign off = offset|times:2 %}
+      {% for post in site.categories["special"] limit:2 offset:off %}
         <section class="box special">
           {% if post.image %}
             <span class="image featured"><img src="{{ post.image }}" alt=""></span>
@@ -43,8 +43,8 @@ landing: true
           </ul>
           {% endif %}
         </section>
-      </div>
+      {% endfor %}
+    </div>
     {% endfor %}
   </div>
-  {% endfor %}
 </section>

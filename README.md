@@ -7,10 +7,11 @@ Development repository for a new PeP et al. website.
 ## Testing
 In order to test the site at this point, simply run
 
-```bash
-jekyll serve
-```
+    jekyll serve
 
-You need to install jekyll for that.
+You need to install jekyll for that. On OSX this is as simple as
 
-The website is then server on `localhost:4000`.
+    brew install ruby
+    gem install jekyll
+
+The website is then served at [localhost:4000](http://localhost:4000).

@@ -4,6 +4,7 @@
 @import 'vars';
 @import 'functions';
 @import 'mixins';
+@import "skel";
 @import url('font-awesome.min.css');
 @import url("https://code.cdn.mozilla.net/fonts/fira.css");
 
@@ -12,8 +13,6 @@
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
-	@import "skel";
 
 	@include skel-breakpoints((
 		wide: '(max-width: 1680px)',
@@ -29,7 +28,7 @@
 		boxModel: 'border',
 		grid: ( gutters: 2em ),
 		conditionals: true,
-		containers: 45em,
+		containers: 50em,
 		breakpoints: (
 			narrow: (
 				containers: (90%, true),
@@ -95,12 +94,6 @@
 		}
 	}
 
-	// h1 {
-	// 	font-size: 2.5em;
-	// 	line-height: 1.5em;
-	// 	letter-spacing: -0.035em;
-	// }
-
 	h2 {
 		font-size: 2.25em;
 		line-height: 1.5em;
@@ -118,12 +111,6 @@
 		line-height: 1.5em;
 		letter-spacing: 0;
 	}
-
-	// h4 {
-	// 	font-size: 1.1em;
-	// 	line-height: 1.5em;
-	// 	letter-spacing: 0;
-	// }
 
 	h5 {
 		font-size: 0.9em;

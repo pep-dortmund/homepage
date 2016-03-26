@@ -3,7 +3,9 @@ layout: page-custom
 ---
 <div class="box">
   {% if page.image %}
-  <span class="image featured"><img src="images/pic01.jpg" alt=""></span>
+  <span class="image featured">
+    <img src="{{ page.image }} " alt="">
+  </span>
   {% endif %}
   {{ content }}
 </div>

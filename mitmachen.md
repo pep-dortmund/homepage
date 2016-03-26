@@ -36,7 +36,7 @@ layout: page-custom
     </section>
     <section>
       <a href="{{ site.facebook_url }}" class="icon major fa-facebook color-facebook"></a>
-      <a href="{{ site.twitter_url }}" class="icon major fa-twitter color-twitter"></a>
+      <a href="{{ site.twitter_url }}" class="icon major fa-twitter color-twitter"></a><br />
       <a href="{{ site.github_url }}" class="icon major fa-github color-github"></a>
       <a href="{{ site.xing_url }}" class="icon major fa-xing color-xing"></a>
       <h3>Soziale Netze</h3>

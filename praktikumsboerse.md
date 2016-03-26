@@ -2,4 +2,5 @@
 title: Praktikumsbörse
 layout: page
 ---
-Ganz viel geld!
+# Todo:
+- Praktikumsbörse implementieren...

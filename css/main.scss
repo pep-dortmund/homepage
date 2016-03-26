@@ -1028,6 +1028,24 @@
 		}
 	}
 
+/* post-box */
+
+    .box.post {
+        padding-bottom: 0.5em !important;
+    }
+
+    .post-footer {
+        border-top: 1px solid _palette(border);
+        margin: 2em (-$box-padding) (-$box-padding) (-$box-padding);
+        padding: 0.5em $box-padding 0 $box-padding;
+        color: _palette(fg-light);
+
+        > * {
+            padding: 0;
+            font-size: 0.85em;
+        }
+    }
+
 /* Header */
 
 	#page-wrapper {

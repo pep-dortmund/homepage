@@ -1,0 +1,18 @@
+<div class="row post-footer">
+  <div class="6u align-left">
+    {{ post.date | date: "%d.%m.%y" }}
+    {% if post.author %}
+    von {{ post.author }}
+    {% endif %}
+  </div>
+  <div class="6u align-right">
+  {% for cat_index in post.categories %}
+    {% assign category = site.data.categories[cat_index] %}
+    {% if category %}
+    <a href="{{ category.url | prepend: '/' | prepend: site.baseurl }}">
+      <span class="fa fa-{{ category.icon }}"></span>
+    </a>
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>

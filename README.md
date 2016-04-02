@@ -7,14 +7,11 @@ Development repository for a new PeP et al. website.
 ## Testing
 In order to test the site at this point, simply run
 
-```bash
-python -m http.server
-```
+    jekyll serve
 
-in the same folder as the index.html. If you are using python2, the command is
+You need to install jekyll for that. On OSX this is as simple as
 
-```bash
-python2 -m SimpleHTTPServer
-```
+    brew install ruby
+    gem install jekyll
 
-The website is then server on `localhost:8000`.
+The website is then served at [localhost:4000](http://localhost:4000).

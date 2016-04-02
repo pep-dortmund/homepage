@@ -1,0 +1,22 @@
+<header id="header" class="{% if page.landing %}alt{% endif %}">
+  <h1><a href="/">PeP et al. e.V.</a></h1>
+	<nav id="nav">
+		<ul>
+      {% for navlink in site.data.navigation %}
+      <li>
+        {% if navlink.submenu %}
+        <a class="icon fa-angle-down" href="#">{{ navlink.title }}</a>
+        <ul>
+          {% for sublink in navlink.submenu %}
+          <li><a href="/{{ navlink.directory}}/{{ sublink.link }}">{{ sublink.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <a href="/{{ navlink.link }}">{{ navlink.title }}</a>
+        {% endif %}
+      </li>
+      {% endfor %}
+      <li style="white-space: nowrap;"><a href="/mitmachen.html" class="button">Mitmachen</a></li>
+		</ul>
+  </nav>
+</header>

@@ -7,11 +7,48 @@ Development repository for a new PeP et al. website.
 ## Testing
 In order to test the site at this point, simply run
 
-    jekyll serve
-
-You need to install jekyll for that. On OSX this is as simple as
-
-    brew install ruby
-    gem install jekyll
-
+```bash
+$ jekyll serve
+```
 The website is then served at [localhost:4000](http://localhost:4000).
+Changes to the inputfiles are recognised and the website is build again,
+press f5 in the browser to update.
+
+Some updates, like changing images might require to delete the cache (ctrl + f5 in chrome).
+
+
+`jekyll` is a `ruby` gem, use your favourite package manager
+to install ruby.
+
+E. g. on OS-X:
+
+```
+$ brew install ruby
+```
+
+Or arch-linux:
+```
+$ sudo pacman -S ruby
+```
+
+After that you can use `ruby`'s package manager `gem` to install
+jekyll:
+
+```
+$ gem install jekyll
+```
+
+## Contributing
+
+### Creating new posts
+
+To create new posts you need to create a new markdown file in the
+`_posts` directory.
+
+The filename needs to follow the scheme
+```
+YYYY-MM-DD-your-title.md
+```
+
+These markdown files contain a `yaml` header for meta data on top.
+Have a look into the existing posts to get an idea.

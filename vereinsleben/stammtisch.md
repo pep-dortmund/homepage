@@ -1,0 +1,4 @@
+---
+title: Stammtisch
+layout: category
+---

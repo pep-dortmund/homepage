@@ -8,4 +8,4 @@ special-action: Reinschauen
 image: /images/PeP.jpg
 author: Kevin
 ---
-Juhuuu [pep-dortmund.org](www.pep-dortmund.org)
+Juhuuu [pep-dortmund.org](http://www.pep-dortmund.org)

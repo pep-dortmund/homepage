@@ -1,12 +1,12 @@
 ---
 title: Der Vorstand
-subtitle: Der Vorstand des Vereins wird einmal im Jahr von allen Mitgliedern gewählt. Dieser besteht aus einem geschäftsführendem und darüber hinaus aus einem erweiterten Vorstand.
+subtitle: Der Vorstand des Vereins wird einmal im Jahr von der Mitgliederversammlung gewählt. Er besteht aus einem geschäftsführenden und darüber hinaus aus einem erweiterten Vorstand.
 layout: page-custom
 ---
 
 <div class="box">
   <div class="row">
-		<h3>Aktueller Vorstand</h3>
+		<h3>Geschäftsführender Vorstand</h3>
   </div>
 	<div class="row no-collapse 50% uniform">
 		<div class="4u">

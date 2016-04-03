@@ -1,6 +1,6 @@
 ---
 title: Jahresberichte
-subtitle: Hier findet ihr alle Jahresberichte der vergangenen Jahre
+subtitle: Hier findet ihr alle Jahresberichte der vergangenen Jahre.
 layout: page
 ---
 In den Jahresberichten ist jeweils die Vereinsarbeit eines Jahres kurz zusammengefasst:

@@ -1,6 +1,6 @@
 ---
 title: Mitgliederversammlungen
-subtitle: Hier findet ihr Protokolle der vergangenen Mitgliederversammlungen
+subtitle: Hier findet ihr Protokolle der vergangenen Mitgliederversammlungen.
 layout: page
 ---
 Einmal im Jahr findet eine Mitgliederversammlung statt. Dabei wird ein Resümee über das vergangene Jahr gezogen. Außerdem stehen verschiedene Berichte auf der Tagesordnung. Unter anderem wird der geschäftsführende Vorstand entlastet.

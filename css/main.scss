@@ -206,23 +206,20 @@
 			font-style: italic;
 		}
 
-		h2 + p {
+		h2 ~ p {
 			font-size: 1.25em;
-			margin-top: -1em;
 			line-height: 1.5em;
 		}
 
-		h3 + p,
-        h4 + p {
+		h3 ~ p,
+        h4 ~ p {
 			font-size: 1.1em;
-			margin-top: -0.85em;
 			line-height: 1.5em;
 		}
 
-		h5 + p,
-		h6 + p {
+		h5 ~ p,
+		h6 ~ p {
 			font-size: 0.8em;
-			margin-top: -0.5em;
 			line-height: 1.5em;
 		}
 

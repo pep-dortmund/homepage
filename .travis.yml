@@ -4,7 +4,9 @@ rvm:
 
 script:
   - bundle exec jekyll build 
-    #  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
+  - bundle exec htmlproofer ./_site \
+    --check-favicon --check-html \
+    --allow-hash-href --empty-alt-ignore --only-4xx 
 
 after_success:
   - bash ./.deploy_site.sh

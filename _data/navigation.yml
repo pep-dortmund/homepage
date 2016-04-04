@@ -5,31 +5,31 @@
   directory: vereinsleben
   submenu:
       - title: Absolventenfeier
-        link: absolventenfeier
+        link: absolventenfeier.html
       - title: Bachelorkolloquium
-        link: bachelorkolloquium
+        link: bachelorkolloquium.html
       - title: Berufsfelderseminar
-        link: berufsfelderseminar
+        link: berufsfelderseminar.html
       - title: LEGO Mindstorms
-        link: mindstorms
+        link: mindstorms.html
       - title: Sommerakademie
         link: soak.html
       - title: Toolbox Workshop
-        link: toolbox
+        link: toolbox.html
       - title: Veranstaltungen
-        link: veranstaltungen
+        link: veranstaltungen.html
 
 - title: Über uns
   directory: ueber_uns
   submenu:
-      - title: Satzung & Leitbild
-        link: satzung_und_leitbild
+      - title: Satzung &#38; Leitbild
+        link: satzung_und_leitbild.html
       - title: Vorstand
-        link: vorstand
+        link: vorstand.html
       - title: Mitgliederversammlungen
-        link: protokolle
+        link: protokolle.html
       - title: Jahresberichte
-        link: jahresberichte
+        link: jahresberichte.html
 
 - title: Praktika
   link: praktikumsboerse.html

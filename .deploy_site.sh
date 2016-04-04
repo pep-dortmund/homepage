@@ -6,7 +6,7 @@ if [[ $TRAVIS_BRANCH == 'master' ]]
 then
 	rm -rf ~/out || exit 0;
 	# compile the website
-	jekyll build -d ~/out
+	jekyll build -d ~/out --config _github_config.yml
 
 	# go to the out directory and create a *new* Git repo
 	cd ~/out

@@ -11,7 +11,7 @@ Eine Bewerbung ist möglich, wenn Du an der Technischen Universität Dortmund al
 
 Die Bewerbung erfolgt ausschließlich online über das Bewerbungsportal der Technischen Universität Dortmund. Weitere Informationen und der Link zu dem Bewerbungsportal sind unter folgendem Link zu finden.
 
-    Informationen zur Bewerbung auf ein Deutschlandstipendium
+[Informationen zur Bewerbung auf ein Deutschlandstipendium](http://www.tu-dortmund.de/uni/Uni/Freunde_und_F__rderer/Stipendien/Deutschlandstipendium/Bewerbung/index.html)
 
 Der Bewerbungszeitraum für dieses Semester ist vom 15. August 2015 bis zum
 15. September 2015.
@@ -27,7 +27,7 @@ Eine Bewerbung ist möglich, wenn Du an der Technischen Universität Dortmund al
 
 Die Bewerbung erfolgt schriftlich an PeP et al. e.V.. Genauere Informationen zu Bewerbungsunterlagen und Anschrift sind unter folgendem Link zu finden.
 
-    Informationen zur Bewerbung auf ein Initiativstipendium
+[Informationen zur Bewerbung auf ein Initiativstipendium](/dokumente/initiativstipendium_bewerbung.pdf)
 
 Die Förderung durch das Begabtenförderungsprogramm ist unabhängig von einer Mitgliedschaft im Alumniverein, sodass Nichtmitglieder keinerlei Nachteile haben.
 </div>

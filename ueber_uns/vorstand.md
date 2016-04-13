@@ -6,31 +6,31 @@ layout: page-custom
 
 <div class="box">
   <div class="row">
-		<h3>Geschäftsführender Vorstand</h3>
+    <h3>Geschäftsführender Vorstand</h3>
   </div>
-	<div class="row no-collapse 50% uniform">
-		<div class="4u">
-			<span class="image fit">
-				<img src="../images/passbilddummy.jpg">
-			</span>
-			<h4>Henning Moldenhauer</h4>
-			<p>1. Vorsitzender</p>
-		</div>
-		<div class="4u">
-			<span class="image fit">
-				<img src="../images/passbilddummy.jpg">
-			</span>
-			<h4>Alex Birnkraut</h4>
-			<p>2. Vorsitzender</p>
-		</div>
-		<div class="4u">
-			<span class="image fit">
-				<img src="../images/passbilddummy.jpg">
-			</span>
-			<h4>Vanessa Müller</h4>
-			<p>Finanzreferentin</p>
-		</div>
-	</div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h4>Henning Moldenhauer</h4>
+      <p>1. Vorsitzender</p>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h4>Alex Birnkraut</h4>
+      <p>2. Vorsitzender</p>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h4>Vanessa Müller</h4>
+      <p>Finanzreferentin</p>
+    </div>
+  </div>
 </div>
 
 <div class="box" markdown="1">
@@ -88,14 +88,14 @@ layout: page-custom
 #### Chronik der geschäftsführenden Vorstände
 
 - 2005 bis 2009:
-	+ Erster Vorsitzender: Daniel Weber
-	+ Zweiter Vorsitzender: Jesko Merkel
-	+ Finanzreferent: Andreas Jung
+  + Erster Vorsitzender: Daniel Weber
+  + Zweiter Vorsitzender: Jesko Merkel
+  + Finanzreferent: Andreas Jung
 
 - 2009 bis 2015:
-	+ Erster Vorsitzender: Christophe Cauet
-	+ Zweiter Vorsitzender: Julian Wishahi
-	+ Finanzreferent: Tobias Brambach
+  + Erster Vorsitzender: Christophe Cauet
+  + Zweiter Vorsitzender: Julian Wishahi
+  + Finanzreferent: Tobias Brambach
 </div>
 
 

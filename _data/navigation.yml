@@ -22,7 +22,7 @@
 - title: Über uns
   directory: ueber_uns
   submenu:
-      - title: Satzung & Leitbild
+      - title: Satzung &#38; Leitbild
         link: satzung_und_leitbild.html
       - title: Vorstand
         link: vorstand.html

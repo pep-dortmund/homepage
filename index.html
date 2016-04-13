@@ -6,23 +6,23 @@ landing: true
 {% assign special = site.categories.special[0] %}
 {% assign index = 0 %}
 
-<section id="banner" style="background-image: url('/css/images/overlay.png'), url('{{ special.image }}')">
+<section id="banner" style="background-image: url('{{site.baseurl}}/css/images/overlay.png'), url('{{ special.image | prepend: site.baseurl }}')">
     <h2>{{ special.special-title }}</h2>
     <p>{{ special.special-subtitle }}</p>
   {% if special.special-action %}
     <ul class="actions">
-        <li><a href="{{ site.categories.special[0].url }}" class="button special">{{ site.categories.special[0].special-action }}</a></li>
+        <li><a href="{{ site.categories.special[0].url | prepend:site.baseurl }}" class="button special">{{ site.categories.special[0].special-action }}</a></li>
     </ul>
   {% endif %}
 </section>
 
 <section id="main" class="container container-main">
   <section class="box special">
-  	<header class="major">
+    <header class="major">
       <h2>PeP et al. e.V.</h2>
       <h4>Physikstudierende und ehemalige Physikstudierende der TU Dortmund</h4>
-      <p>Sieh dir an wofür wir stehen. Unser <a href="/ueber_uns/satzung_und_leitbild.html">Leitbild.</a></p>
-  	</header>
+      <p>Sieh dir an wofür wir stehen. Unser <a href="{{'/ueber_uns/satzung_und_leitbild.html' | prepend:site.baseurl) }}">Leitbild.</a></p>
+    </header>
   </section>
   <div class="row">
     {% for offset in (0..1) %}
@@ -31,15 +31,14 @@ landing: true
       {% for post in site.categories["special"] limit:2 offset:off %}
         <section class="box special post">
           {% if post.image %}
-            <span class="image featured"><img src="{{ post.image }}" alt=""></span>
+          <span class="image featured"><img src="{{ post.image | prepend:site.baseurl }}" alt=""></span>
           {% endif %}
           <h3>{{ post.title }}</h3>
-          <p>
-            {{ post.content | truncate: 400, '...' }}
-          </p>
+          {{ post.content | truncate: 400, '...' }}
+
           {% if post.content.size > 400 %}
           <ul class="actions">
-            <li><a href="{{ post.url }}" class="button alt">Mehr</a></li>
+            <li><a href="{{ post.url | prepend:site.baseurl }}" class="button alt">Mehr</a></li>
           </ul>
           {% endif %}
           {% include post-footer.html post=post %}

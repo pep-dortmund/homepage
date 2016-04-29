@@ -5,7 +5,6 @@ category: special
 special-title: Neuer Vorstand
 special-subtitle: PeP et al. hat eine neue Geschäftsführung.
 special-action: Reinschauen
-image: /images/PeP.jpg
 author: Henning
 ---
 Auf der Mitgliederversammlung wurde ein neuer Vorstand gewählt.

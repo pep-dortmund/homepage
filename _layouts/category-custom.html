@@ -4,7 +4,7 @@ layout: default
 <section id="main" class="container">
   {{ content }}
   {% for post in site.categories[page.category] %}
-    <div class="box post">
+    <div class="box post" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
       {% if post.image %}
       <span class="image featured"><img src="{{ post.image | prepend:site.baseurl }}" alt=""></span>
       {% endif %}

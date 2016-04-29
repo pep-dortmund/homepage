@@ -21,7 +21,7 @@ vorstand:
     icon: users
 
 protokolle:
-    icon: paperclip      
+    icon: paperclip
 
 jahresberichte:
     icon: paperclip
@@ -31,6 +31,7 @@ toolbox:
 
 sommerakademie:
     icon: sun-o
+    url: vereinsleben/soak.html
 
 mindstorms:
     icon: scissors
@@ -39,16 +40,17 @@ stammtisch:
     icon: comments-o
 
 berufsfelderseminar:
-    icon: briefcase  
+    icon: briefcase
 
 spenden:
-    icon: euro               
+    icon: euro
 
 stipendien:
     icon: support
 
 veranstaltungen:
-    icon: calender-o    
+    icon: calendar-o
+    url: vereinsleben/veranstaltungen.html
 
 praktikumsbörse:
     icon: arrows-h

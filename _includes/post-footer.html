@@ -9,7 +9,7 @@
   {% for cat_index in post.categories %}
     {% assign category = site.data.categories[cat_index] %}
     {% if category %}
-    <a href="{{ category.url | prepend: '/' | prepend: site.baseurl }}">
+    <a href="{{ category.url | prepend: '/' | prepend: site.baseurl }}#{{post.id | replace: '/','-' | remove_first: '-' }}">
       <span class="fa fa-{{ category.icon }}"></span>
     </a>
     {% endif %}

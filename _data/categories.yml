@@ -1,9 +1,54 @@
 absolventenfeier:
-    icon: adjust
+    icon: graduation-cap
     url: vereinsleben/absolventenfeier.html
 
 special:
-    icon: anchor
+    icon: flag-o
 
 bachelorkolloquium:
-    icon: video-camera
+    icon: bullhorn
+
+mitmachen:
+    icon: hand-pointer-o
+
+ueberuns:
+    icon: info
+
+satzung:
+  icon: bookmark-o
+
+vorstand:
+    icon: users
+
+protokolle:
+    icon: paperclip      
+
+jahresberichte:
+    icon: paperclip
+
+toolbox:
+    icon: wrench
+
+sommerakademie:
+    icon: sun-o
+
+mindstorms:
+    icon: scissors
+
+stammtisch:
+    icon: comments-o
+
+berufsfelderseminar:
+    icon: briefcase  
+
+spenden:
+    icon: euro               
+
+stipendien:
+    icon: support
+
+veranstaltungen:
+    icon: calender-o    
+
+praktikumsbörse:
+    icon: arrows-h

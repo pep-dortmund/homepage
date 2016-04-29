@@ -28,7 +28,7 @@ YYYY-MM-DD-your-title.md
 These markdown files contain a `yaml` header for meta data on top.
 Have a look into the existing posts to get an idea. In general each file
 begins like that:
-```YAML
+``` YAML
 ---
 categories:
   - absolventenfeier

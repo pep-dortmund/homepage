@@ -5,6 +5,7 @@ categories: special absolventenfeier veranstaltungen
 special-title: Absolventenfeier 2015
 special-subtitle: Bilder sind verfügbar!
 special-action: Reinschauen
+image: /images/2016-01-31-absolventenfeier-2015.jpg
 author: Janine
 ---
 

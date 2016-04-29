@@ -4,7 +4,7 @@ subtitle: Alle unsere Posts in anti-chronologischer Reihenfolge
 layout: page-custom
 ---
 
-{% for post in site.categories["special"] %}
+{% for post in site.posts %}
   <section class="box special post">
     {% if post.image %}
     <span class="image featured"><img src="{{ post.image | prepend:site.baseurl }}" alt=""></span>

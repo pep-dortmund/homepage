@@ -27,12 +27,14 @@ Vereinsregisternummer VR5898
 #### Haftungsausschluss
 
 ##### Verweise auf externe Web-Seiten
+<p class="hypenate">
 Die Homepage von PeP et al. e.V. enthält Verweise (Links) zu Informationsangeboten
 auf Servern, die nicht der Kontrolle und Verantwortlichkeit des Vereins
 unterliegen. Der Verein übernimmt keine Verantwortung und keine Garantie für diese
 Informationen und billigt oder unterstützt diese auch nicht inhaltlich. Diese
 Regelungen entsprechen sinngemäß dem § 5 Absatz 3 des TDG (Teledienstegesetz).
 PeP et al. distanziert sich weiterhin ausdrücklich von rechtswidrigen Inhalten.
+</p>
 
 ##### Haftungshinweis
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für

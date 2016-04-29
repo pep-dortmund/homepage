@@ -96,5 +96,5 @@
 			}
 
 	});
-
 })(jQuery);
+Hyphenator.run();

@@ -2,6 +2,7 @@ towards-a-new-website [![Build Status](https://travis-ci.org/pep-dortmund/toward
 =====================
 
 Development repository for a new PeP et al. website.
+See [Contributing](CONTRIBUTING.md) if you want to add things.
 
 
 ## Testing
@@ -40,15 +41,9 @@ $ gem install jekyll
 
 ## Contributing
 
-### Creating new posts
-
-To create new posts you need to create a new markdown file in the
-`_posts` directory.
-
-The filename needs to follow the scheme
-```
-YYYY-MM-DD-your-title.md
-```
-
-These markdown files contain a `yaml` header for meta data on top.
-Have a look into the existing posts to get an idea.
+See [Contributing](CONTRIBUTING.md) for detailled explanation how to
+- write new posts
+- add static pages
+- edit the navigation
+- minified markdown intro
+- other crazy things

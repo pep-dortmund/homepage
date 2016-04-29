@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jahresbericht 2015
-categories: special jahresberichte ueberuns
+categories: special jahresberichte ueberuns spenden
 special-title: Jahresbericht 2015
 special-subtitle: Was wurde letztes Jahr gemacht?
 special-action: Reinschauen
@@ -12,10 +12,7 @@ Mit der erfolgreichen Absolventenfeier am letzten Wochenende geht das “PeP-Jah
 
 Wir verbinden den Bericht ebenfalls mit dem Aufruf den Jahresbeitrag von 10,– EUR auf das Vereinskonto zu überweisen, oder noch besser einen Dauerauftrag einzurichten.
 
-PeP et al. e.V.  
-DE22 4416 0014 6348 4161 00  
-GENODEM1DOR  
-Dortmunder Volksbank
+![bankverbindung](/images/bankverbindung.png)
 
 Wem unsere Arbeit gefällt, der ist herzlich eingeladen einen Förderbeitrag von 25,– bzw. 50,– EUR beizutragen.
 

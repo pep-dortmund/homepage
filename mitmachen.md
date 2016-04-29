@@ -9,7 +9,7 @@ layout: page-custom
       <span class="icon major fa-envelope accent2"></span>
       <h3>Email-Verteiler</h3>
       <p>
-      Schreib einfach eine leere
+      Schreib' einfach eine leere
       <a href="mailto:pep-alumni-tu-dortmund-aktive+subscribe@googlegroups.com">Email</a>
       Antworte auf die kommende Mail. Wenn du schon einen Google-Account hast, dann
       kannst du auch direkt die Gruppen-Seite besuchen.
@@ -19,8 +19,10 @@ layout: page-custom
       <span class="icon major fa-child accent2"></span>
       <h3>Komm vorbei</h3>
       <p>
-      Du findest uns im "neuen Gebäude" in
-      <strong>CP-01-190</strong>, <strong>CP-03-107</strong> oder <strong>CP-03-108</strong>.
+      Du findest uns im "neuen Gebäude" hier:
+      Henning Moldenhauer <strong>CP-01-190</strong>,<br>
+      Alex Birnkraut <strong>CP-03-108</strong>,<br>
+      Vanessa Müller <strong>CP-03-107</strong>.
       </p>
     </section>
   </div>
@@ -31,7 +33,7 @@ layout: page-custom
       <p>
       Komm zu den wöchentlichen, öffentlichen Vorstandsitzungen. Jeden Mittwoch
       Abend werden hier die aktuell anstehenden Termine und Aktionen
-      besprochen: 17:30 Uhr im E5-Seminarraum (CP-03-123)
+      besprochen: <strong>17:30 Uhr</strong> im E5-Seminarraum (<strong>CP-03-123</strong>).
       </p>
     </section>
     <section>
@@ -47,6 +49,18 @@ layout: page-custom
       <a href="{{ site.github_url }}">Github</a>
       und <a href="{{ site.xing_url }}">Xing</a> um immer
       auf dem Laufenden zu bleiben.
+      </p>
+    </section>
+  </div>
+  <div class="features-row">
+    <section>
+      <span class="icon major fa-question accent2"></span>
+      <h3>Noch Fragen?</h3>
+      <p>
+      Schreib' uns eine <a href="mailto:kontak@pep-dortmund.de">Email</a> oder ruf' uns an <br>
+      Henning Moldenhauer <strong>0231/755-8817</strong>,<br>
+      Alex Birnkraut <strong>0231/755-8876</strong>,<br>
+      Vanessa Müller <strong>0231/755-8875</strong>.
       </p>
     </section>
   </div>

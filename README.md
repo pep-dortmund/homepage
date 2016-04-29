@@ -33,10 +33,10 @@ $ sudo pacman -S ruby
 ```
 
 After that you can use `ruby`'s package manager `gem` to install
-jekyll:
+jekyll and we also need `execjs`:
 
 ```
-$ gem install jekyll
+$ gem install jekyll execjs
 ```
 
 ## Contributing

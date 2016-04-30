@@ -3,9 +3,8 @@ title: Archiv
 subtitle: Alle unsere Posts in anti-chronologischer Reihenfolge
 layout: page-custom
 ---
-
 {% for post in site.posts %}
-  <section class="box special post">
+  <section class="box special post" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
     {% if post.image %}
     <span class="image featured"><img src="{{ post.image | prepend:site.baseurl }}" alt=""></span>
     {% endif %}

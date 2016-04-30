@@ -17,4 +17,4 @@ Dieses Angebot richtet sich hauptsächlich an Fünftsemester, die sich bald selb
 Das Bachelor-Kolloquium wird ab dem 5. November jeden zweiten Donnerstag von 10:15 bis ca. 11:15 Uhr im AV-Raum unter Anwesenheit von Keksen stattfinden.
 Wir suchen noch Vortragende! Wenn ihr also Lust habt euch zu beteiligen, meldet euch einfach bei [Janine](mailto:janine2.mueller@tu-dortmund.de), auch bei anderen Fragen oder Anregungen.
 
-Mehr Informationen und Programm unter [Bachelorkolloquium]({{'vereinsleben/bachelorkolloquium.html' | prepend:site.baseurl}})
+Mehr Informationen und Programm unter [Bachelorkolloquium](/vereinsleben/bachelorkolloquium.html)

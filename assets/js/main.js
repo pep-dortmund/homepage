@@ -97,4 +97,10 @@
 
 	});
 })(jQuery);
+// Hyphenator
+// checking if working correctly by making hyphenation visible
+//Hyphenator.config({
+//	urlhyphenchar : '|',
+//	hyphenchar : '|',
+//});
 Hyphenator.run();

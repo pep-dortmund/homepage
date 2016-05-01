@@ -6,7 +6,7 @@ layout: page-custom
 <div class="box" markdown="1">
 #### Verantwortlich im Sinne von § 5 TMG
 
-<img alt="" src="{{site.baseurl}}/images/impressum.png">
+<img alt="" src="{{site.baseurl}}/images/impressum.svg">
 
 #### Kontakt
 
@@ -22,7 +22,7 @@ Vereinsregisternummer VR5898
 
 #### Verantwortlich für den Inhalt nach §55 Abs. 2 RStV
 
-<img alt="" src="{{site.baseurl}}/images/redaktion.png">
+<img alt="" src="{{site.baseurl}}/images/redaktion.svg">
 
 #### Haftungsausschluss
 

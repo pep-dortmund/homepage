@@ -425,6 +425,7 @@
 		box-shadow: 0 2px 0 0 _palette(border);
 		margin: 0 0 _size(element-margin) 0;
 		padding: $box-padding;
+		text-align: justify;
 
 		> :last-child {
 			margin-bottom: 0;

@@ -13,4 +13,4 @@ von PeP et al. bewerben.
 Das von der Bundesregierung unterstützte Programm wird zur einen Hälfte durch
 Vereinsmittel und zur Anderen durch Gelder aus dem Bundeshaushalt ermöglicht.
 
-Mehr Informationen unter: [Stipendien](/stipendien.html)
+Mehr Informationen unter: [Stipendien](stipendien.html)

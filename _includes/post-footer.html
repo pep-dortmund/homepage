@@ -14,7 +14,7 @@
     {% else %}
       {% assign id_slug = '' %}
     {% endif %}
-    <a href="{{ category.url | prepend: '/' | prepend: site.baseurl }}{{ id_slug }}">
+    <a href="{{ category.url }}{{ id_slug }}">
       <span class="fa fa-{{ category.icon }}"></span>
     </a>
     {% else %}

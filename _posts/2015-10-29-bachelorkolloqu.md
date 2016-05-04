@@ -18,4 +18,4 @@ vorstellen!
 Alle Interessenten sind herzlich eingeladen!
 
 Infos über die Termine und Themen findet ihr
-[hier](/vereinsleben/bachelorkolloquium.html).
+[hier](vereinsleben/bachelorkolloquium.html).

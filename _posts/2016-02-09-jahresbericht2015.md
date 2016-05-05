@@ -21,7 +21,7 @@ Wir verbinden den Bericht ebenfalls mit dem Aufruf den Jahresbeitrag von 10,–
 EUR auf das Vereinskonto zu überweisen, oder noch besser einen Dauerauftrag
 einzurichten.
 
-![bankverbindung](images/bankverbindung.png)
+![bankverbindung](images/bankverbindung.svg)
 
 Wem unsere Arbeit gefällt, der ist herzlich eingeladen einen Förderbeitrag von
 25,– bzw. 50,– EUR beizutragen.

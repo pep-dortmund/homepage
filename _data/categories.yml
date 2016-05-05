@@ -1,21 +1,23 @@
 absolventenfeier:
     icon: graduation-cap
     url: vereinsleben/absolventenfeier.html
+    jump-to-id: true
 
 special:
     icon: flag-o
+    url: archive.html
+    jump-to-id: true
 
 bachelorkolloquium:
     icon: bullhorn
+    url: vereinsleben/bachelorkolloquium.html
 
 mitmachen:
     icon: hand-pointer-o
-
-ueberuns:
-    icon: info
+    url: mitmachen.html
 
 satzung:
-  icon: bookmark-o
+    icon: bookmark-o
 
 vorstand:
     icon: users
@@ -25,9 +27,11 @@ protokolle:
 
 jahresberichte:
     icon: paperclip
+    url: ueber_uns/jahresberichte.html
 
 toolbox:
     icon: wrench
+    url: vereinsleben/toolbox.html
 
 sommerakademie:
     icon: sun-o
@@ -35,12 +39,15 @@ sommerakademie:
 
 mindstorms:
     icon: scissors
+    url: vereinsleben/toolbox.html
 
 stammtisch:
     icon: comments-o
+    url: vereinsleben/toolbox.html
 
 berufsfelderseminar:
     icon: briefcase
+    url: vereinsleben/toolbox.html
 
 spenden:
     icon: euro

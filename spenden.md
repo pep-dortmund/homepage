@@ -11,5 +11,5 @@ Sind Sie an einer Spendenbescheinigung interessiert, schicken Sie uns bitte eine
 
 <div class="box" markdown="1">
 #### Bankverbindung
-<img alt="" style="font-weight: light" src="{{site.baseurl}}/images/bankverbindung.svg">
+<img alt="" style="font-weight: light" src="images/bankverbindung.svg">
 </div>

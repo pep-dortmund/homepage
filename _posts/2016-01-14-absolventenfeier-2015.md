@@ -12,6 +12,6 @@ im Audimax statt.
 
 Los geht's um 16:00 Uhr.
 
-Hier geht's zum [Programm](/dokumente/Programm_Absolventenfeier_2015.pdf).
+Hier geht's zum [Programm](dokumente/Programm_Absolventenfeier_2015.pdf).
 
 Die Anmeldung erfolgt [hier](https://absolventenfeier.pep-dortmund.org).

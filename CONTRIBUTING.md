@@ -8,8 +8,10 @@ The website is optimized for posts, with some additional static content.
 So before editing a static site (everything outside of `_posts/`) think whether
 a post might also serve your needs.
 
-We are using [jekyll](https://jekyllrb.com) for almost everything. The website
-might be a good place to look for general answers to the technical stuff.
+We are using [jekyll](https://jekyllrb.com) for almost everything. Their
+website might be a good place to look for general answers to the technical
+questions.
+
 
 ## Writing/Editing Content
 
@@ -35,42 +37,50 @@ categories:
   - veranstaltungen
   - special  # 👀 Look below for this special category
 title: A Post!
-image: /images/some-fancy-image.jpeg
+image: images/some-fancy-image.jpeg
 
 # These variables are less important
 special-subtitle: Its a post about how to post posts
 ---
 Your content goes here
 ```
-##### categories (mandatory)
-This one is important! The listet categories are used to fill the pages within
-e.g. "Vereinsleben" Each post must have at least one category.  Furthermore the
-badges (icons below each post) will be defined by these categories
-automatically
+- **categories (mandatory)**:
+  This one is important! The listet categories are used to fill the pages within
+  e.g. "Vereinsleben" Each post must have at least one category.  Furthermore the
+  badges (icons below each post) will be defined by these categories
+  automatically.
+  There is one special category, called *special* 😅 . If you
+  add this category to the list, the post will be shown on the `index.html` site.
+  See [section "Special Posts"](#special-posts) for more details.
+- **title**:
+  If you dont set this variable, the posts name slug will be used. For example
+  A post with file `_posts/2016-07-24-your-title.md` would give "Your Title".
+- **image**:
+  You can (and should) add a nice image
+  with an aspect ratio of about 2x1 and
+  a size smaller than 1MB
+- **author**:
+  Your name could go here! If you dont remember, just leave it out.
 
-##### title
-If you dont set this variable, the posts name slug will be used. For example
-A post with file `_posts/2016-07-24-your-title.md` would give "Your Title".
 
-##### image
-You can (and should) add a nice image
-with an aspect ratio of about 2x1 and
-a size smaller than 1MB
+#### Special Posts
+Adding the `special` category to the list of categories enables additional
+variables within the yaml header. The special behaviour is:
+- the four most recent posts will be shown on the landing page
+- the `special-image` of the latest `special` post will be used as
+  background image on the landing page
+- a subtitle can be displayed on the landing page
+- a button (nothing more than a link) can be added to the latest `special`
+  post (see `special-action` below)
 
-##### special
-This one is special 😅 If you assign this category, the post will be shown
-on the `index.html` site. Furthermore the image of the latest special-post
-will be used as the header image of the `index.html` page. So make sure
-to add an image which looks good at this position.
-
-##### special-subtitle
-You can add a subtitle which will be shown in a smaller font below the title on
-the main page. This should be longer than the title but still short enough to
-fit in ~one line.
-
-##### special-action
-If you set this, a button referencing to the post will be generated. The
-buttons title will be this value.
-
-##### author
-Your name could go here! If you dont remember, just leave it out.
+Following variables will be used
+- **special-title**:
+  If defined, this is used instead of the `title` variable. The title will
+  be shown prominently on the landing page.
+- **special-subtitle**:
+  You can add a subtitle which will be shown in a smaller font below the title on
+  the main page. This should be longer than the title but still short enough to
+  fit in ~one line.
+- **special-action**:
+  If you set this, a button referencing to the post will be generated. The
+  buttons title will be this value.

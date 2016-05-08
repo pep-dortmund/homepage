@@ -113,7 +113,10 @@ or this (keep in mind the absolute, no-leading-slash URL):
 
 You could always tell the browser to open links in a new tab/window either by
 appending `{:target="_blank"}` to the markdown-link or writing a plain-old html
-`<a target="_blank" href="blaa">Link</a>`-tag.
+`<a target="_blank" href="blaa">Link</a>`-tag. Keep in mind that the first
+option is a [kramdown](http://kramdown.gettalong.org/syntax.html)-feature,
+which is not supported by plain markdown, see [A note about
+markdown](#a-note-about-markdown).
 
 ### Images
 To upload an image to the website, add it somewhere inside the

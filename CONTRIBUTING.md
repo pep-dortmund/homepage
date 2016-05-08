@@ -86,8 +86,9 @@ Following variables will be used
   buttons title will be this value.
 
 ### Links
-All links must be absolute, without leading slash. Furthermore links to pages
-end with `.html`, no matter if they reference a markdown or a html file.
+All links to internal pages must use the absolute URL, without leading slash.
+Furthermore links to pages end with `.html`, no matter if they reference a
+markdown or a html file.
 
 For example, the URL of the `vereinsleben/mitmachen.md`-page, would always
 look like
@@ -95,16 +96,29 @@ look like
 vereinsleben/mitmachen.html
 ```
 The whole Link within a markdown page would look like
-```
+``` markdown
 [Mitmachen, klick hier](vereinsleben/mitmachen.html)
 ```
 and produces: [Mitmachen, klick hier](vereinsleben/mitmachen.html) (This link
 will obviously not work within this readme).
 
+External links and links to documents work the same way, guess what this will do:
+``` markdown
+[its-a-searchengine](https://google.com)
+```
+or this (keep in mind the absolute, no-leading-slash URL):
+``` markdown
+[a-file](documents/an-important-pdf.pdf)
+```
+
+You could always tell the browser to open links in a new tab/window either by
+appending `{:target="_blank"}` to the markdown-link or writing a plain-old html
+`<a target="_blank" href="blaa">Link</a>`-tag.
+
 ### Images
 To upload an image to the website, add it somewhere inside the
 `images/`-directory. Within a markdown-file the image can be included with
-```
+``` markdown
 ![An Image (the image-alias here)](images/stuff/a-nice-image.jpeg)
 ```
 This almost looks like a Link :) And just as within a link, the image-URL must
@@ -113,3 +127,10 @@ An example: (this works, since the `images/`-directory is the same in the
 repo and in production.)
 
 ![Just a Test](images/contributing/image-example.jpg)
+
+### A note about markdown
+By default jekyll uses
+[kramdown](http://kramdown.gettalong.org/syntax.html) to render
+markdown-files. On top of the neat markdown-syntax, kramdown adds more
+features, like [markdown inside html
+blocks](http://kramdown.gettalong.org/syntax.html#html-blocks).

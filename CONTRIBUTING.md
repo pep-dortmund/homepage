@@ -84,3 +84,32 @@ Following variables will be used
 - **special-action**:
   If you set this, a button referencing to the post will be generated. The
   buttons title will be this value.
+
+### Links
+All links must be absolute, without leading slash. Furthermore links to pages
+end with `.html`, no matter if they reference a markdown or a html file.
+
+For example, the URL of the `vereinsleben/mitmachen.md`-page, would always
+look like
+```
+vereinsleben/mitmachen.html
+```
+The whole Link within a markdown page would look like
+```
+[Mitmachen, klick hier](vereinsleben/mitmachen.html)
+```
+and produces: [Mitmachen, klick hier](vereinsleben/mitmachen.html) (This link
+will obviously not work within this readme).
+
+### Images
+To upload an image to the website, add it somewhere inside the
+`images/`-directory. Within a markdown-file the image can be included with
+```
+![An Image (the image-alias here)](images/stuff/a-nice-image.jpeg)
+```
+This almost looks like a Link :) And just as within a link, the image-URL must
+be absolute, without leading slash.
+An example: (this works, since the `images/`-directory is the same in the
+repo and in production.)
+
+![Just a Test](images/contributing/image-example.jpg)

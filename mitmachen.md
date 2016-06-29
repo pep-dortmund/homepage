@@ -53,7 +53,7 @@ layout: page-custom
     </section>
   </div>
   <div class="features-row">
-    <section>
+    <section style="width: 100%; padding-right: 0px;">
       <span class="icon major fa-question accent2"></span>
       <h3>Noch Fragen?</h3>
       <p>

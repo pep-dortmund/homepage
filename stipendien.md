@@ -4,7 +4,9 @@ subtitle: Hier gibt es Informationen zu unserem Stipendienangebot.
 layout: page-custom
 ---
 <div class="box" markdown="1">
-### Deutschlandstipendien Die finanzielle Förderung beträgt 300 € monatlich und
+### Deutschlandstipendien
+
+Die finanzielle Förderung beträgt 300 € monatlich und
 ist auf ein Jahr befristet, wobei die Vergabe der Stipendien
 leistungsorientiert und einkommensunabhängig erfolgt.
 
@@ -29,7 +31,9 @@ haben.
 </div>
 
 <div class="box" markdown="1">
-### Initiativstipendien Die finanzielle Förderung kann bis zu 150 € monatlich
+### Initiativstipendien
+
+Die finanzielle Förderung kann bis zu 150 € monatlich
 betragen und ist auf den Projektzeitraum befristet, wobei die Vergabe der
 Stipendien leistungsorientiert und einkommensunabhängig erfolgt.
 

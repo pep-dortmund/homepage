@@ -33,55 +33,146 @@ layout: page-custom
   </div>
 </div>
 
-<div class="box" markdown="1">
-#### Geschäftsführung, Mitgliederbetreuung und Ressourcenverwaltung
-
-- Kevin Heinicke, Foto
-- Sascha Dungs, Foto
-- Maximilian Nöthe, Foto
+<div class="box">
+  <div class="row">
+  <h4>Geschäftsführung, Mitgliederverwaltung und Ressourcenverwaltung</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Kevin Heinicke</h5>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Maximilian Nöthe</h5>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Sascha Dungs</h5>
+    </div>
+  </div>
 </div>
 
-<div class="box" markdown="1">
-#### Begabtenförderung
-
-- Jan Brandt, Foto
-- Julian Wishahi, Foto
-- Birgit Brambach, Foto
+<div class="box">
+  <div class="row">
+  <h4>Begabtenförderung</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Julian Wishahi</h5>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Birgit Brambach</h5>
+    </div>
+  </div>
 </div>
 
-<div class="box" markdown="1">
-#### Fortbildungsprojekte
-
-- Janine Müller, Foto
+<div class="box">
+  <div class="row">
+  <h4>Fortbildungsprojekte</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Marie Schmitz</h5>
+    </div>
+  </div>
 </div>
 
-<div class="box" markdown="1">
-#### Öffentlichkeitsarbeit
-
-- Thorben Menne, Foto
-- Igor Babushkin, Foto
+<div class="box">
+  <div class="row">
+  <h4>Öffentlichkeitsarbeit</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Thorben Menne</h5>
+    </div>
+  </div>
 </div>
 
-<div class="box" markdown="1">
-#### Alumniarbeit
-
-- Tobias Brambach, Foto
-- Christophe Cauet, Foto
+<div class="box">
+  <div class="row">
+  <h4>Alumniarbeit</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Christophe Cauet</h5>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Tobias Brambach</h5>
+    </div>
+  </div>
 </div>
 
-<div class="box" markdown="1">
-#### Organisation der Sommerakademie
-
-- Sabrina Pospich, Foto
-- Johannes Bieker, Foto
-- Timon Schmelzer, Foto
+<div class="box">
+  <div class="row">
+  <h4>Organisation der Sommerakademie</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Timon Schmelzer</h5>
+    </div>
+  </div>
 </div>
 
-<div class="box" markdown="1">
-#### Kassenprüfer
+<div class="box">
+  <div class="row">
+  <h4>Organisation der Winterakademie</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Janine Müller</h5>
+    </div>
+  </div>
+</div>
 
-- Florian Kruse, Foto
-- Daniel Weber, Foto
+<div class="box">
+  <div class="row">
+  <h4>Kassenprüfer</h4>
+  </div>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Florian Kruse</h5>
+    </div>
+    <div class="4u">
+      <span class="image fit">
+        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+      </span>
+      <h5>Daniel Weber</h5>
+    </div>
+  </div>
 </div>
 
 <div class="box" markdown="1">

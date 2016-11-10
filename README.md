@@ -36,7 +36,8 @@ After that you can use `ruby`'s package manager `gem` to install
 jekyll and we also need `execjs`:
 
 ```
-$ gem install jekyll execjs
+$ gem install bundler
+$ bundle install
 ```
 
 ## Contributing

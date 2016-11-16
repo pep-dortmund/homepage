@@ -4,173 +4,187 @@ subtitle: Der Vorstand des Vereins wird einmal im Jahr von der Mitgliederversamm
 layout: page-custom
 ---
 
-<div class="box">
-  <div class="row">
-    <h3>Geschäftsführender Vorstand</h3>
-  </div>
+<div class="box special special">
+  <h3>Geschäftsführender Vorstand</h3>
   <div class="row no-collapse 50% uniform">
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
       <h4>Henning Moldenhauer</h4>
       <p>1. Vorsitzender</p>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
       <h4>Alex Birnkraut</h4>
       <p>2. Vorsitzender</p>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
       <h4>Vanessa Müller</h4>
       <p>Finanzreferentin</p>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Geschäftsführung, Mitgliederverwaltung und Ressourcenverwaltung</h4>
-  </div>
+<div class="box special">
+  <h3>Geschäftsführung, Mitgliederverwaltung und Ressourcenverwaltung</h3>
   <div class="row no-collapse 50% uniform">
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Kevin Heinicke</h5>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Kevin Heinicke</h4>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Maximilian Nöthe</h5>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Maximilian Nöthe</h4>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Sascha Dungs</h5>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Sascha Dungs</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Begabtenförderung</h4>
-  </div>
+<div class="box special">
+  <h3>Begabtenförderung</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Julian Wishahi</h5>
+    <div class="4u -2u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Julian Wishahi</h4>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Birgit Brambach</h5>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Birgit Brambach</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Fortbildungsprojekte</h4>
-  </div>
+<div class="box special">
+  <h3>Fortbildungsprojekte</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Marie Schmitz</h5>
+    <div class="4u -4u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Marie Schmitz</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Öffentlichkeitsarbeit</h4>
-  </div>
+<div class="box special">
+  <h3>Öffentlichkeitsarbeit</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Thorben Menne</h5>
+    <div class="4u -4u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Thorben Menne</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Alumniarbeit</h4>
-  </div>
+<div class="box special">
+  <h3>Alumniarbeit</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Christophe Cauet</h5>
+    <div class="4u -2u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Christophe Cauet</h4>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Tobias Brambach</h5>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Tobias Brambach</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Organisation der Sommerakademie</h4>
-  </div>
+<div class="box special">
+  <h3>Organisation der Sommerakademie</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Timon Schmelzer</h5>
+    <div class="4u -4u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Timon Schmelzer</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Organisation der Winterakademie</h4>
-  </div>
+<div class="box special">
+  <h3>Organisation der Winterakademie</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Janine Müller</h5>
+    <div class="4u -4u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Janine Müller</h4>
     </div>
   </div>
 </div>
 
-<div class="box">
-  <div class="row">
-  <h4>Kassenprüfer</h4>
-  </div>
+<div class="box special">
+  <h3>Kassenprüfer</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Florian Kruse</h5>
+    <div class="4u -2u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Florian Kruse</h4>
     </div>
     <div class="4u">
-      <span class="image fit">
-        <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-      </span>
-      <h5>Daniel Weber</h5>
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Daniel Weber</h4>
     </div>
   </div>
 </div>
@@ -188,27 +202,3 @@ layout: page-custom
   + Zweiter Vorsitzender: Julian Wishahi
   + Finanzreferent: Tobias Brambach
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

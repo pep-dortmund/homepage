@@ -1,15 +1,22 @@
 language: ruby
 rvm:
- - 2.2.0
+  - 2.3.2
+
+before_install:
+  - ssh-keyscan -t rsa $DEPLOY_HOST 2> /dev/null | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts
+  - openssl aes-256-cbc -K $encrypted_4649eefbbfcb_key -iv $encrypted_4649eefbbfcb_iv
+    -in deploy_key.enc -out deploy_key -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 deploy_key
+  - ssh-add deploy_key
 
 script:
-  - bundle exec jekyll build 
-# - bundle exec htmlproofer ./_site --allow-hash-href --check-html --only-4xx --disable-external --empty-alt-ignore
+  - bundle exec jekyll build
 
 after_success:
   - bash ./.deploy_site.sh
 
 env:
   global:
-    - GH_REF: github.com/pep-dortmund/towards-a-new-website.git
-    - secure: "QelTwGne26AX7B6ou2cx0ZCAS610wSMGju2QAmTcSbnbxCUE411UOGM1PJ2YgZOBGVYaDTWKxJpFPdwvOMGXGCTeU4dWSLEwiqqJ3jKKv7WWMaJOXN0UCe4ittFdUU99W6T2ATDYg4/66oc3tFNmCFfZZ/j6+jn58lTNcptsRPQ="
+  - GH_REF: github.com/pep-dortmund/towards-a-new-website.git
+  - secure: QelTwGne26AX7B6ou2cx0ZCAS610wSMGju2QAmTcSbnbxCUE411UOGM1PJ2YgZOBGVYaDTWKxJpFPdwvOMGXGCTeU4dWSLEwiqqJ3jKKv7WWMaJOXN0UCe4ittFdUU99W6T2ATDYg4/66oc3tFNmCFfZZ/j6+jn58lTNcptsRPQ=

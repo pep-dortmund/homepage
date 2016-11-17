@@ -9,7 +9,7 @@ See [Contributing](CONTRIBUTING.md) if you want to add things.
 In order to test the site at this point, simply run
 
 ```bash
-$ jekyll serve
+$ budle exec jekyll serve
 ```
 The website is then served at [localhost:4000](http://localhost:4000).
 Changes to the inputfiles are recognised and the website is build again,

@@ -19,7 +19,7 @@ layout: page-custom
       <span class="icon major fa-child accent2"></span>
       <h3>Komm vorbei</h3>
       <p>
-      Du findest uns im "neuen Gebäude" hier:
+      Du findest uns im "neuen Gebäude" hier:<br>
       Henning Moldenhauer <strong>CP-01-190</strong>,<br>
       Alex Birnkraut <strong>CP-03-108</strong>,<br>
       Vanessa Müller <strong>CP-03-107</strong>.

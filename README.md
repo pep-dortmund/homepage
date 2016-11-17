@@ -1,4 +1,4 @@
-towards-a-new-website [![Build Status](https://travis-ci.org/pep-dortmund/towards-a-new-website.svg?branch=master)](https://travis-ci.org/pep-dortmund/towards-a-new-website)
+homepage [![Build Status](https://travis-ci.org/pep-dortmund/homepage.svg?branch=master)](https://travis-ci.org/pep-dortmund/homepage)
 =====================
 
 Development repository for a new PeP et al. website.

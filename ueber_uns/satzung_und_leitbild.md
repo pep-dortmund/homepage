@@ -6,10 +6,18 @@ layout: page-custom
 <div class="box" markdown="1">
 ### Leitbild
 
-Wir sind die Plattform für generationsübergreifende Kommunikation und Zusammenarbeit aller der Dortmunder Physik verbundenen Gruppen: Absolventen, Studierende, Fakultät, Freunde und Förderer.
-Wir fördern Forschung, Lehre und Weiterbildung im Umfeld der Fakultät und den Austausch über die wissenschaftlichen-physikalische Forschung sowie über den Übergang zwischen Studium und Beruf und Karrierewege in Wirtschaft und Wissenschaft.
-Unsere Werte drücken sich aus in Transparenz, Gleichberechtigung und Überparteilichkeit.
-Wir bauen das Netzwerk zwischen den Alumni, den Studierenden und der Fakultät sowie zu Partnern in der Wirtschaft systematisch aus und wir entwickeln PeP et al. zu einem aktiven Alumni-Verein mit einer großen Zahl von Unterstützern und Förderern.
+Wir sind die Plattform für generationsübergreifende Kommunikation und
+Zusammenarbeit aller der Dortmunder Physik verbundenen Gruppen: Absolventen,
+Studierende, Fakultät, Freunde und Förderer.  
+Wir fördern Forschung, Lehre und Weiterbildung im Umfeld der Fakultät und den
+Austausch über die wissenschaftlichen-physikalische Forschung sowie über den
+Übergang zwischen Studium und Beruf und Karrierewege in Wirtschaft und
+Wissenschaft.  
+Unsere Werte drücken sich aus in Transparenz, Gleichberechtigung und
+Überparteilichkeit.  Wir bauen das Netzwerk zwischen den Alumni, den
+Studierenden und der Fakultät sowie zu Partnern in der Wirtschaft systematisch
+aus und wir entwickeln PeP et al. zu einem aktiven Alumni-Verein mit einer
+großen Zahl von Unterstützern und Förderern.  
 </div>
 
 <div class="box" markdown="1">

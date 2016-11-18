@@ -4,8 +4,10 @@ layout: page-custom
 <div class="box hyphenate">
   {% if page.image %}
   <span class="image featured">
-    <img src="{{ page.image | prepend:site.baseurl }}" alt="">
+    <img src="{{ site.baseurl | append: "/" }}{{ page.image }}" alt="">
   </span>
   {% endif %}
+  {{ "" | prepend: site.baseurl  }}
+  {{ site.baseurl | append: "/" }}
   {{ content }}
 </div>

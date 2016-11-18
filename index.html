@@ -11,7 +11,7 @@ landing: true
     <p>{{ special.special-subtitle }}</p>
   {% if special.special-action %}
     <ul class="actions">
-        <li><a href="{{ site.categories.special[0].url }}" class="button special">{{ site.categories.special[0].special-action }}</a></li>
+        <li><a href="{{ site.categories.special[0].url | prepend: site.baseurl }}" class="button special">{{ site.categories.special[0].special-action }}</a></li>
     </ul>
   {% endif %}
 </section>

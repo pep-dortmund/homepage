@@ -57,7 +57,7 @@ layout: page-custom
       <span class="icon major fa-question accent2"></span>
       <h3>Noch Fragen?</h3>
       <p>
-      Schreib' uns eine <a href="mailto:kontak@pep-dortmund.de">Email</a> oder ruf' uns an <br>
+      Schreib' uns eine <a href="mailto:kontakt@pep-dortmund.de">Email</a> oder ruf' uns an <br>
       Henning Moldenhauer <strong>0231/755-8817</strong>,<br>
       Alex Birnkraut <strong>0231/755-8876</strong>,<br>
       Vanessa Müller <strong>0231/755-8875</strong>.

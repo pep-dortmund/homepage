@@ -7,11 +7,13 @@ landing: true
 {% assign index = 0 %}
 
 <section id="banner" style="background-image: url('css/images/overlay.png'), url('images/feuerwerk.jpg')">
-    <h2>{{ special.special-title }}</h2>
-    <p>{{ special.special-subtitle }}</p>
+  <h2>{{ special.special-title }}</h2>
+  <p>{{ special.special-subtitle }}</p>
   {% if special.special-action %}
     <ul class="actions">
-        <li><a href="{{ site.categories.special[0].url }}" class="button special">{{ site.categories.special[0].special-action }}</a></li>
+      <li><a href="{{ site.categories.special[0].url }}" class="button special">
+          {{ site.categories.special[0].special-action }}
+      </a></li>
     </ul>
   {% endif %}
 </section>
@@ -21,27 +23,32 @@ landing: true
     <header class="major">
       <h2>PeP et al. e.V.</h2>
       <h4>Physikstudierende und ehemalige Physikstudierende der TU Dortmund</h4>
-      <p>Sieh dir an wofür wir stehen. Unser <a href="{{'ueber_uns/satzung_und_leitbild.html' }}">Leitbild.</a></p>
+      <p>
+        Sieh dir an wofür wir stehen.
+        Unser <a href="{{'ueber_uns/satzung_und_leitbild.html' }}">Leitbild.</a>
+      </p>
     </header>
   </section>
-  <div class="row">
-    {% for offset in (0..1) %}
-    <div class="6u 12u(narrower)">
+  {% for offset in (0..1) %}
+    <div class="row">
       {% assign off = offset|times:2 %}
       {% for post in site.categories["special"] limit:2 offset:off %}
-        <section class="box special post">
-          {% if post.image %}
-          <span class="image featured"><img src="{{ post.image }}" alt=""></span>
-          {% endif %}
-          <h3>{{ post.title }}</h3>
-          {{ post.content  }}
-          {% include post-footer.html post=post %}
-        </section>
+        <div class="6u 12u(narrower)">
+          <section class="box special post">
+            {% if post.image %}
+            <span class="image featured"><img src="{{ post.image }}" alt=""></span>
+            {% endif %}
+            <h3>{{ post.title }}</h3>
+            {{ post.content  }}
+            {% include post-footer.html post=post %}
+          </section>
+        </div>
       {% endfor %}
     </div>
-    {% endfor %}
-  </div>
-  <div align="center">
-    <a href="archive.html" class="button special">Alle Posts</a>
+  {% endfor %}
+  <div class="row">
+    <div align="center" style="width: 100%">
+      <a href="archive.html" class="button special">Alle Posts</a>
+    </div>
   </div>
 </section>

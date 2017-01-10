@@ -109,7 +109,7 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/thorben.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/thorben.jpg">
         </span>
       </div>
       <h4>Thorben Menne</h4>

@@ -10,7 +10,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/henning.jpg">
         </span>
       </div>
       <h4>Henning Moldenhauer</h4>
@@ -19,7 +19,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/alex.jpg">
         </span>
       </div>
       <h4>Alex Birnkraut</h4>
@@ -28,7 +28,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/vanessa.jpg">
         </span>
       </div>
       <h4>Vanessa Müller</h4>
@@ -43,7 +43,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/kevin.jpg">
         </span>
       </div>
       <h4>Kevin Heinicke</h4>
@@ -51,7 +51,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/max.jpg">
         </span>
       </div>
       <h4>Maximilian Nöthe</h4>
@@ -59,7 +59,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/sasha.jpg">
         </span>
       </div>
       <h4>Sascha Dungs</h4>
@@ -95,7 +95,7 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/marie.jpg">
         </span>
       </div>
       <h4>Marie Schmitz</h4>
@@ -109,7 +109,7 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/thorben.jpg">
         </span>
       </div>
       <h4>Thorben Menne</h4>
@@ -145,7 +145,7 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/timon.jpg">
         </span>
       </div>
       <h4>Timon Schmelzer</h4>
@@ -159,7 +159,7 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
+          <img alt="" src="{{ site.baseurl }}/images/vorstand/janine.jpg">
         </span>
       </div>
       <h4>Janine Müller</h4>

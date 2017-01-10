@@ -167,28 +167,6 @@ layout: page-custom
   </div>
 </div>
 
-<div class="box special">
-  <h3>Kassenprüfer</h3>
-  <div class="row no-collapse 50% uniform">
-    <div class="4u -2u">
-      <div class="6u -3u">
-        <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-        </span>
-      </div>
-      <h4>Florian Kruse</h4>
-    </div>
-    <div class="4u">
-      <div class="6u -3u">
-        <span class="image fit">
-          <img alt="" src="{{ site.baseurl }}/images/passbilddummy.jpg">
-        </span>
-      </div>
-      <h4>Daniel Weber</h4>
-    </div>
-  </div>
-</div>
-
 <div class="box" markdown="1">
 #### Chronik der geschäftsführenden Vorstände
 

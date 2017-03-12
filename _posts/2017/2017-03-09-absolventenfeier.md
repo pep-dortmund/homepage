@@ -12,8 +12,8 @@ wie in jedem Jahr organisiert von PeP et al.
 Im feierlichen Rahmen erhielten im AudiMax 65 Bachelor-, 53 Master- und 13 Promotionsabsolventen
 ihre Urkunden und Zeugnisse. 
 Musikalisch untermalt wurde die Veranstaltung in diesem Jahr vom PhysiChor.
-Außerdem wurde Arnd Behring mit dem Till-Moritz-Karbach-Preises für das Jahr 2016 ausgezeichnet.
-Ïm Anschluss an die Veranstaltung wurde im Foyer des AudiMax mit Sekt auf die erfolgreichen Abschlüsse 
+Außerdem wurde Arnd Behring mit dem Till-Moritz-Karbach-Preis für das Jahr 2016 ausgezeichnet.
+Im Anschluss an die Veranstaltung wurde im Foyer des AudiMax mit Sekt auf die erfolgreichen Abschlüsse 
 angestoßen und zu einer kleinen Stärkung geladen.
 
 Mit insgesamt über 500 Gästen, Eltern, Freunde und Professoren war dies eine der größten Absolventenfeiern.

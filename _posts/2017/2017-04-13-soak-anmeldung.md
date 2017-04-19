@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anmeldung zur Sommerakademie 2017
-categories: special veranstaltungen soak
+categories: special veranstaltungen sommerakademie
 author: Marie
 ---
 Sommer, Sonne, Berge und ganz viel Physik!

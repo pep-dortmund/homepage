@@ -7,7 +7,7 @@ author: Timon
 ---
 Wir freuen uns sehr, dass sich in den letzten Wochen bereits über 20 Studierende und Alumni 
 für die diesjährige Sommerakademie angemeldet haben. Die Organisation zum Oberthema 
-"Der Klimawandel" läuft bereits auf Hochtouren und halten sicher auch dieses Jahr die 
+"Der Klimawandel" läuft bereits auf Hochtouren und hält sicher auch dieses Jahr die 
 ein oder andere Überraschung für euch bereit... Stay tuned :)
 
 Willst du auch eine Woche im August mit uns im österreichischen Tschagguns verbringen? 

@@ -10,7 +10,7 @@ Wir sind die Plattform für generationsübergreifende Kommunikation und
 Zusammenarbeit aller der Dortmunder Physik verbundenen Gruppen: Absolventen,
 Studierende, Fakultät, Freunde und Förderer.  
 Wir fördern Forschung, Lehre und Weiterbildung im Umfeld der Fakultät und den
-Austausch über die wissenschaftlichen-physikalische Forschung sowie über den
+Austausch über die wissenschaftlich-physikalische Forschung sowie über den
 Übergang zwischen Studium und Beruf und Karrierewege in Wirtschaft und
 Wissenschaft.  
 Unsere Werte drücken sich aus in Transparenz, Gleichberechtigung und

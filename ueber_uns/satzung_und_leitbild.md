@@ -22,7 +22,7 @@ großen Zahl von Unterstützern und Förderern.
 
 <div class="box" markdown="1">
 ### Satzung
-[Satzung als pdf Dokument herunterladen]({{site.baseurl}}/dokumente/pep_satzung.pdf)
+[Satzung als pdf Dokument herunterladen](dokumente/pep_satzung.pdf)
 
 #### §1 Name, Sitz und Geschäftsjahr
 (1) Der Verein führt den Namen „Physikstudierende und ehemalige Physikstudierende der Technischen Universität Dortmund et al.“, im folgenden „PeP et al.“ genannt. Er ist beim Amtsgericht Dortmund eingetragen. Mit der Eintragung erhält der Verein den Zusatz „e.V.“.

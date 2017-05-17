@@ -2,7 +2,6 @@
 layout: post
 title: DOPPLERS 2017
 categories: special veranstaltungen
-image: 
 author: Vanessa
 ---
 

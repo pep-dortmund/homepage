@@ -8,7 +8,8 @@ then
 	# first add remote host to known hosts
 	ssh-keyscan -t rsa $DEPLOY_HOST 2> /dev/null | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts
 	# decrypt private shh key
-	openssl aes-256-cbc -K $encrypted_4649eefbbfcb_key -iv $encrypted_4649eefbbfcb_iv -in deploy_key.enc -out deploy_key -d
+	openssl aes-256-cbc -K $encrypted_2adf16dc08ac_key -iv $encrypted_2adf16dc08ac_iv -in deploy_key.enc -out deploy_key -d
+
 	# start ssh-agent and add the key
 	eval "$(ssh-agent -s)"
 	chmod 600 deploy_key
@@ -18,7 +19,7 @@ then
 	# compile the website
 	bundle exec jekyll build -d ~/out --config _uberspace_config.yml
 	# upload site
-	rsync -rq ~/out/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH
+	rsync -rq --delete --exclude=".*" ~/out/ $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH
 else
 	echo "NOT ON MASTER BRANCH, WILL NOT DEPLOY SITE"
 fi

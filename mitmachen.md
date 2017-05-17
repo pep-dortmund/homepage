@@ -5,13 +5,25 @@ layout: page-custom
 ---
 <section class="box special features">
   <div class="features-row">
+    <section style="width: 100%; padding-right: 0px;">
+      <span class="icon major fa fa-paper-plane accent2"></span>
+      <h3>Werde Mitglied</h3>
+      <p>
+      Fülle einfach das <a target="_blank"
+      href="dokumente/pep_mitgliedsantrag.pdf">Mitgliederformular</a> aus und
+      lasse es uns zukommen.  Auf dieser Seite findest du außerdem noch viele
+      andere Wege um in Kontakt zu treten.
+      </p>
+    </section>
+  </div>
+  <div class="features-row">
     <section>
       <span class="icon major fa-envelope accent2"></span>
       <h3>Email-Verteiler</h3>
       <p>
       Schreib' einfach eine leere
       <a href="mailto:pep-alumni-tu-dortmund-aktive+subscribe@googlegroups.com">Email</a>
-      Antworte auf die kommende Mail. Wenn du schon einen Google-Account hast, dann
+      und antworte auf die darauffolgende Mail. Wenn du schon einen Google-Account hast, dann
       kannst du auch direkt die Gruppen-Seite besuchen.
       </p>
     </section>

@@ -5,7 +5,7 @@ absolventenfeier:
 
 special:
     icon: flag-o
-    url: archive.html
+    url: archive/index.html
     jump-to-id: true
 
 bachelorkolloquium:

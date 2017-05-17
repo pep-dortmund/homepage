@@ -59,5 +59,6 @@ veranstaltungen:
     icon: calendar-o
     url: vereinsleben/veranstaltungen.html
 
-praktikumsbörse:
+praktikumsboerse:
     icon: arrows-h
+    url: praktikumsboerse.html

@@ -14,7 +14,7 @@ github_url: http://github.com/pep-dortmund/
 facebook_url: https://www.facebook.com/groups/pep.dortmund/
 xing_url: https://www.xing.com/communities/groups/pep-et-al-b621-1029339
 katex:
-    path_to_js: "./assets/js/katex.min.js"
+    path_to_js: "assets/js/katex.min.js"
 
 # Build settings
 markdown: kramdown

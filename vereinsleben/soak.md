@@ -8,4 +8,4 @@ Jedes Jahr im Sommer veranstalten wir eine Sommerakademie in den österreichisch
 
 Neben Vorträgen zu konkreten Forschungsprojekten, Erfahrungsberichten von Physikerinnen und Physikern und Workshops zu physikalischen und fachfremden Themen, bieten die umliegenden Berge und die Natur die Möglichkeit für ein abwechslungsreiches Freizeitprogramm.
 
-Das Anmeldeformular zum Download gibt es [hier](dokumente/soak17_anmeldung.pdf).
+Das Anmeldeformular als Download gibt es [hier](dokumente/soak17_anmeldung.pdf).

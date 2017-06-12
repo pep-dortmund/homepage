@@ -84,7 +84,7 @@ layout: page-custom
           <img alt="" src="images/passbilddummy.jpg">
         </span>
       </div>
-      <h4>Birgit Brambach</h4>
+      <h4>Thorben Menne</h4>
     </div>
   </div>
 </div>
@@ -92,13 +92,21 @@ layout: page-custom
 <div class="box special">
   <h3>Fortbildungsprojekte</h3>
   <div class="row no-collapse 50% uniform">
-    <div class="4u -4u">
+    <div class="4u -2u">
       <div class="6u -3u">
         <span class="image fit">
           <img alt="" src="images/vorstand/marie.jpg">
         </span>
       </div>
       <h4>Marie Schmitz</h4>
+    </div>
+    <div class="4u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Steven Becker</h4>
     </div>
   </div>
 </div>
@@ -109,10 +117,10 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="images/vorstand/thorben.jpg">
+          <img alt="" src="images/passbilddummy.jpg">
         </span>
       </div>
-      <h4>Thorben Menne</h4>
+      <h4>Christophe Cauet</h4>
     </div>
   </div>
 </div>
@@ -126,7 +134,7 @@ layout: page-custom
           <img alt="" src="images/passbilddummy.jpg">
         </span>
       </div>
-      <h4>Christophe Cauet</h4>
+      <h4>Tobias Brambach</h4>
     </div>
     <div class="4u">
       <div class="6u -3u">
@@ -134,7 +142,7 @@ layout: page-custom
           <img alt="" src="images/passbilddummy.jpg">
         </span>
       </div>
-      <h4>Tobias Brambach</h4>
+      <h4>Janine Müller</h4>
     </div>
   </div>
 </div>
@@ -153,18 +161,10 @@ layout: page-custom
   </div>
 </div>
 
-<div class="box special">
-  <h3>Organisation der Winterakademie</h3>
-  <div class="row no-collapse 50% uniform">
-    <div class="4u -4u">
-      <div class="6u -3u">
-        <span class="image fit">
-          <img alt="" src="images/vorstand/janine.jpg">
-        </span>
-      </div>
-      <h4>Janine Müller</h4>
-    </div>
-  </div>
+<div class="box" markdown="1">
+#### Kassenprüfer
+
+Die gewählten Kassenprüfer des Vereins sind Florian Kruse und Daniel Weber.
 </div>
 
 <div class="box" markdown="1">
@@ -179,4 +179,9 @@ layout: page-custom
   + Erster Vorsitzender: Christophe Cauet
   + Zweiter Vorsitzender: Julian Wishahi
   + Finanzreferent: Tobias Brambach
+
+- seit 2015:
+  + Erster Vorsitzender: Henning Moldenhauer
+  + Zweiter Vorsitzender: Alex Birnkraut
+  + Finanzreferentin: Vanessa Müller
 </div>

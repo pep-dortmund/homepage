@@ -10,3 +10,4 @@ cabal-dev
 _site/
 Gemfile.lock
 .bundle
+vendor

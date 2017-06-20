@@ -10,14 +10,14 @@ See [Contributing](CONTRIBUTING.md) if you want to add things.
 ### Ubuntu
 
 ```
-$ sudo apt install ruby-dev nodejs-legacy
+$ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev
 $ sudo gem install bundler
 ```
 
 ### ArchLinux
 
 ```
-$ sudo pacman -S ruby nodejs
+$ sudo pacman -S ruby nodejs libxml2 libxlst
 $ sudo gem install bundler
 ```
 

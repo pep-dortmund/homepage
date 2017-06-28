@@ -24,8 +24,8 @@
   submenu:
       - title: Satzung &#38; Leitbild
         link: satzung_und_leitbild.html
-      - title: Vorstand
-        link: vorstand.html
+      - title: Vereinsgremien
+        link: gremien.html
       - title: Mitgliederversammlungen
         link: protokolle.html
       - title: Jahresberichte

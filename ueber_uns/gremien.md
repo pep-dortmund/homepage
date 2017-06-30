@@ -1,6 +1,6 @@
 ---
-title: Der Vorstand
-subtitle: Der Vorstand des Vereins wird einmal im Jahr von der Mitgliederversammlung gewählt. Er besteht aus einem geschäftsführenden und darüber hinaus aus einem erweiterten Vorstand.
+title: Vereinsgremien
+subtitle: Der Vorstand des Vereins wird einmal im Jahr von der Mitgliederversammlung gewählt. Er besteht aus einem geschäftsführenden und darüber hinaus aus einem erweiterten Vorstand. Die ebenfalls von der Mitgliederversammlung gewählten Kassenprüfer stellen die ordnungsgemäße Buchführung der Vereinsfinanzen sicher.
 layout: page-custom
 ---
 
@@ -161,10 +161,13 @@ layout: page-custom
   </div>
 </div>
 
-<div class="box" markdown="1">
-#### Kassenprüfer
-
-Die gewählten Kassenprüfer des Vereins sind Florian Kruse und Daniel Weber.
+<div class="box special">
+  <h3>Kassenprüfer</h3>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u -4u">
+      Die gewählten Kassenprüfer des Vereins sind <strong>Florian Kruse</strong> und <strong>Daniel Weber</strong>.
+    </div>
+  </div>
 </div>
 
 <div class="box" markdown="1">

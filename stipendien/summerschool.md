@@ -1,16 +1,18 @@
 ---
 title: Summer Schools
-subtitle: Hier gibt es Informationen zu unserem Stipendienangebot.
+subtitle: Hier gibt es Informationen zu unseren Auslandsprogrammen.
 layout: page-custom
 ---
 <div class="box" markdown="1">
 ### Summer School Purdue
 
-#### Summer School, was soll das sein?
-Die Summer School ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von Andreas Jung.
-In den drei Monaten der Summer School wirst du Teil von Jungs Team an der Purdue University, West Lafayette
+#### Summer School Purdue, was soll das sein?
+Die Summer School Purdue ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
+[Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php).
+In den drei Monaten der Summer School wirst du Teil von Jungs Team an der
+[Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
 in den USA. Dort wirst du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt.  Neben neuen
-Bereichen der Physik lernst du auch das amerikanische Leben kenn    en. Der Vorteil der Summer School ist,
+Bereichen der Physik lernst du auch das amerikanische Leben kennen. Der Vorteil der Summer School ist,
 dass es als Stipendium ausgeschrieben wird, das heißt alle anfallenden Kosten werden übernommen.
  
 #### Purdue? Was ist das für eine Uni?

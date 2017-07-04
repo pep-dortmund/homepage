@@ -16,6 +16,9 @@ Bereichen der Physik lernst du auch das amerikanische Leben kennen. Der Vorteil 
 dass es als Stipendium ausgeschrieben wird, das heißt alle anfallenden Kosten werden übernommen.
  
 #### Purdue? Was ist das für eine Uni?
+Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
+Iniana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
+Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
  
 #### Wann findet die Summer School statt?
 Die Summer School findet vom 15.05.2018-15.08.2018 statt.
@@ -23,7 +26,7 @@ Die Summer School findet vom 15.05.2018-15.08.2018 statt.
 #### Wie und wo lebt man während des Aufenthalts?
  
 #### Wie viele Studenten können an der Summer School teilnehmen?
-Das Summer School Stipendium erhalten zwei Studenten.
+Das Summer School Stipendium können maximal zwei Studenten pro Jahr erhalten.
  
 #### Mit welchem Themengebiet beschäftigst du dich?
 Die Summer School findet im Bereich der Hochenergiephysik statt.

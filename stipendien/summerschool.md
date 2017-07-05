@@ -17,7 +17,7 @@ dass es als Stipendium ausgeschrieben wird, das heißt alle anfallenden Kosten w
  
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
-Iniana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
+Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
 Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
  
 #### Wann findet die Summer School statt?

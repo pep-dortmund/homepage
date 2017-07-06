@@ -18,7 +18,9 @@ dass es als Stipendium ausgeschrieben wird, das heißt alle anfallenden Kosten w
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
 Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
-Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
+Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreuen.
+Ein interessanter Sidefact über Purdue ist, dass 30% (ZAHL ÜBERPRÜFEN) der Absolventen Astronauten werden.
+Der erste und letzte Mensch auf dem Mond waren beide Purdue Absolventen.
  
 #### Wann findet die Summer School statt?
 Die Summer School findet vom 15.05.2018-15.08.2018 statt.

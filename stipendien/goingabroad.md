@@ -19,13 +19,20 @@ dass es als Stipendium ausgeschrieben wird, das heißt alle anfallenden Kosten w
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
 Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
 Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreuen.
-Ein interessanter Sidefact über Purdue ist, dass 30% (ZAHL ÜBERPRÜFEN) der Absolventen Astronauten werden.
-Der erste und letzte Mensch auf dem Mond waren beide Purdue Absolventen.
+Ein interessanter Sidefact über Purdue ist, dass der erste und letzte Mensch auf dem Mond Purdue Absolventen sind.
 
 #### Wann findet das Auslandsprogramm statt?
 Das Auslandsprogramm findet vom 15.05.2018-15.08.2018 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
+
+Während deines Forschungsaufenthalt lebst du im Studentenwohnheim der Universität.
+Dort ist ein Bett in einem Doppelzimmer für dich reserviert. 
+Du wohnst also mit einem anderen Studenten zusammen.
+
+In der Woche arbeitest du etwa 8 Stunden am Tag.
+Arbeitet du gerade mal nicht, so bietet dir die Uni eigene Mensa eine Möglichkeit 
+was zu essen oder (HIER noch das Freizeitzentrum erwähnen) 
 
 #### Wie viele Studenten können an dem Programm teilnehmen?
 Das Stipendium können maximal zwei Studenten pro Jahr erhalten.
@@ -68,6 +75,13 @@ zu schreiben. Als deutscher Professor steht dir Prof. Dr. Spaan zur Seite.
 #### Was ist alles in dem Stipendium enthalten?
 Das Stipendium deckt folgende Dinge ab:
 
+- Hin- und Rückreise
+- Unterkunft
+- Kosten für das Vissum 
+- Krankenversicherung ??
+- Einahmen
+- monatliches Taschengeld
+
 #### Wie läuft die Bewerbung ab?
 Um an dem Auslandsprogramm teilnehmen zu dürfen solltest du dich aktuell
 im vierten Semester befinden.
@@ -89,4 +103,10 @@ In deiner Bewerbung sollten außerdem folgende Dokumente hinzugefügt werden:
 Eine Bewerbung kann bis zum Hier noch Datum einfügen eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studenten werden zu einem Bewerbungsgespräch eingeladen.
 Innerhalb eines Monats nach Ender der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
+
+### Noch Fragen?
+Schreib uns einfach eine Email (HIER NOCH EMAIL EINFÜGEN). Alternativ kannst du auch in das Büro (CP-01-190) von Henning Moldenhauer kommen. 
+
 </div>
+
+  

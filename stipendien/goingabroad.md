@@ -9,43 +9,47 @@ layout: page-custom
 #### Purdue, was soll das sein?
 Die Going Abroad Purdue ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
 [Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php).
-In den drei Monaten des Auslandsprogramms wirst du Teil von Jungs Team an der
+In den drei Monaten des Auslandsprogramms wirst Du Teil von Jungs Team an der
 [Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
-in den USA. Dort wirst du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt.  Neben neuen
-Bereichen der Physik lernst du auch das amerikanische Leben kennen. Der Vorteil des Programms ist,
-dass es als Stipendium ausgeschrieben wird, das heißt alle anfallenden Kosten werden übernommen.
+in den USA. Dort wirst Du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt. Neben neuen
+Bereichen der Physik hast Du auch die Chance das amerikanische Leben kennenzulernen. Der Vorteil des Programms ist,
+dass es als Stipendium ausgeschrieben wird das heißt, alle anfallenden Kosten werden übernommen.
 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
 Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
 Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreuen.
-Ein interessanter Sidefact über Purdue ist, dass der erste und letzte Mensch auf dem Mond Purdue Absolventen sind.
+Ein interessanter Siedefact über Purdue ist, dass der erste und letzte Mensch auf dem Mond Purdue Absolventen sind.
 
 #### Wann findet das Auslandsprogramm statt?
 Das Auslandsprogramm findet vom 15.05.2018-15.08.2018 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
 
-Während deines Forschungsaufenthalt lebst du im Studentenwohnheim der Universität.
-Dort ist ein Bett in einem Doppelzimmer für dich reserviert. 
+Während deines Forschungsaufenthaltes lebst Du im Studentenwohnheim der Universität.
+Dort ist ein Bett in einem Doppelzimmer für Dich reserviert. 
 Du wohnst also mit einem anderen Studenten zusammen.
 
-In der Woche arbeitest du etwa 8 Stunden am Tag.
-Arbeitet du gerade mal nicht, so bietet dir die Uni eigene Mensa eine Möglichkeit 
-was zu essen oder (HIER noch das Freizeitzentrum erwähnen) 
+In der Woche arbeitest Du etwa 8 Stunden pro Tag.
+Arbeitet Du gerade mal nicht, so bietet Dir die Uni eigene Mensa eine Möglichkeit 
+was zu essen oder (HIER noch das Freizeitzentrum erwähnen)...
+In der freien Zeit am Wochenende würde sich ein Trip in die Metropole Chicago oder
+eine Wanderung entlang des Lake Michigan anbieten. 
 
-#### Wie viele Studenten können an dem Programm teilnehmen?
-Das Stipendium können maximal zwei Studenten pro Jahr erhalten.
+Nach deinem Forschungsaufenthalt in Purdue dürftest Du noch maximal 4 Wochen (Bitte checken) in den USA bleiben. 
+In dieser Zeit steht es dir frei, dass Land auf eigene Kosten zu erkunden. Unter Absprache mit den Förderern gibt es prinzipiell 
+die Möglichkeit, dass Du Dir den Ort des Rückflugs selbst aussuchen kannst. 
 
-#### Mit welchem Themengebiet beschäftigst du dich?
+#### Mit welchem Themengebiet beschäftigst Du dich?
 Das Programm findet im Bereich der Hochenergiephysik statt.
 
-Im wesentlichen beschäftigst du dich in einem dieser Themenbereiche:
+Im Wesentlichen beschäftigst Du Dich dann mit diesem Themenbereich:
 
 "High energy physics summer research projects for UG students at Purdue University are in the context
 of the analysis of the data recorded with the Compact Muon Solenoid (CMS) detector at the LHC. We are
 also deeply involved in the R&D for a new silicon pixel detector, which is currently developed for the
 high-luminosity upgrade of the LHC (HL-LHC).
+
 The Purdue group is involved in the measurement of the top quark coupling to the Higgs boson
 (Yukawa coupling) and in high precision measurements of top quark properties. Summer research projects
 for UG students will be tied to the group’s data analysis efforts. The Higgs boson gives mass to all
@@ -55,6 +59,7 @@ instable vacuum state. Together with the precision measurement of top quark prop
 point to beyond the standard model contributions, which is what all particle physicists are searching
 for since decades. The data analysis heavily relies on methods that include topological multi-variate
 analysis, regularized matrix unfolding and complementary profiling techniques.
+
 There is also the opportunity to contribute in the R&D for the high-luminosity upgrade of the CMS
 detector following the HL-LHC upgrade to provide unprecedented instantaneous luminosities at a hadron
 collider. The Purdue Silicon Detector Laboratory (PSDL) is an in-house facility providing 2 large clean
@@ -66,46 +71,51 @@ face sheets and mock-up silicon pixel modules. These silicon detector prototypes
 thermal performance under the same conditions as later in the CMS detector. We use the existing PSDL
 capabilities for the mechanical and thermal studies, which include a curing oven and a cold box setup
 for thermal studies employing liquid CO2 coolant."
-Weitere Informationen zu Jung und seinem Team erhältst du [hier](http://www.physics.purdue.edu/~jung196/index.html)
+
+Weitere Informationen zu Jung und seinem Team erhältst Du [hier](http://www.physics.purdue.edu/~jung196/index.html)
 
 #### Kann ich den Aufenthalt mit meiner Bachelorarbeit verbinden?
-Mit der Teilnahme an dem Auslandsprogramm verpflichtest du dich deine Bachelorarbeit an der Purdue Universität
-zu schreiben. Als deutscher Professor steht dir Prof. Dr. Spaan zur Seite.
+Mit der Teilnahme an dem Auslandsprogramm verpflichtest Du dich deine Bachelorarbeit an der Purdue Universität
+zu schreiben. Als deutscher Professor steht Dir Prof. Dr. Spaan zur Seite.
+
+#### Wie viele Studenten können an dem Programm teilnehmen?
+Das Stipendium können maximal zwei Studenten pro Jahr erhalten.
 
 #### Was ist alles in dem Stipendium enthalten?
 Das Stipendium deckt folgende Dinge ab:
 
 - Hin- und Rückreise
 - Unterkunft
-- Kosten für das Vissum 
+- Kosten für das Visum 
 - Krankenversicherung ??
 - Einahmen
 - monatliches Taschengeld
 
 #### Wie läuft die Bewerbung ab?
-Um an dem Auslandsprogramm teilnehmen zu dürfen solltest du dich aktuell
+Um an dem Auslandsprogramm teilnehmen zu dürfen solltest Du Dich aktuell
 im vierten Semester befinden.
-Des Weiteren unterliegen dem  Stipendium diese weitere Voraussetzungen:
+Des Weiteren unterliegen dem Stipendium diese weitere Voraussetzungen:
+
 - Noch kein Bachelor Abschluss bis zum 15.08.2018
 - Angemessene Englischkenntnisse
 - exzellente Studienleistungen
-- soziales/gesellschaftliches ehrenamtliches Engagement, z.B. Leiten einer Sportmannschaft, Gestalten
+- soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten
 von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
-- Engagement innerhalb der Fakultät, z.B. Fachschaftsarbeit, Mitwirkung bei Schüleruni, etc.
+- Engagement innerhalb der Fakultät, z. B. Fachschaftsarbeit, Mitwirkung bei Schüleruni, etc.
 
-Um dich zu Bewerben sende eine Email an (hier noch die Email einfügen).
-In deiner Bewerbung sollten außerdem folgende Dokumente hinzugefügt werden:
+Um Dich zu bsewerben sende eine E-mail an (hier noch die E-mail einfügen).
+In Deiner Bewerbung sollten außerdem folgende Dokumente hinzugefügt werden:
 
-- Motivationsschreiben, warum du an dem Programm teilnehmen solltest
+- Motivationsschreiben, warum Du an dem Programm teilnehmen solltest
 - Lebenslauf
 - Nachweis für das Engagement in den oben genannten Feldern
 
 Eine Bewerbung kann bis zum Hier noch Datum einfügen eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studenten werden zu einem Bewerbungsgespräch eingeladen.
-Innerhalb eines Monats nach Ender der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
+Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
 
 ### Noch Fragen?
-Schreib uns einfach eine Email (HIER NOCH EMAIL EINFÜGEN). Alternativ kannst du auch in das Büro (CP-01-190) von Henning Moldenhauer kommen. 
+Schreib uns einfach eine E-Mail (HIER NOCH -EMAIL EINFÜGEN). Alternative schau bei Henning Moldenhauer im Büro CP-01-190 vorbei.
 
 </div>
 

@@ -12,7 +12,7 @@ Going Abroad Purdue ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeit
 In den drei Monaten des Auslandsprogramms wirst Du Teil Jungs Team an der
 [Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
 in den USA. Dort wirst Du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt sein. Neben neuen
-Bereichen der Physik hast Du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendum angeboten, das heißt alle anfallenden Kosten werden übernommen.
+Bereichen der Physik hast Du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendium angeboten, das heißt alle anfallenden Kosten werden übernommen.
 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
@@ -29,13 +29,12 @@ Während deines Forschungsaufenthaltes lebst Du im Studentenwohnheim der Univers
 Dort ist ein Bett in einem Doppelzimmer für Dich reserviert. 
 Du wohnst also mit einem anderen Studenten zusammen.
 
-In der Woche arbeitest Du etwa 8 Stunden pro Tag.
-Arbeitet Du gerade mal nicht, so bietet Dir die Uni eigene Mensa eine Möglichkeit 
-was zu essen oder (HIER noch das Freizeitzentrum erwähnen)...
-In der freien Zeit am Wochenende würde sich ein Trip in die Metropole Chicago oder
-eine Wanderung entlang des Lake Michigan anbieten. 
 
-Nach deinem Forschungsaufenthalt hast du die Möglichkeit weitere 4 Wochen (Bitte Checken) in den USA zu verbringen.
+Während deines Forschungsaufenthalts arbeitest du in etwa 8 Stunden pro Tag.
+Neben der Arbeit kannst du in der Uni eigene Mensa essen oder im kostenfreien Freizeitzentrum der Uni entspannen.
+Am Wochenende kannst du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
+
+Nach deinem Forschungsprojekt hast du die Möglichkeit weitere 4 Wochen in den USA zu verbringen.
 In dieser Zeit steht es dir frei das Land auf eigene Kosten zu erkunden. Unter Absprache mit den Förderern kannst Du Dir den Ort des Rückflugs selbst aussuchen.
 
 #### Mit welchem Themengebiet beschäftigst Du dich?
@@ -77,7 +76,7 @@ Mit der Teilnahme an dem Auslandsprogramm verpflichtest Du dich deine Bachelorar
 zu schreiben. Als deutscher Professor steht Dir Prof. Dr. Spaan zur Seite.
 
 #### Wie viele Studenten können an dem Programm teilnehmen?
-Das Stipendium können maximal zwei Studenten pro Jahr erhalten.
+Zwei Stundenten erhalten pro Jahr die Chance am Programm teilzunehmen.
 
 #### Was ist alles in dem Stipendium enthalten?
 Das Stipendium deckt folgende Dinge ab:
@@ -85,14 +84,14 @@ Das Stipendium deckt folgende Dinge ab:
 - Hin- und Rückreise
 - Unterkunft
 - Kosten für das Visum 
-- Krankenversicherung ??
+- Krankenversicherung 
 - Einahmen
 - monatliches Taschengeld
 
 #### Wie läuft die Bewerbung ab?
 Um an dem Auslandsprogramm teilnehmen zu dürfen solltest Du Dich aktuell
 im vierten Semester befinden.
-Des Weiteren unterliegen dem Stipendium diese weitere Voraussetzungen:
+Des Weiteren unterliegen dem Stipendium diese Voraussetzungen:
 
 - Noch kein Bachelor Abschluss bis zum 15.08.2018
 - Angemessene Englischkenntnisse
@@ -101,16 +100,18 @@ Des Weiteren unterliegen dem Stipendium diese weitere Voraussetzungen:
 von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
 - Engagement innerhalb der Fakultät, z. B. Fachschaftsarbeit, Mitwirkung bei Schüleruni, etc.
 
-Um Dich zu bsewerben sende eine E-mail an (hier noch die E-mail einfügen).
-In Deiner Bewerbung sollten außerdem folgende Dokumente hinzugefügt werden:
+In Deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 
 - Motivationsschreiben, warum Du an dem Programm teilnehmen solltest
 - Lebenslauf
 - Nachweis für das Engagement in den oben genannten Feldern
+- offizieller Notenspiegel 
 
-Eine Bewerbung kann bis zum Hier noch Datum einfügen eingereicht werden. Die auf Grund des Bewerbungsschreibens
-ausgewählten Studenten werden zu einem Bewerbungsgespräch eingeladen.
+Um Dich zu bewerben sende eine E-mail [an](mailto:goingabroad@pep-dortmund.org).
+Eine Bewerbung kann bis zum *30.09.2017* eingereicht werden. Die auf Grund des Bewerbungsschreibens
+ausgewählten Studenten können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
+Die ausgewählten Studenten werden dann benachrichtigt. 
 
 ### Noch Fragen?
 Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org). Alternative schau bei Henning Moldenhauer im Büro CP-01-190 vorbei.

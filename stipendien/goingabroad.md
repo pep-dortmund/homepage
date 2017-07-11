@@ -113,7 +113,7 @@ ausgewählten Studenten werden zu einem Bewerbungsgespräch eingeladen.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
 
 ### Noch Fragen?
-Schreib uns einfach eine E-Mail (HIER NOCH -EMAIL EINFÜGEN). Alternative schau bei Henning Moldenhauer im Büro CP-01-190 vorbei.
+Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org). Alternative schau bei Henning Moldenhauer im Büro CP-01-190 vorbei.
 
 </div>
 

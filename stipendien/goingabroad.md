@@ -6,23 +6,22 @@ layout: page-custom
 <div class="box" markdown="1">
 ### Going Abroad Purdue
 
-#### Purdue, was soll das sein?
-Die Going Abroad Purdue ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
+#### Going Abroad Purdue, was soll das sein?
+Going Abroad Purdue ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
 [Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php).
-In den drei Monaten des Auslandsprogramms wirst Du Teil von Jungs Team an der
+In den drei Monaten des Auslandsprogramms wirst Du Teil Jungs Team an der
 [Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
-in den USA. Dort wirst Du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt. Neben neuen
-Bereichen der Physik hast Du auch die Chance das amerikanische Leben kennenzulernen. Der Vorteil des Programms ist,
-dass es als Stipendium ausgeschrieben wird das heißt, alle anfallenden Kosten werden übernommen.
+in den USA. Dort wirst Du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt sein. Neben neuen
+Bereichen der Physik hast Du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendum angeboten, das heißt alle anfallenden Kosten werden übernommen.
 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
 Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
-Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreuen.
-Ein interessanter Siedefact über Purdue ist, dass der erste und letzte Mensch auf dem Mond Purdue Absolventen sind.
+Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
+Übrigens, der erste und letzte Mensch auf dem Mond sind Purdue Absolventen.
 
 #### Wann findet das Auslandsprogramm statt?
-Das Auslandsprogramm findet vom 15.05.2018-15.08.2018 statt.
+Das Auslandsprogramm findet vom 15.05.2018 bis zum 15.08.2018 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
 
@@ -36,9 +35,8 @@ was zu essen oder (HIER noch das Freizeitzentrum erwähnen)...
 In der freien Zeit am Wochenende würde sich ein Trip in die Metropole Chicago oder
 eine Wanderung entlang des Lake Michigan anbieten. 
 
-Nach deinem Forschungsaufenthalt in Purdue dürftest Du noch maximal 4 Wochen (Bitte checken) in den USA bleiben. 
-In dieser Zeit steht es dir frei, dass Land auf eigene Kosten zu erkunden. Unter Absprache mit den Förderern gibt es prinzipiell 
-die Möglichkeit, dass Du Dir den Ort des Rückflugs selbst aussuchen kannst. 
+Nach deinem Forschungsaufenthalt hast du die Möglichkeit weitere 4 Wochen (Bitte Checken) in den USA zu verbringen.
+In dieser Zeit steht es dir frei das Land auf eigene Kosten zu erkunden. Unter Absprache mit den Förderern kannst Du Dir den Ort des Rückflugs selbst aussuchen.
 
 #### Mit welchem Themengebiet beschäftigst Du dich?
 Das Programm findet im Bereich der Hochenergiephysik statt.

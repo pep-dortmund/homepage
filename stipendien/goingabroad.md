@@ -32,7 +32,7 @@ Während Deines Forschungsaufenthalts arbeitest Du in etwa 8 Stunden pro Tag.
 Neben der Arbeit kannst Du in der Uni eigenen Mensa essen oder im kostenfreien Freizeitzentrum der Uni entspannen.
 Am Wochenende kannst Du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
 
-Nach Deinem Forschungsprojekt hast Du die Möglichkeit weitere 4 Wochen in den USA zu verbringen.
+Nach Deinem Forschungsprojekt hast Du die Möglichkeit weitere 30 Tage in den USA zu verbringen.
 In dieser Zeit steht es Dir frei das Land auf eigene Kosten zu erkunden.
 Unter Absprache mit den Förderern kannst Du Dir den Ort des Rückflugs selbst aussuchen.
 

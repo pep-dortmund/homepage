@@ -42,8 +42,8 @@
 - title: Stipendien
   directory: stipendien
   submenu:
-      - title: Summer School
-        link: summerschool.html
+      - title: Going Abroad
+        link: goingabroad.html
       - title: Deutschlandstipendien
         link: deutschland.html
       - title: Initiativstipendien

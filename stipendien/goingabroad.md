@@ -9,10 +9,10 @@ layout: page-custom
 #### Going Abroad Purdue, was soll das sein?
 Going Abroad Purdue ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
 [Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php).
-In den drei Monaten des Auslandsprogramms wirst Du Teil Jungs Team an der
+In den drei Monaten des Auslandsprogramms wirst Du Teil von Jungs Team an der
 [Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
 in den USA. Dort wirst Du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt sein. Neben neuen
-Bereichen der Physik hast Du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendium angeboten, das heißt alle anfallenden Kosten werden übernommen.
+Bereichen der Physik hast Du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendium angeboten, das heißt ein Großteil der anfallenden Kosten wird übernommen.
 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
@@ -24,18 +24,17 @@ Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.
 Das Auslandsprogramm findet vom 15.05.2018 bis zum 15.08.2018 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
-
-Während deines Forschungsaufenthaltes lebst Du im Studentenwohnheim der Universität.
+Während Deines Forschungsaufenthaltes lebst Du im Studentenwohnheim der Universität.
 Dort ist ein Bett in einem Doppelzimmer für Dich reserviert. 
 Du wohnst also mit einem anderen Studenten zusammen.
 
+Während Deines Forschungsaufenthalts arbeitest Du in etwa 8 Stunden pro Tag.
+Neben der Arbeit kannst Du in der Uni eigenen Mensa essen oder im kostenfreien Freizeitzentrum der Uni entspannen.
+Am Wochenende kannst Du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
 
-Während deines Forschungsaufenthalts arbeitest du in etwa 8 Stunden pro Tag.
-Neben der Arbeit kannst du in der Uni eigene Mensa essen oder im kostenfreien Freizeitzentrum der Uni entspannen.
-Am Wochenende kannst du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
-
-Nach deinem Forschungsprojekt hast du die Möglichkeit weitere 4 Wochen in den USA zu verbringen.
-In dieser Zeit steht es dir frei das Land auf eigene Kosten zu erkunden. Unter Absprache mit den Förderern kannst Du Dir den Ort des Rückflugs selbst aussuchen.
+Nach Deinem Forschungsprojekt hast Du die Möglichkeit weitere 4 Wochen in den USA zu verbringen.
+In dieser Zeit steht es Dir frei das Land auf eigene Kosten zu erkunden.
+Unter Absprache mit den Förderern kannst Du Dir den Ort des Rückflugs selbst aussuchen.
 
 #### Mit welchem Themengebiet beschäftigst Du dich?
 Das Programm findet im Bereich der Hochenergiephysik statt.
@@ -72,7 +71,7 @@ for thermal studies employing liquid CO2 coolant."
 Weitere Informationen zu Jung und seinem Team erhältst Du [hier](http://www.physics.purdue.edu/~jung196/index.html)
 
 #### Kann ich den Aufenthalt mit meiner Bachelorarbeit verbinden?
-Mit der Teilnahme an dem Auslandsprogramm verpflichtest Du dich deine Bachelorarbeit an der Purdue Universität
+Mit der Teilnahme an dem Auslandsprogramm verpflichtest Du Dich Deine Bachelorarbeit an der Purdue Universität
 zu schreiben. Als deutscher Professor steht Dir Prof. Dr. Spaan zur Seite.
 
 #### Wie viele Studenten können an dem Programm teilnehmen?
@@ -114,7 +113,7 @@ Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom 
 Die ausgewählten Studenten werden dann benachrichtigt. 
 
 ### Noch Fragen?
-Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org). Alternative schau bei Henning Moldenhauer im Büro CP-01-190 vorbei.
+Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei Henning Moldenhauer im Büro CP-01-190 vorbei.
 
 </div>
 

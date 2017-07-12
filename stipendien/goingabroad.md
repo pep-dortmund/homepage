@@ -29,7 +29,7 @@ Dort ist ein Bett in einem Doppelzimmer für Dich reserviert.
 Du wohnst also mit einem anderen Studenten zusammen.
 
 Während Deines Forschungsaufenthalts arbeitest Du in etwa 8 Stunden pro Tag.
-Neben der Arbeit kannst Du in der Uni eigenen Mensa essen oder im kostenfreien Freizeitzentrum der Uni entspannen.
+Neben der Arbeit kannst Du in der Uni eigenen Mensa essen oder im Freizeitzentrum der Uni entspannen.
 Am Wochenende kannst Du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
 
 Nach Deinem Forschungsprojekt hast Du die Möglichkeit weitere 30 Tage in den USA zu verbringen.

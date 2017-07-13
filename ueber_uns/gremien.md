@@ -81,7 +81,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="images/passbilddummy.jpg">
+          <img alt="" src="images/thorben.jpg">
         </span>
       </div>
       <h4>Thorben Menne</h4>
@@ -117,7 +117,7 @@ layout: page-custom
     <div class="4u -4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="images/passbilddummy.jpg">
+          <img alt="" src="images/christophe.jpg">
         </span>
       </div>
       <h4>Christophe Cauet</h4>
@@ -139,7 +139,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="images/passbilddummy.jpg">
+          <img alt="" src="images/janine.jpg">
         </span>
       </div>
       <h4>Janine Müller</h4>

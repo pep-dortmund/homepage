@@ -17,7 +17,7 @@ Bereichen der Physik hast du die Chance das amerikanische Leben kennenzulernen. 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
 Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
-Etwa 40.000 Studenten besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
+Etwa 40.000 Studierende besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
 Übrigens, der erste und letzte Mensch auf dem Mond waren Purdue Absolventen.
 
 #### Wann findet das Auslandsprogramm statt?

@@ -26,7 +26,7 @@ Das Auslandsprogramm findet vom 15.05.2018 bis zum 15.08.2018 statt.
 #### Wie und wo lebt man während des Aufenthalts?
 Während deines Forschungsaufenthaltes lebst du im Studentenwohnheim der Universität.
 Dort ist ein Bett in einem Doppelzimmer für dich reserviert. 
-Du wohnst also mit einem anderen Studenten zusammen.
+Du wohnst also mit einer anderen Studentin oder Studenten zusammen.
 
 Während deines Forschungsaufenthalts arbeitest du in etwa 8 Stunden pro Tag.
 Neben der Arbeit kannst du in der Uni eigenen Mensa essen oder im Freizeitzentrum der Uni entspannen.
@@ -73,8 +73,8 @@ for thermal studies employing liquid CO2 coolant."
 Mit der Teilnahme an dem Auslandsprogramm verpflichtest du dich deine Bachelorarbeit an der Purdue Universität
 zu schreiben. Als deutscher Professor steht dir Prof. Dr. Spaan oder Prof. Dr. Kröninger zur Seite.
 
-#### Wie viele Studenten können an dem Programm teilnehmen?
-Zwei Stundenten erhalten pro Jahr die Chance am Programm teilzunehmen.
+#### Wie viele Studierende können an dem Programm teilnehmen?
+Zwei Studierenden erhalten pro Jahr die Chance am Programm teilzunehmen.
 
 #### Was ist alles in dem Stipendium enthalten?
 Das Stipendium deckt folgende Dinge ab:
@@ -106,9 +106,9 @@ In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 
 Um dich zu bewerben, sende eine E-Mail [an](mailto:goingabroad@pep-dortmund.org).
 Eine Bewerbung kann bis zum 30.09.2017 eingereicht werden. Die auf Grund des Bewerbungsschreibens
-ausgewählten Studenten können zu einem Bewerbungsgespräch eingeladen werden.
+ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
-Die ausgewählten Studenten werden dann benachrichtigt. 
+Die ausgewählten Studierenden werden dann benachrichtigt. 
 
 ### Noch Fragen?
 Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei Henning Moldenhauer im Büro CP-01-190 vorbei.

@@ -4,7 +4,7 @@ subtitle: Hier gibt es Informationen zu unseren Auslandsprogrammen.
 layout: page-custom
 ---
 <div class="box" markdown="1">
-### *Going Abroad – Bachelorarbeit in Purdue*
+### Going Abroad – Bachelorarbeit in Purdue
 
 #### *Going Abroad - Purdue*, was soll das sein?
 *Going Abroad - Purdue* ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von

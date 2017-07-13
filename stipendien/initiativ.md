@@ -11,7 +11,7 @@ betragen und ist auf den Projektzeitraum befristet, wobei die Vergabe der
 Stipendien leistungsorientiert und einkommensunabhängig erfolgt.
 
 Eine Bewerbung ist möglich, wenn Du an der Technischen Universität Dortmund als
-Student eingeschrieben bist und Physik, Medizinphysik oder Physik auf Lehramt
+Studentin oder Student eingeschrieben bist und Physik, Medizinphysik oder Physik auf Lehramt
 studierst.
 
 Die Bewerbung erfolgt schriftlich an PeP et al. e.V.. Genauere Informationen zu

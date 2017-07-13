@@ -103,7 +103,7 @@ layout: page-custom
     <div class="4u">
       <div class="6u -3u">
         <span class="image fit">
-          <img alt="" src="images/passbilddummy.jpg">
+          <img alt="" src="images/vorstand/steven.jpg">
         </span>
       </div>
       <h4>Steven Becker</h4>

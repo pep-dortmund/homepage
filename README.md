@@ -17,7 +17,7 @@ $ sudo gem install bundler
 ### ArchLinux
 
 ```
-$ sudo pacman -S ruby nodejs libxml2 libxlst
+$ sudo pacman -S ruby nodejs libxml2 libxslt
 $ sudo gem install bundler
 ```
 

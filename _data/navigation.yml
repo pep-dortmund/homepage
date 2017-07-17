@@ -40,4 +40,11 @@
   link: spenden.html
 
 - title: Stipendien
-  link: stipendien.html
+  directory: stipendien
+  submenu:
+      - title: Going Abroad
+        link: goingabroad.html
+      - title: Deutschlandstipendien
+        link: deutschland.html
+      - title: Initiativstipendien
+        link: initiativ.html

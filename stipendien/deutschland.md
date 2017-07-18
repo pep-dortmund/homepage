@@ -22,8 +22,7 @@ Bewerbungsportal sind unter folgendem Link zu finden.
 [Informationen zur Bewerbung auf ein
 Deutschlandstipendium](http://www.tu-dortmund.de/uni/Uni/Freunde_und_F__rderer/Stipendien/Deutschlandstipendium/Bewerbung/index.html)
 
-Der Bewerbungszeitraum für dieses Semester ist vom 15. August 2015 bis zum
-15. September 2015.
+Der Bewerbungszeitraum läuft immer vom 15. August bis zum 15. September.
 
 Die Förderung durch das Begabtenförderungsprogramm ist unabhängig von einer
 Mitgliedschaft im Alumniverein, sodass Nichtmitglieder keinerlei Nachteile

@@ -4,8 +4,6 @@ subtitle: Hier gibt es Informationen zu den Deutschlandstipendien.
 layout: page-custom
 ---
 <div class="box" markdown="1">
-### Deutschlandstipendien
-
 Die finanzielle Förderung beträgt 300 € monatlich und
 ist auf ein Jahr befristet, wobei die Vergabe der Stipendien
 leistungsorientiert und einkommensunabhängig erfolgt.

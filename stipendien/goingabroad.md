@@ -4,7 +4,7 @@ subtitle: Hier gibt es Informationen zu unseren Auslandsprogrammen.
 layout: page-custom
 ---
 <div class="box" markdown="1">
-### Going Abroad – Bachelorarbeit in Purdue
+### Bachelorarbeit in Purdue
 
 #### *Going Abroad - Purdue*, was soll das sein?
 *Going Abroad - Purdue* ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
@@ -99,12 +99,12 @@ von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbe
 
 In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 
-- Motivationsschreiben, warum du an dem Programm teilnehmen solltest
-- Lebenslauf
-- Nachweis für das Engagement in den oben genannten Feldern
-- offizieller Notenspiegel 
+- ein einseitiges Motivationsschreiben, warum du an dem Programm teilnehmen solltest
+- ein Lebenslauf
+- ein Nachweis für das Engagement in den oben genannten Feldern
+- ein offizieller Notenspiegel 
 
-Um dich zu bewerben, sende eine E-Mail [an](mailto:goingabroad@pep-dortmund.org).
+Um dich zu bewerben, sende uns eine (E-Mail)(mailto:goingabroad@pep-dortmund.org).
 Eine Bewerbung kann bis zum 30.09.2017 eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.

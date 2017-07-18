@@ -104,7 +104,7 @@ In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 - ein Nachweis für das Engagement in den oben genannten Feldern
 - ein offizieller Notenspiegel 
 
-Um dich zu bewerben, sende uns eine (E-Mail)(mailto:goingabroad@pep-dortmund.org).
+Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
 Eine Bewerbung kann bis zum 30.09.2017 eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.

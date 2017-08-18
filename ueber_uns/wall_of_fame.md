@@ -11,7 +11,7 @@ layout: page-custom
 <div class="box" markdown="1">
 # Julia Tjus
 *W3 Professur für Hochenergie-Astroteilchenphysik an der Ruhr-Universität
-*Bochum*  
+Bochum*  
 <span class="image left wall-of-fame">
   <img src="images/wall_of_fame/wof-tjus.jpg" alt="">
 </span>

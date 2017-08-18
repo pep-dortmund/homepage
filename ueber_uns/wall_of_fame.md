@@ -31,7 +31,7 @@ Alltagsphysik für jeden verständlich erklärt.
 <div class="box" markdown="1">
 # Christophe Cauet 
 *Gründer und Data Scientist bei Point 8 *  
-<span class="image left wall-of-fame">
+<span class="image right wall-of-fame">
   <!-- adjusting the image position a little bit to the left via object-position -->
   <img src="images/wall_of_fame/wof-ccauet.jpg" alt="" style="object-position: 90%;">
 </span>
@@ -51,7 +51,7 @@ und Netzwerken immer gut beschäftigt. 
 <div class="box" markdown="1">
 # Marcus Weber
 *Inhaber und Geschäftsführer der Physikanten & Co. in Witten*  
-<span class="image right wall-of-fame">
+<span class="image left wall-of-fame">
   <img src="images/wall_of_fame/wof-mweber.jpg" alt="">
 </span>
 Mit Wissenschaftsshows meinen Lebensunterhalt bestreiten? Das zu probieren war

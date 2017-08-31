@@ -29,8 +29,8 @@ Alltagsphysik für jeden verständlich erklärt.
 </div>
 
 <div class="box" markdown="1">
-# Christophe Cauet 
-*Gründer und Data Scientist bei Point 8 *  
+# Christophe Cauet
+*Gründer und Data Scientist bei Point 8*  
 <span class="image right wall-of-fame">
   <!-- adjusting the image position a little bit to the left via object-position -->
   <img src="images/wall_of_fame/wof-ccauet.jpg" alt="" style="object-position: 90%;">

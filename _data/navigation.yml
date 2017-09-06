@@ -32,6 +32,8 @@
         link: jahresberichte.html
       - title: Kontakt und Impressum
         link: impressum.html
+      - title: Wall of Fame
+        link: wall_of_fame.html
 
 - title: Jobbörse
   link: jobboerse.html

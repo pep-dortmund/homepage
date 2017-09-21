@@ -27,8 +27,8 @@ $ brew install ruby node
 $ gem install bundler
 ```
 
-
 ## Testing
+Go to the base directory of this repository.
 
 First install all required gems
 ```

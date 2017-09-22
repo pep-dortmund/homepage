@@ -6,7 +6,7 @@ layout: page-custom
 
 <div class="box" markdown="1">
 
-Das Repertoire des PhysiChors ist weitgefächert und reicht vo
+Das Repertoire des PhysiChors ist weitgefächert und reicht vom
 Renaissancemadrigal über Pop-Arrangements bis zu Klängen aus dem „Herrn der Ringe“.
 Zur Teilnahme qualifiziert zunächst der Spaß am gemeinsamen Singen.
 Trotzdem ist die Gruppe durchaus ehrgeizig und profitiert dabei von der

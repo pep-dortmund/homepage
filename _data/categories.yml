@@ -25,6 +25,10 @@ vorstand:
 protokolle:
     icon: paperclip
 
+interessensgruppen:
+    icon: group # connectdevelop
+    url: vereinsleben/interessensgruppen.html
+
 jahresberichte:
     icon: paperclip
     url: ueber_uns/jahresberichte.html

@@ -83,7 +83,7 @@ Das Stipendium deckt folgende Dinge ab:
 - Unterkunft
 - Kosten für das Visum 
 - Krankenversicherung
-- monatliches Taschengeld
+- monatliches Gehalt
 
 #### Wie läuft die Bewerbung ab?
 Um an dem Auslandsprogramm teilnehmen zu dürfen, solltest du dich aktuell

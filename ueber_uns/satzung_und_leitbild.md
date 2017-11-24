@@ -136,7 +136,7 @@ erforderlich ist.
 #### §12 Satzungsänderung und Auflösung des Vereins
 (1) Satzungsänderungen und Auflösung können von der Mitgliederversammlung nur beschlossen werden, wenn bei Einberufung der Mitgliederversammlung gemäß §9 (3) und §9 (10) hierauf besonders hingewiesen wurde und wenn eine 3/4 Mehrheit aller abgegebenen Stimmen dafür eintritt.
 
-(2) Im Falle der Auflösung oder Aufhebung des Vereins „PeP et al.“ oder bei Wegfall seines steuerbegünstigten Zweckes fällt etwaiges Vereinsvermögen an die Gesellschaft der Freunde der Universität Dortmund e.V. (Sitz: Alfred-Nobel-Straße 1, 44149 Dortmund) unter der Auflage das etwaige Vereinsvermögen von „PeP et al.“ ausschließlich und unmittelbar für steuerbegünstigte Zwecke zu verwenden.
+(2) Im Falle der Auflösung oder Aufhebung des Vereins „PeP et al.“ oder bei Wegfall seines steuerbegünstigten Zweckes fällt etwaiges Vereinsvermögen an die Gesellschaft der Freunde der Universität Dortmund e.V. (Sitz: Märkische Str. 120, 44141 Dortmund) unter der Auflage das etwaige Vereinsvermögen von „PeP et al.“ ausschließlich und unmittelbar für steuerbegünstigte Zwecke zu verwenden.
 
 #### §13 Schlussbestimmung
 (1) Die Satzung wurde von der Mitgliederversammlung des Vereins am 15.12.2007 in Dortmund beschlossen und tritt mit Eintragung in das Handelsregister Dortmund in Kraft.

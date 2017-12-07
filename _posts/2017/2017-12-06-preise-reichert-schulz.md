@@ -12,4 +12,4 @@ Stefanie Reichert forscht in der Arbeitsgruppe von Dr. Johannes Albrecht am Lehr
 
 Die [DPG zeichnet Dirk Schulz als „Besten Physiklehrer Deutschlands“ aus](http://www.dpg-physik.de/presse/pressemit/2017/dpg-pm-2017-35.html). Dirk Schulz hat an der TU Dortmund Mathematik und Physik auf Lehramt studiert und 2004 die Abschlussarbeit für sein Staatsexamen in der Arbeitsgruppe von Prof. Metin Tolan geschrieben.
 
-Dirk Schulz wird ausgezeichnet für seine Arbeit am Theodor-Heuss-Gymnasium Waltrop, an dem er sich insbesondere für die Entwicklung des MINT-Schwerpunkts engagiert. Dieses Engagement zeigt sich auch in der initiierten Kooperation des Gymnasiums mit der Fakutät Physik und der TU Dortmund im Allgemeinen.
+Dirk Schulz wird ausgezeichnet für seine Arbeit am Theodor-Heuss-Gymnasium Waltrop, an dem er sich insbesondere für die Entwicklung des MINT-Schwerpunkts engagiert. Dieses Engagement zeigt sich auch in der initiierten Kooperation des Gymnasiums mit der Fakultät Physik und der TU Dortmund im Allgemeinen.

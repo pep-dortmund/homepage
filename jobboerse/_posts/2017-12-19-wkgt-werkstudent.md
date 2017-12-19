@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wirtschaftsprüfungsgesellschaft Warth & Klein Grant Thornton AG sucht Werkstudenten und Digital Experts
+title: Wirtschaftsprüfungsgesellschaft Warth & Klein Grant Thornton AG sucht Werkstudent
 author: Lena
 ---
 

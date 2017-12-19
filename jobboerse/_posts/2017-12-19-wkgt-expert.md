@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wirtschaftsprüfungsgesellschaft Warth & Klein Grant Thornton AG sucht Werkstudenten und Digital Experts
+title: Wirtschaftsprüfungsgesellschaft Warth & Klein Grant Thornton AG sucht Digital Experts
 author: Lena
 ---
 
@@ -14,6 +14,7 @@ Zur Unterstützung unseres neu geschaffenen Digital Centers an unserem Standort 
 * Digital Experts (m/w),
 
 die mit uns an der Digitalisierung unserer Service-Bereiche und internen Abteilungen arbeiten.
+
 
 Folgende Aufgaben erwarten Sie u.a. bei uns:
 *	Identifizierung von Potenzialen zur Prozessoptimierung und Möglichkeiten zum effizienzsteigernden Einsatz neuer Technologien in unseren Service-Bereichen (Audit, Tax, Corporate Finance, Governance, Risk & Compliance) und den internen Abteilungen

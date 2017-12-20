@@ -17,17 +17,19 @@ der mit uns an der Digitalisierung unserer Service-Bereiche und internen Abteilu
 
 
 Folgende Aufgaben erwarten Sie u.a. bei uns:
-*	Selbständige Durchführung von Recherchen und Aufbereitung der Ergebnisse z.B. im Rahmen von Markt- oder Softwareanalysen
-*	Selbstständige Erstellung von Programmen z.B. in Java oder Python
-*	Mitarbeit an Sonderprojekten
+
+* Selbständige Durchführung von Recherchen und Aufbereitung der Ergebnisse z.B. im Rahmen von Markt- oder Softwareanalysen
+* Selbstständige Erstellung von Programmen z.B. in Java oder Python
+* Mitarbeit an Sonderprojekten
 
 
 Wir sollten uns kennenlernen, wenn Sie:
-* Die ersten Semester Ihres informationstechnischen oder naturwissenschaftlichen Studiums erfolgreich absolviert haben
-*	Fundierte Kenntnisse im Bereich Programmierung haben, z.B. in Java, Python oder C++
-*	Ein analytisches und konzeptionelles Denkvermögen sowie eine strukturierte Arbeitsweise zu Ihren Stärken zählen
-*	Routinierte MS-Office-Kenntnisse (Excel, PowerPoint, Outlook) mitbringen
-*	Auch in englischer Sprache arbeiten möchten und über entsprechend gute Englischkenntnisse verfügen
+
+* Die ersten Semester Ihres informationstechnischen oder naturwissenschaftlichen Studiums erfolgreich absolviert haben
+* Fundierte Kenntnisse im Bereich Programmierung haben, z.B. in Java, Python oder C++
+* Ein analytisches und konzeptionelles Denkvermögen sowie eine strukturierte Arbeitsweise zu Ihren Stärken zählen
+* Routinierte MS-Office-Kenntnisse (Excel, PowerPoint, Outlook) mitbringen
+* Auch in englischer Sprache arbeiten möchten und über entsprechend gute Englischkenntnisse verfügen
 
 
 Alle weiteren Informationen findet ihr in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_werkstudent.pdf)!

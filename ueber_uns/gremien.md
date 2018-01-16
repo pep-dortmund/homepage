@@ -162,6 +162,20 @@ layout: page-custom
 </div>
 
 <div class="box special">
+  <h3>Wirtschaft</h3>
+  <div class="row no-collapse 50% uniform">
+    <div class="4u -4u">
+      <div class="6u -3u">
+        <span class="image fit">
+          <img alt="" src="images/passbilddummy.jpg">
+        </span>
+      </div>
+      <h4>Lena Linhoff</h4>
+    </div>
+  </div>
+</div>
+
+<div class="box special">
   <h3>Kassenprüfer</h3>
   <div class="row no-collapse 50% uniform">
     <div class="4u -4u">

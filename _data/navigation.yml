@@ -1,6 +1,9 @@
 - title: Home
   link: index.html
 
+- title: Termine
+  link: termine.html
+
 - title: Vereinsleben
   directory: vereinsleben
   submenu:

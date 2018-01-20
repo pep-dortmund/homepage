@@ -1,38 +1,36 @@
-<!-- <div class="container-fluid"> -->
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-    <a class="navbar-brand" href="index.html">PeP et al. e.V.</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pepNavbar">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <a class="navbar-brand" href="index.html">PeP et al. e.V.</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pepNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
 
-    <div class="collapse navbar-collapse" id="pepNavbar">
-    <ul class="navbar-nav ml-auto">
-      {% for navlink in site.data.navigation %}
-      {% if navlink.submenu %}
-      <li class="nav-item dropdown float-right">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-          {{ navlink.title }}
+  <div class="collapse navbar-collapse" id="pepNavbar">
+  <ul class="navbar-nav ml-auto">
+    {% for navlink in site.data.navigation %}
+    {% if navlink.submenu %}
+    <li class="nav-item dropdown float-right">
+      <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+        {{ navlink.title }}
+      </a>
+      <div class="dropdown-menu">
+        {% for sublink in navlink.submenu %}
+        <a class="dropdown-item" href="{{ navlink.directory}}/{{ sublink.link }}">
+          {{ sublink.title }}
         </a>
-        <div class="dropdown-menu">
-          {% for sublink in navlink.submenu %}
-          <a class="dropdown-item" href="{{ navlink.directory}}/{{ sublink.link }}">
-            {{ sublink.title }}
-          </a>
-          {% endfor %}
-        </div>
-      </li>
-      {% else %}
-      <li class="nav-item float-right">
-        <a class="nav-link" href="{{ navlink.link }}">{{ navlink.title }}</a>
-      </li>
-      {% endif %}
-      {% endfor %}
-      <li class="nav-item float-right">
-        <a href="mitmachen.html" type="button" class="btn btn-outline-secondary">
-          Mitmachen
-        </a>
-      </li>
-    </ul>
-  </nav>
-<!-- </div> -->
+        {% endfor %}
+      </div>
+    </li>
+    {% else %}
+    <li class="nav-item float-right">
+      <a class="nav-link" href="{{ navlink.link }}">{{ navlink.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    <li class="nav-item float-right">
+      <a href="mitmachen.html" type="button" class="btn btn-outline-secondary">
+        Mitmachen
+      </a>
+    </li>
+  </ul>
+</nav>

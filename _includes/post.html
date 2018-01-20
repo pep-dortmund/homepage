@@ -1,4 +1,4 @@
-<div class="card post" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
+<div class="card post mb-2" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
   {% if post.image %}
   <img class="card-img-top" src="{{ post.image }}" alt="">
   {% endif %}

@@ -30,10 +30,10 @@ landing: true
     </header>
   </section>
   {% for offset in (0..1) %}
-    <div class="row post">
+    <div class="row">
       {% assign off = offset|times:2 %}
       {% for post in site.categories["special"] limit:2 offset:off %}
-        <div class="col-12 col-md-6 post">
+        <div class="col-12 col-md-6 mb-2">
           {% include post.html post=post %}
         </div>
       {% endfor %}
@@ -41,8 +41,8 @@ landing: true
 
   {% endfor %}
   <div class="row">
-    <div align="center" style="width: 100%">
-      <a href="archive/index.html" class="button special">Alle Posts</a>
+    <div class="col-12 text-center">
+      <a href="archive/index.html" class="btn btn-secondary">Alle Posts</a>
     </div>
   </div>
 </section>

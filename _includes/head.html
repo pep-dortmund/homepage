@@ -8,8 +8,15 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <base href="{{ site.url }}{{ site.baseurl }}/">
 
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/katex.min.css">
+  <script async src="assets/hyphenator/5.0.0/Hyphenator.js"></script>
+  <script async src="assets/js/katex.min.js"></script>
+  <script defer src="assets/js/jquery.min.js"></script>
+  <script defer src="assets/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/katex.min.css">
+  <link rel="stylesheet" href="assets/css/custom.css">
+
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}">
 
   <!-- favicon stuff -->

@@ -6,14 +6,11 @@
 -->
 <html>
   {% include head.html %}
-  <body class="{% if page.landing %}landing{% endif %}">
-		<div id="page-wrapper">
-      {% include header.html %}
+  <body>
+    {% include header.html %}
 
-      {{ content }}
+    {{ content }}
 
-      {% include footer.html %}
-		</div>
-    {% include scripts.html %}
+    {% include footer.html %}
 	</body>
 </html>

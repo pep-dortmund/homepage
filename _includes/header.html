@@ -1,30 +1,38 @@
-<header id="header" class="{% if page.landing %}alt{% endif %}">
-  <h1><a href="index.html">PeP et al. e.V.</a></h1>
-  <nav id="nav">
-    <ul>
+<!-- <div class="container-fluid"> -->
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="index.html">PeP et al. e.V.</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pepNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+
+    <div class="collapse navbar-collapse" id="pepNavbar">
+    <ul class="navbar-nav ml-auto">
       {% for navlink in site.data.navigation %}
-      <li>
-        {% if navlink.submenu %}
-        <a class="icon fa-angle-down" href="#">{{ navlink.title }}</a>
-        <ul>
+      {% if navlink.submenu %}
+      <li class="nav-item dropdown float-right">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+          {{ navlink.title }}
+        </a>
+        <div class="dropdown-menu">
           {% for sublink in navlink.submenu %}
-          <li>
-            <a href="{{ navlink.directory}}/{{ sublink.link }}">
-              {{ sublink.title }}
-            </a>
-          </li>
+          <a class="dropdown-item" href="{{ navlink.directory}}/{{ sublink.link }}">
+            {{ sublink.title }}
+          </a>
           {% endfor %}
-        </ul>
-        {% else %}
-        <a href="{{ navlink.link }}">{{ navlink.title }}</a>
-        {% endif %}
+        </div>
       </li>
+      {% else %}
+      <li class="nav-item float-right">
+        <a class="nav-link" href="{{ navlink.link }}">{{ navlink.title }}</a>
+      </li>
+      {% endif %}
       {% endfor %}
-      <li style="white-space: nowrap;">
-        <a href="mitmachen.html" class="button">
+      <li class="nav-item float-right">
+        <a href="mitmachen.html" type="button" class="btn btn-outline-secondary">
           Mitmachen
         </a>
       </li>
     </ul>
   </nav>
-</header>
+<!-- </div> -->

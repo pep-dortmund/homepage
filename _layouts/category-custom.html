@@ -4,17 +4,6 @@ layout: default
 <div id="main" class="hyphenate">
   {{ content }}
   {% for post in site.categories[page.category] %}
-  <div class="card post" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
-    {% if post.image %}
-    <img class="card-img-top" src="{{ post.image }}" alt="">
-    {% endif %}
-    <div class="card-body">
-      {% if post.title %}
-      <h2 class="card-title">{{ post.title }}</h2>
-      {% endif %}
-      {{ post.content }}
-    </div>
-    {% include post-footer.html post=post %}
-  </div>
+    {% include post.html post=post %}
   {% endfor %}
 </div>

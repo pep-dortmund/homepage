@@ -33,7 +33,7 @@ landing: true
     <div class="row post">
       {% assign off = offset|times:2 %}
       {% for post in site.categories["special"] limit:2 offset:off %}
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 post">
           {% include post.html post=post %}
         </div>
       {% endfor %}

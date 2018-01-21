@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-<section id="main" class="container hyphenate">
-  <header>
+<div class="hyphenate">
+  <header class="text-center">
     <h2>{{ page.title }}</h2>
+    <hr>
     {% if page.subtitle %}
     <p>{{ page.subtitle }}</p>
     {% endif %}
   </header>
+  <div class="card p-4">
   {{ content }}
-</section>
+  </div>
+</div>

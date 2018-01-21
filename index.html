@@ -18,31 +18,29 @@ landing: true
   {% endif %}
 </section>
 
-<section id="main" class="container container-main">
-  <section class="box special">
-    <header class="major">
-      <h2>PeP et al. e.V.</h2>
-      <h4>Physikstudierende und ehemalige Physikstudierende der TU Dortmund</h4>
-      <p>
-        Sieh dir an wofür wir stehen.
-        Unser <a href="{{'ueber_uns/satzung_und_leitbild.html' }}">Leitbild.</a>
-      </p>
-    </header>
-  </section>
-  {% for offset in (0..1) %}
-    <div class="row">
-      {% assign off = offset|times:2 %}
-      {% for post in site.categories["special"] limit:2 offset:off %}
-        <div class="col-12 col-md-6 mb-2">
-          {% include post.html post=post %}
-        </div>
-      {% endfor %}
-    </div>
+<div class="card text-center p-4 mb-3">
+  <h2>PeP et al. e.&#8239;V.</h2>
+  <h4>Physikstudierende und ehemalige Physikstudierende der TU&nbsp;Dortmund</h4>
+  <hr width="300px" class="mx-auto">
+  <p>
+    Sieh dir an wofür wir stehen.
+    Unser <a href="{{'ueber_uns/satzung_und_leitbild.html' }}">Leitbild.</a>
+  </p>
+</div>
 
-  {% endfor %}
-  <div class="row">
-    <div class="col-12 text-center">
-      <a href="archive/index.html" class="btn btn-secondary">Alle Posts</a>
+{% for offset in (0..1) %}
+<div class="row">
+  {% assign off = offset|times:2 %}
+  {% for post in site.categories["special"] limit:2 offset:off %}
+    <div class="col-12 col-md-6 mb-2">
+      {% include post.html post=post %}
     </div>
+  {% endfor %}
+</div>
+{% endfor %}
+
+<div class="row">
+  <div class="col-12 text-center">
+    <a href="archive/index.html" class="btn btn-secondary">Alle Posts</a>
   </div>
-</section>
+</div>

@@ -12,3 +12,25 @@ body {
 .footer {
   background-color: #e0e0e0;
 }
+
+.circle {
+  border-radius: 100%;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  display: inline-block;
+  text-align: center;
+}
+
+.bg-facebook {
+  background: #3b5998;
+}
+.bg-twitter {
+  background: #55acee;
+}
+.bg-github {
+  background: #333333;
+}
+.bg-xing {
+  background: #026466;
+}

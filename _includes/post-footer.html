@@ -1,12 +1,12 @@
 <div class="card-footer">
   <div class="row">
-    <div class="col-6 text-left">
+    <div class="col-6 col-md-8 text-left">
       {{ post.date | date: "%d.%m.%y" }}
       {% if post.author %}
       von {{ post.author }}
       {% endif %}
     </div>
-    <div class="col-6 text-right">
+    <div class="col-6 col-md-4 text-right">
     {% for cat_index in post.categories %}
       {% assign category = site.data.categories[cat_index] %}
       {% if category.url %}

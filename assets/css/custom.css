@@ -34,3 +34,10 @@ body {
 .bg-xing {
   background: #026466;
 }
+
+.portrait {
+  max-height: 250px;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}

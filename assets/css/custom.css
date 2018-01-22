@@ -41,3 +41,16 @@ body {
   height: auto;
   width: auto;
 }
+
+.wall-of-fame.image {
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.image.wall-of-fame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

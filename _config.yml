@@ -20,3 +20,5 @@ katex:
 markdown: kramdown
 paginate: 6
 paginate_path: "/archive/page:num/"
+sass:
+  style: compressed

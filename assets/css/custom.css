@@ -54,3 +54,22 @@ body {
     height: 100%;
     object-fit: cover;
 }
+
+.banner {
+    display: block;
+    position: static;
+    padding: 10em 0 18em 0;
+    background-attachment: scroll;
+    background-color: #666;
+    background-image: url('/assets/css/images/overlay.png'), url('/images/PeP.jpg');
+    background-position: top left, center center;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+    color: #fff;
+    padding: 12em 0 20em 0;
+    text-align: center;
+}
+
+.landing {
+    margin-top: -14em;
+}

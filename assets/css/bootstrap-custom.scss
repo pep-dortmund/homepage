@@ -7,3 +7,32 @@ $theme-colors: (
 );
 
 @import "bootstrap";
+
+.container.landing {
+    position: relative;
+};
+
+.container {
+    padding-top: 56px;
+};
+
+.bg-faded .nav-link {
+    color: #FFFFFF !important;
+    transition: color 500ms;
+};
+.bg-dark .nav-link {
+    transition: color 500ms;
+};
+
+.card {
+    border-radius: 6px;
+};
+
+.card-img-top {
+    border-radius: 6px 6px 0 0;
+};
+
+.card-footer:last-child {
+    border-radius: 0 0 6px 6px;
+};
+

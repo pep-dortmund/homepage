@@ -15,3 +15,5 @@ Das diesjährige Oberthema ist
 
 Wie immer sind Studierende und Alumni aller Semester eingeladen. Weitere Informationen folgen in Kürze.
 Wie freuen uns auf euch!
+
+Hinweis: Die Anmeldephase ist bereits gestartet. Einen Anmeldebogen findet ihr [hier](dokumente/soak18_anmeldung.pdf).

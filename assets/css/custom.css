@@ -23,13 +23,19 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #e0e0e0;
 }
 
-.circle {
+.icon {
   border-radius: 100%;
   width: 2em;
   height: 2em;
   line-height: 2em;
   display: inline-block;
   text-align: center;
+  border: 3px solid transparent;
+}
+
+a.icon:hover {
+  text-decoration: none;
+  border: 3px solid;
 }
 
 .bg-facebook {

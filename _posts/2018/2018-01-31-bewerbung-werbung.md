@@ -2,7 +2,7 @@
 layout: post
 title: Erfolgreich bewerben!
 categories: special veranstaltungen
-image: we_need_you.png
+image: images/we_need_you.png
 author: Marie, Simone
 ---
 

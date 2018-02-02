@@ -1,33 +1,45 @@
 homepage [![Build Status](https://travis-ci.org/pep-dortmund/homepage.svg?branch=master)](https://travis-ci.org/pep-dortmund/homepage)
 =====================
 
-Development repository for a new PeP et al. website.
-See [Contributing](CONTRIBUTING.md) if you want to add things.
+Repository for the new PeP et al. website.
+
+## Contributing
+
+See [Contributing](CONTRIBUTING.md) for detailled explanation how to
+- write new posts
+- add static pages
+- edit the navigation
+- minified markdown intro
+- other crazy things
 
 
-## Installing the required software
+## Local Testing
 
-### Ubuntu
+It is advisable, that you test the website locally if you make any changes or review Pull Requests
+
+### Install the required software
+
+#### Ubuntu
 
 ```
 $ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev
 $ sudo gem install bundler
 ```
 
-### ArchLinux
+#### ArchLinux
 
 ```
 $ sudo pacman -S ruby nodejs libxml2 libxslt
 $ sudo gem install bundler
 ```
 
-### macOS
+#### macOS
 ```
 $ brew install ruby node
 $ gem install bundler
 ```
 
-## Testing
+### Testing
 Go to the base directory of this repository.
 
 First install all required gems
@@ -45,13 +57,3 @@ Changes to the inputfiles are recognised and the website is build again,
 press f5 in the browser to update.
 
 Some updates, like changing images might require to delete the cache (ctrl + r in chrome).
-
-
-## Contributing
-
-See [Contributing](CONTRIBUTING.md) for detailled explanation how to
-- write new posts
-- add static pages
-- edit the navigation
-- minified markdown intro
-- other crazy things

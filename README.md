@@ -1,7 +1,7 @@
 homepage [![Build Status](https://travis-ci.org/pep-dortmund/homepage.svg?branch=master)](https://travis-ci.org/pep-dortmund/homepage)
 =====================
 
-Repository for the new PeP et al. website.
+Repository of the PeP al. homepage (<https://pep-dortmund.org>).
 
 ## Contributing
 

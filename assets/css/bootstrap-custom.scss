@@ -26,6 +26,7 @@ $theme-colors: (
 
 .card {
     border-radius: 6px;
+    border-style: none;
 };
 
 .card-img-top {
@@ -36,3 +37,6 @@ $theme-colors: (
     border-radius: 0 0 6px 6px;
 };
 
+a.nav-link.dropdown-toggle {
+    outline: none;
+};

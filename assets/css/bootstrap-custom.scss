@@ -3,8 +3,11 @@
 @charset "utf-8";
 
 $theme-colors: (
-  "dark": #565656
+  "dark": #565656,
+  "primary": #5b94d9,
 );
+$body-bg: mix(#B7B6B6, #FFFFFF, 20%);
+$font-family-base: "Fira Sans", sans-serif;
 
 @import "bootstrap";
 

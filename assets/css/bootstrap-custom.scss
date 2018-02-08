@@ -5,6 +5,7 @@
 $theme-colors: (
   "dark": #565656,
   "primary": #5b94d9,
+  "light": #f1f0f0,
 );
 $body-bg: mix(#B7B6B6, #FFFFFF, 20%);
 $font-family-base: "Fira Sans", sans-serif;
@@ -30,10 +31,15 @@ $font-family-base: "Fira Sans", sans-serif;
 .card {
     border-radius: 6px;
     border-style: none;
+    box-shadow: rgb(229, 229, 229) 0px 2px 0px 0px;
 };
 
 .card-img-top {
     border-radius: 6px 6px 0 0;
+};
+
+.card-footer {
+    background-color: var(--white);
 };
 
 .card-footer:last-child {

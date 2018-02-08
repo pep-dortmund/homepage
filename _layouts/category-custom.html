@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div id="main" class="container hyphenate mt-5 mb-3">
+<div id="main" class="container hyphenate mb-3">
   {{ content }}
   {% for post in site.categories[page.category] %}
     {% include post.html post=post %}

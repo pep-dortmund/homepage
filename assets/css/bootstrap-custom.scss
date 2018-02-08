@@ -16,6 +16,10 @@ $font-family-base: "Fira Sans", sans-serif;
     position: relative;
 };
 
+.container:not(.landing) {
+    margin-top: 6rem;
+}
+
 .bg-faded .nav-link {
     color: #FFFFFF !important;
     transition: color 500ms;

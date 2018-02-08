@@ -16,10 +16,6 @@ $font-family-base: "Fira Sans", sans-serif;
     position: relative;
 };
 
-.container {
-    padding-top: 56px;
-};
-
 .bg-faded .nav-link {
     color: #FFFFFF !important;
     transition: color 500ms;
@@ -49,3 +45,136 @@ $font-family-base: "Fira Sans", sans-serif;
 a.nav-link.dropdown-toggle {
     outline: none;
 };
+
+table.termine {
+    margin-bottom: 0;
+}
+
+html {
+  height: 100%;
+}
+
+th {
+  font-weight: 500;
+}
+
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  color: #777;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    color: #646464;
+}
+
+.footer {
+  background-color: #e0e0e0;
+}
+
+.icon {
+  border-radius: 100%;
+  width: 2.5em;
+  height: 2.5em;
+  line-height: 2.5em;
+  display: inline-block;
+  text-align: center;
+  border: 3px solid transparent;
+}
+
+a.icon:hover {
+  text-decoration: none;
+  border: 3px solid;
+}
+
+.bg-facebook {
+  background: #3b5998;
+}
+.bg-twitter {
+  background: #55acee;
+}
+.bg-github {
+  background: #333333;
+}
+.bg-xing {
+  background: #026466;
+}
+
+.portrait {
+  max-height: 250px;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+
+.wall-of-fame.image {
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.image.wall-of-fame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner {
+    display: block;
+    position: static;
+    background-attachment: scroll;
+    background-color: #666;
+    background-image: url('/assets/css/images/overlay.png'), url('/images/PeP.jpg');
+    background-position: top left, center center;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+    color: #fff;
+    text-align: center;
+    min-height: 30rem;
+}
+
+.landing {
+    margin-top: -7rem;
+}
+
+.landing > :first-child {
+    height: 14rem;
+}
+
+.mitmachen-right {
+    border-top: 2px solid var(--light);
+    padding-top: 2rem;
+}
+
+.mitmachen-bottom {
+    border-top: 2px solid var(--light);
+    padding-top: 2rem;
+}
+
+.mitmachen-left {
+    border-top: 2px solid var(--light);
+    padding-top: 2rem;
+}
+
+@include media-breakpoint-up(md) {
+    .mitmachen-left {
+        border-right: 2px solid var(--light);
+        padding: 2rem 2rem 2rem 0;
+    }
+
+    .mitmachen-right {
+        padding: 2rem 0 2rem 2rem;
+    }
+
+    .mitmachen-bottom {
+        padding-top: 2rem;
+    }
+}

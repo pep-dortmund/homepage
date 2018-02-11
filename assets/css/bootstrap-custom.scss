@@ -5,6 +5,7 @@
 $theme-colors: (
   "dark": #565656,
   "primary": #5b94d9,
+  "secondary": #b7b6b6,
   "light": #f1f0f0,
 );
 $body-bg: mix(#B7B6B6, #FFFFFF, 20%);
@@ -81,6 +82,37 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer {
   background-color: #e0e0e0;
+  padding: 2rem 0 3rem 0;
+  color: var(--secondary);
+}
+
+.footer >> .btn {
+    margin: 0.5rem;
+    border: none;
+    font-size: xx-large;
+}
+
+.footer >> ul {
+    margin: 0;
+}
+
+.footer >> li {
+    display: block;
+    list-style-type: none;
+}
+
+@include media-breakpoint-up(md) {
+    .footer >> li {
+        border-left: 1px solid var(--light);
+        display: inline-block;
+        margin-left: 1rem;
+        padding-left: 1rem;
+    }
+}
+
+.footer >> li:first-child {
+    border-left: none;
+    padding: 0;
 }
 
 .icon {

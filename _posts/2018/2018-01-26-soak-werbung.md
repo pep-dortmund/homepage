@@ -2,7 +2,7 @@
 layout: post
 title: Sommerakademie 2018
 categories: special sommerakademie veranstaltungen
-image: 
+image: images/soak2018_teaser.jpeg
 author: Timon, Karl
 ---
 

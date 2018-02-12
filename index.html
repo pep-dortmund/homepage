@@ -6,7 +6,7 @@ landing: true
 {% assign special = site.categories.special[0] %}
 {% assign index = 0 %}
 
-<div class="banner">
+<div class="banner" id="banner">
   <h2>{{ special.special-title }}</h2>
   <p>{{ special.special-subtitle }}</p>
   {% if special.special-action %}
@@ -16,8 +16,8 @@ landing: true
   {% endif %}
 </div>
 
-<div class="container landing">
-  <div class="card mb-3">
+<div class="container landing" id="content">
+  <div class="card mb-3" id="pep">
     <div class="card-body text-center">
       <h2>PeP et al. e.&#8239;V.</h2>
       <h4>Physikstudierende und ehemalige Physikstudierende der TU&nbsp;Dortmund</h4>

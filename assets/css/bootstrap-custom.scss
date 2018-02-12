@@ -17,7 +17,7 @@ $font-family-base: "Fira Sans", sans-serif;
     position: relative;
 };
 
-.container:not(.landing) {
+.container {
     margin-top: 6rem;
 }
 
@@ -177,9 +177,6 @@ a.icon:hover {
     min-height: 30rem;
 }
 
-.landing {
-    margin-top: -7rem;
-}
 
 .mitmachen-right {
     border-top: 2px solid var(--light);

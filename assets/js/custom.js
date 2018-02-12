@@ -1,3 +1,14 @@
+window.onload = function () {
+  let pepElem = document.getElementById('pep');
+
+  if (pepElem !== null) {
+    console.log("adjusting height");
+    let pepHeight = pepElem.offsetHeight;
+    document.getElementById('content').style.marginTop = "-" + (pepHeight / 2) + "px";
+  }
+};
+
+
 if($('#pepNavContainer').hasClass('nav-landing')){
   $(window).scroll(function (event) {
     var pos = $(window).scrollTop();

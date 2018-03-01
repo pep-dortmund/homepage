@@ -10,15 +10,8 @@ layout: page-custom
   {% if thecycle == 'odd' %}
   <div class="row">
   {% endif %}
-    <div class="6u 12u(narrower)">
-      <section class="box special post" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
-        {% if post.image %}
-        <span class="image featured"><img src="{{ post.image }}" alt=""></span>
-        {% endif %}
-        <h3>{{ post.title }}</h3>
-        {{ post.content  }}
-        {% include post-footer.html post=post %}
-      </section>
+    <div class="col-12 col-md-6">
+      {% include post.html post=post %}
     </div>
   {% if thecycle == 'even' or thecycle == 'odd' and forloop.last %}
   </div>
@@ -26,18 +19,28 @@ layout: page-custom
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="row" align="center" style="width: 100%;">
-  <div class="12u pagination">
+<div class="row" >
+  <div class="col-12 pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">Previous</a>
+    <a type="button" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="ml-auto mr-2 btn btn-secondary">
+      <span class="fa fa-lg fa-chevron-left"></span>
+    </a>
     {% else %}
-      <span class="previous">Previous</span>
+    <a type="button" href="#" class="ml-auto mr-2 btn btn-secondary disabled">
+      <span class="fa fa-lg fa-chevron-left"></span>
+    </a>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <div class="bg-secondary text-light mx-2 p-2 rounded">
+      Seite: {{ paginator.page }} von {{ paginator.total_pages }}
+    </div>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl}}" class="next">Next</a>
+    <a type="button" href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="btn btn-secondary ml-2 mr-auto">
+      <span class="fa fa-lg fa-chevron-right"></span>
+    </a>
     {% else %}
-      <span class="next ">Next</span>
+    <a type="button" href="#" class="ml-auto mr-2 btn btn-secondary disabled">
+      <span class="fa fa-lg fa-chevron-right"></span>
+    </a>
     {% endif %}
   </div>
 </div>

@@ -2,10 +2,11 @@
 layout: category-custom
 ---
 {% assign category = site.data.categories[page.category] %}
-<header>
+<header class="text-center">
   <h2>
     {{ page.title }}&nbsp;
-    <small><span class="fa fa-{{ category.icon }}"></span></small>
+    <span class="fa fa-{{ category.icon }}"></span>
   </h2>
+  <hr>
   {{ content }}
 </header>

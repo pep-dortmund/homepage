@@ -1,5 +1,5 @@
 # Site settings
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 title: PeP et al. e.V.
 email: kontakt@pep-dortmund.org
 description: > # this means to ignore newlines until "baseurl:"
@@ -20,3 +20,5 @@ katex:
 markdown: kramdown
 paginate: 6
 paginate_path: "/archive/page:num/"
+sass:
+  style: compressed

@@ -3,16 +3,18 @@ layout: page-custom
 ---
 {% for post in site.categories.wall_of_fame reversed %}
 {% capture toggle %}{{ forloop.index | modulo:2 }}{% endcapture %}
-<div class="box" markdown="1">
-  <h1>{{ post.title }}</h1>
-  {% if post.subtitle %}
-    <em>{{ post.subtitle }}</em><br />
-  {% endif %}
-  <span class="image {% if toggle == '0' %}right{% else %}left{% endif %} wall-of-fame">
-    <!-- adjusting the image position a little bit to the left via object-position -->
-    <img src="{{ post.image }}" alt="" style="{{ post.image-style }}">
-  </span>
-  {{ post.content | markdownify }}
+<div class="card mb-3">
+  <div class="card-body">
+    <h1 class="card-title">{{ post.title }}</h1>
+    {% if post.subtitle %}
+    <p><em>{{ post.subtitle }}</em></p>
+    {% endif %}
+    <span class="image {% if toggle == '0' %}float-right ml-2{% else %}float-left mr-2{% endif %} wall-of-fame">
+      <!-- adjusting the image position a little bit to the left via object-position -->
+      <img src="{{ post.image }}" alt="" style="{{ post.image-style }}">
+    </span>
+    {{ post.content | markdownify }}
+  </div>
 </div>
 {% endfor %}
 {{ content }}

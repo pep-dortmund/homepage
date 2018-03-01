@@ -1,18 +1,9 @@
 ---
 layout: default
 ---
-<section id="main" class="container hyphenate">
+<div id="main" class="container hyphenate mb-3">
   {{ content }}
   {% for post in site.categories[page.category] %}
-    <div class="box post" id="{{ post.id | replace: '/','-' | remove_first: '-' }}">
-      {% if post.image %}
-      <span class="image featured"><img src="{{ post.image }}" alt=""></span>
-      {% endif %}
-      {% if post.title %}
-      <h1>{{ post.title }}</h1>
-      {% endif %}
-      {{ post.content }}
-      {% include post-footer.html post=post %}
-    </div>
+    {% include post.html post=post %}
   {% endfor %}
-</section>
+</div>

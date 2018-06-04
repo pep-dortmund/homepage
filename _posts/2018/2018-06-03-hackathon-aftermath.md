@@ -15,8 +15,8 @@ ihrer Ideen konzentrieren.
 
 Die Ideen waren vielseitung: Ein automatischer Taskplaner,
 ein Q&A-Forum für Studierende, eine Nachrichten-Browser und eine Web-Implementation
-des klassiker "Mensch ärgere dich nicht".
+des Klassikers "Mensch ärgere dich nicht".
 Nach viel Kaffee und Tee, gutem Essen und wenig Schlaf konnten sich die Ergebnisse
-am Sonntag nachmittag sehen lassen. 
+am Sonntag Nachmittag sehen lassen. 
 
 Vielen Dank an alle Teilnehmer und Helfer!

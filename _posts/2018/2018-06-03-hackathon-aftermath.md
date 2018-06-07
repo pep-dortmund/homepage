@@ -2,7 +2,7 @@
 layout: post
 title: Hackathon „Modern Web Services”
 categories: special veranstaltungen
-image: images/2018-06-03-hackathon-gruppenfoto.png
+image: images/2018-06-03-hackathon-gruppenfoto.jpg
 author: Max, Kevin
 ---
 
@@ -17,6 +17,6 @@ Die Ideen waren vielseitung: Ein automatischer Taskplaner,
 ein Q&A-Forum für Studierende, eine Nachrichten-Browser und eine Web-Implementation
 des Klassikers "Mensch ärgere dich nicht".
 Nach viel Kaffee und Tee, gutem Essen und wenig Schlaf konnten sich die Ergebnisse
-am Sonntag Nachmittag sehen lassen. 
+am Sonntag Nachmittag sehen lassen.
 
 Vielen Dank an alle Teilnehmer und Helfer!

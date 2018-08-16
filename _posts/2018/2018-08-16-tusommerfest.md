@@ -7,7 +7,7 @@ author: Simone, Marie
 ---
 
 Am 5. Juli fand das TU Sommerfest auf dem Campus statt.
-In Kooperation mit Alumnivereinen anderer Fakultäten waren mit einem Stand vertreten.
+In Kooperation mit Alumnivereinen anderer Fakultäten waren wir mit einem Stand vertreten.
 
 
 Vielen Dank an alle Helferinnen und Helfer!

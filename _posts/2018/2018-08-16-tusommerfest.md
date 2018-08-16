@@ -7,7 +7,6 @@ author: Simone, Marie
 ---
 
 Am 5. Juli fand das TU Sommerfest auf dem Campus statt.
-In Kooperation mit Alumnivereinen anderer Fakultäten waren wir mit einem Stand vertreten.
-
+In Kooperation mit den Alumnivereinen der TU Dortmund waren wir mit einem Stand vertreten und lockten mit einem Schätzspiel eine Menge Besucher an. 
 
 Vielen Dank an alle Helferinnen und Helfer!

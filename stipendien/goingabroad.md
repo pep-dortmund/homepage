@@ -25,7 +25,7 @@ Das Auslandsprogramm findet vom 15.05.2018 bis zum 15.08.2018 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
 Während deines Forschungsaufenthaltes lebst du im Studentenwohnheim der Universität.
-Dort ist ein Bett in einem Doppelzimmer für dich reserviert. 
+Dort ist ein Bett in einem Doppelzimmer für dich reserviert.
 Du wohnst also mit einer anderen Studentin oder Studenten zusammen.
 
 Während deines Forschungsaufenthalts arbeitest du in etwa 8 Stunden pro Tag.
@@ -81,7 +81,7 @@ Das Stipendium deckt folgende Dinge ab:
 
 - Hin- und Rückreise
 - Unterkunft
-- Kosten für das Visum 
+- Kosten für das Visum
 - Krankenversicherung
 - monatliches Gehalt
 
@@ -102,17 +102,15 @@ In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 - ein einseitiges Motivationsschreiben, warum du an dem Programm teilnehmen solltest
 - ein Lebenslauf
 - ein Nachweis für das Engagement in den oben genannten Feldern
-- ein offizieller Notenspiegel 
+- ein offizieller Notenspiegel
 
 Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
 Eine Bewerbung kann bis zum 30.09.2017 eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
-Die ausgewählten Studierenden werden dann benachrichtigt. 
+Die ausgewählten Studierenden werden dann benachrichtigt.
 
 ### Noch Fragen?
-Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei Henning Moldenhauer im Büro CP-01-190 vorbei.
+Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei [einem Vorstandsmitglied im Büro](mitmachen.html) vorbei.
 
 </div>
-
-  

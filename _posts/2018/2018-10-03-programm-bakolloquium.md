@@ -26,7 +26,7 @@ am ATLAS-Detektor"
 *T1 - Kierfeld *
 
 **22.11.2018** 	Yvonne Kasper und Rune Dominik
-"Multiwellenlängen SED Studie des Blazars TXS0506+056 mit der Grid-Scan-Methode & Signal-Untergrundtrennung durch überwachtes maschinelles Lernen bei CTA"
+"Multiwellenlängen SED Studie des Blazars TXS0506+056 mit der Grid-Scan-Methode & Signal-Untergrundtrennung durch überwachtes maschinelles Lernen bei CTA"
 *E5 - Rhode*
 
 **29.11.2018** 	Karl Schiller

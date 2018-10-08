@@ -97,10 +97,10 @@ von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbe
 
 In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 
-- ein einseitiges Motivationsschreiben, warum du an dem Programm teilnehmen solltest
-- ein Lebenslauf
-- ein Nachweis für das Engagement in den oben genannten Feldern
-- ein offizieller Notenspiegel
+- Ein einseitiges Motivationsschreiben, warum du an dem Programm teilnehmen solltest
+- Ein Lebenslauf
+- Ein Nachweis für das Engagement in den oben genannten Feldern
+- Ein offizieller Notenspiegel
 
 Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
 Eine Bewerbung kann bis zum 31.10.2018 eingereicht werden. Die auf Grund des Bewerbungsschreibens

@@ -21,20 +21,19 @@ Etwa 40.000 Studierende besuchen die Universität und werden dabei von mehr als 
 Übrigens, der erste und letzte Mensch auf dem Mond waren Purdue Absolventen.
 
 #### Wann findet das Auslandsprogramm statt?
-Das Auslandsprogramm findet vom 15.05.2018 bis zum 15.08.2018 statt.
+Das Auslandsprogramm findet im Sommersemester 2018 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
 Während deines Forschungsaufenthaltes lebst du im Studentenwohnheim der Universität.
-Dort ist ein Bett in einem Doppelzimmer für dich reserviert.
-Du wohnst also mit einer anderen Studentin oder Studenten zusammen.
+Dort ist ein Einzelzimmer für dich reserviert.
 
 Während deines Forschungsaufenthalts arbeitest du in etwa 8 Stunden pro Tag.
 Neben der Arbeit kannst du in der Uni eigenen Mensa essen oder im Freizeitzentrum der Uni entspannen.
 Am Wochenende kannst du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
 
-Nach deinem Forschungsprojekt hast du die Möglichkeit weitere 30 Tage in den USA zu verbringen.
+Vor und nach deinem Forschungsprojekt hast du die Möglichkeit weitere 30 Tage in den USA zu verbringen.
 In dieser Zeit steht es dir frei, das Land auf eigene Kosten zu erkunden.
-Unter Absprache mit den Förderern kannst du dir den Ort des Rückflugs selbst aussuchen.
+Unter Absprache mit den Förderern kannst du dir den Ort des Hin- und Rückflugs selbst aussuchen.
 
 #### Mit welchem Themengebiet beschäftigst du dich?
 Das Programm findet im Bereich der Hochenergiephysik statt.
@@ -82,7 +81,7 @@ Das Stipendium deckt folgende Dinge ab:
 - Hin- und Rückreise
 - Unterkunft
 - Kosten für das Visum
-- Krankenversicherung
+- Krankenversicherung (indirekt)
 - monatliches Gehalt
 
 #### Wie läuft die Bewerbung ab?
@@ -90,10 +89,10 @@ Um an dem Auslandsprogramm teilnehmen zu dürfen, solltest du dich aktuell
 im vierten Semester befinden.
 Des Weiteren unterliegen dem Stipendium diese Voraussetzungen:
 
-- Noch kein Bachelor Abschluss bis zum 15.08.2018, aber mind. 135 CP erarbeitet haben
+- Noch kein Bachelor Abschluss bis zum Sommersemester 2019, aber mind. 135 CP erarbeitet haben
 - Angemessene Englischkenntnisse
-- exzellente Studienleistungen
-- soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten
+- Exzellente Studienleistungen
+- Soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten
 von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
 - Engagement innerhalb der Fakultät, z. B. Fachschaftsarbeit, Mitwirkung bei Schüleruni, etc.
 
@@ -105,12 +104,12 @@ In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 - ein offizieller Notenspiegel
 
 Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
-Eine Bewerbung kann bis zum 30.09.2017 eingereicht werden. Die auf Grund des Bewerbungsschreibens
+Eine Bewerbung kann bis zum 31.10.2018 eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
 Die ausgewählten Studierenden werden dann benachrichtigt.
 
 ### Noch Fragen?
-Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei [einem Vorstandsmitglied im Büro](mitmachen.html) vorbei.
+Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei [uns im Büro](mitmachen.html) vorbei.
 
 </div>

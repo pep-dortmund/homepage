@@ -66,3 +66,7 @@ veranstaltungen:
 jobboerse:
     icon: arrows-h
     url: jobboerse.html
+
+erfahrungsbericht:
+    icon: balance-scale
+    url: stipendien/erfahrungsberichte.html

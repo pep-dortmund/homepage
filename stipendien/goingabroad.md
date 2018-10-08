@@ -81,7 +81,6 @@ Das Stipendium deckt folgende Dinge ab:
 - Hin- und Rückreise
 - Unterkunft
 - Kosten für das Visum
-- Krankenversicherung (indirekt)
 - monatliches Gehalt
 
 #### Wie läuft die Bewerbung ab?

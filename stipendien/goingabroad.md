@@ -21,7 +21,7 @@ Etwa 40.000 Studierende besuchen die Universität und werden dabei von mehr als 
 Übrigens, der erste und letzte Mensch auf dem Mond waren Purdue Absolventen.
 
 #### Wann findet das Auslandsprogramm statt?
-Das Auslandsprogramm findet im Sommersemester 2018 statt.
+Das Auslandsprogramm findet im Sommersemester 2019 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
 Während deines Forschungsaufenthaltes lebst du im Studentenwohnheim der Universität.

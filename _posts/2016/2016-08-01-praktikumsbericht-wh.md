@@ -4,17 +4,17 @@ title: Forschungspraktikum an der École Polytechnique
 categories: erfahrungsbericht
 author: Henning
 ---
-Der Kontakt zu den Laboratoire de Physique de la Matière Condensée (PMC) an der École Polytechnique in Frankreich erfolgte über die Koordinatorin der Doktoranden Prof. Dr. Silke Biermann. Diese vermittelte mich an Dr. Jacques Peretti und Prof. Dr. Claude Weisbuch für mein freiwilliges Laborpraktikum, welches während der Vorlesungszeit von Anfang April bis Ende Juli im Sommersemester 2016 statt fand.
+Der Kontakt zum Laboratoire de Physique de la Matière Condensée erfolgte über die Verantwortlichen des dortigen Masterprogramms „Materials and Nano-Objects Science“. Diese vermittelten mich an Professor Dr. Claude Weisbuch und Dr. Jacques Peretti für mein freiwilliges Laborpraktikum, welches in der Vorlesungszeit von Anfang April bis Ende Juli im Sommersemester 2016 stattfand.
 
-Ziel dieses Praktikum war es einen Einblick in die Forschung und die Arbeit im Ausland zu erhalten und mir Klarheit über meinen beruflichen Werdegang zu verschaffen.
+Meine Motivation für dieses Praktikum war es einen Einblick in die Forschung und Arbeit im Ausland zu erhalten sowie Klarheit über meinen beruflichen Werdegang zu schaffen.
 
-Zu Beginn des Praktikums wurden mir drei Experimente der Arbeitsgruppe „Electrons, Photons, Surfaces“ vom Lehrstuhl PMC vorgestellt. Ich wurde mit ausreichend Literatur ausgestattet und sollte mich für eins dieser Experimente zu entscheiden. Ich entschied mich für „High resolution imaging of scanning tunneling luminescence from InGaN/GaN QWs“.
+Zu Beginn des Praktikums wurde mir die Auswahl zwischen drei Möglichen Projekten gegeben. Nach ausreichender Literatursichtung entschied ich mich an dem Experiment „High resolution imaging of scanning tunneling luminescence from InGaN/GaN QWs“ zu arbeiten.
 
-Ich begann damit vorangegangene Experimente zu rekonstruieren und bereits vorgeschlage weitere Schritte zu vollziehen, sowie eigene Erweiterungen zum Aufbau zu machen. Während des Praktikums arbeitete ich eng mit meinem Supervisor und meinem Mentor aber auch mit verschiedenen Doktoranden zusammen. Wöchentlich berichtete ich über die Fortschritte des Experiments, meine Messungen und Interpretationen. Diese Präsentationen führten zu wunderbaren, erleuchtenden Diskussionen und zu einem intensiven Auseinandersetzen mit der Thematik. Meine experimentelle Arbeit wurde von dem Theoretiker der Gruppe unterstützt.
+Ich begann damit vorangegangene Experimente zu rekonstruieren und zu erweitern. Während des Praktikums arbeitete ich eng mit meinen Betreuern aber auch Doktoranden, sowie mit den Theoretikern des Gruppe zusammen. Wöchentliche Berichte und Präsentationen über die Fortschritte des Experiments, meine Messungen und deren Interpretation führten zu wunderbaren, erleuchtenden Diskussionen und einer intensiven Auseinandersetzung mit der Thematik.
 
-Während meiner gesamten Zeit wurde ich in jeder Hinsicht als vollwertiges Mitglied der Arbeitsgruppe angesehen. Ich unterstützte bei der Betreuung einer Bachelorstudentin und gab einen Vortrag im Doktorandenseminar. Neben dem Laboralltag besuchte ich verschiedene Seminare und es war mir sogar möglich einen Teil meiner Arbeit auf der Internationalen Konferenz der Physikstudenten (ICPS) in einer „student lecture session“ zu präsentieren.
+Während meines gesamten Praktikums wurde ich in jeder Hinsicht als vollwertiges Mitglied der Arbeitsgruppe angesehen. Ich unterstützte bei der Betreuung einer Bachelorstudentin und gab einen Vortrag im Doktorandenseminar. Neben dem Laboralltag besuchte ich verschiedene Seminare und es war mir sogar möglich einen Teil meiner Arbeit auf der Internationalen Konferenz der Physikstudenten (ICPS) in einer „student lecture session“ zu präsentieren.
 
-Dieser fantastische Einblick in die Arbeit der Wissenschaft hat mich überzeugt eine Promotion anzustreben.
+Dieser fantastische Einblick in die Arbeit der Wissenschaft überzeugte mich eine Promotion anzustreben, welche ich 2017 im gleichen Labor begonnen habe.
 
 Ich bedanke mich für die finanzielle Unterstützung von Pep et al., die mir im besonderen Maße bei der Umsetzung des Praktikums half.
 

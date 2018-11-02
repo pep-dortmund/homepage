@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forschungspraktikum am Wisonsin IceCube Particle Astrophysics Center
+title: Forschungspraktikum am Wisconsin IceCube Particle Astrophysics Center
 categories: erfahrungsbericht
 author: Philipp, Henning
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Forschungspraktikum am Wisonsin IceCube Particle Astrophysics Center
 categories: erfahrungsbericht
-author: Henning
+author: Philipp, Henning
 ---
 Ziel meiner Masterarbeit ist es die Myonen aus Luftschauern von verschiedenen Primärteilchen zu charakterisieren. Besonderes Augenmerk liegt dabei auf der Myonmultiplizität, der Anzahl an Myonen im Schauer. Dazu habe ich von April bis August ein Praktikum in Madison, USA gemacht.
 

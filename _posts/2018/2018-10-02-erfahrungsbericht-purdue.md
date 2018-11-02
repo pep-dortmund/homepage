@@ -3,7 +3,7 @@ layout: post
 title: Erfahrungsbericht des ersten Purdue-Austausches
 categories: erfahrungsbericht
 image: images/stipendien/pape_becker_going_abroad-2.jpg
-author: Henning
+author: Steven, Sebastian, Henning
 ---
 
 Schon bei der Ankunft beeindruckte die Purdue Univeristy mit ihrem modernen und gepflegten Campus.  Auf diesem befindet sich neben einer Vielzahl von Universitätsgebäuden und Studentenverbindungshäusern, auch unser Wohnheim „Hawkins Hall”, in dem wir den Großteil unseres Aufenthalts gewohnt haben. In der Hawkins Hall hatten wir ein Einzelzimmer, welches mit Bett und Schreibtisch ausreichend zum studieren eingerichtet war.

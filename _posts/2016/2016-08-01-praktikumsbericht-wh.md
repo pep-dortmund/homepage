@@ -2,7 +2,7 @@
 layout: post
 title: Forschungspraktikum an der École Polytechnique
 categories: erfahrungsbericht
-author: Henning
+author: Wiebke
 ---
 Der Kontakt zum Laboratoire de Physique de la Matière Condensée erfolgte über die Verantwortlichen des dortigen Masterprogramms „Materials and Nano-Objects Science“. Diese vermittelten mich an Professor Dr. Claude Weisbuch und Dr. Jacques Peretti für mein freiwilliges Laborpraktikum, welches in der Vorlesungszeit von Anfang April bis Ende Juli im Sommersemester 2016 stattfand.
 

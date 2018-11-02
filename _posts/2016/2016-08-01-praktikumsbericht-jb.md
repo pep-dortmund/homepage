@@ -2,7 +2,7 @@
 layout: post
 title: Forschungspraktikum in Norwegen
 categories: erfahrungsbericht
-author: Jacqueline
+author: Jacqueline, Henning
 ---
 
 Von April bis Ende Juli 2016 habe ich ein viermonatiges Praktikum an der Universität Tromsø in Norwegen absolviert. Tromsø liegt 350 km oberhalb des Polarkreise und die UiT ist somit die nördlichste Universität der Welt.

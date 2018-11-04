@@ -70,3 +70,7 @@ jobboerse:
 erfahrungsbericht:
     icon: balance-scale
     url: stipendien/erfahrungsberichte.html
+
+klassenzimmer:
+    icon:
+    url: vereinsleben/klassenzimmer.html

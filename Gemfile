@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '3.6.2'
+gem 'jekyll', '3.8.4'
 gem 'jekyll-paginate'
-gem 'github-pages'
 gem 'html-proofer'
 gem 'execjs'

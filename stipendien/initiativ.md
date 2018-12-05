@@ -2,6 +2,7 @@
 title: Initiativstipendien
 subtitle: Hier gibt es Informationen zu unseren Initiativstipendien.
 layout: page-custom
+category: initiativ
 ---
 <div class="box" markdown="1">
 Die finanzielle Förderung kann bis zu 150 € monatlich

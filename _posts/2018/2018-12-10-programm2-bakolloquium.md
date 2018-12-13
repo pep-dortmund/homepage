@@ -12,7 +12,7 @@ Donnerstags, 10–11 Uhr, AV-Raum (P2-E0-414)
 "Präparation und Untersuchung von Oberflächen zur Optimierung der Graphenpräparation & Automatisierung der Einkristall-Präparation"
 *E1 - Westphal*
 
-**13.12.2018** 	Jonah Nitschke
+**13.12.2018** 	Lars Röhrig
 "Überprüfung der Möglichkeit empirischer Simulationen von Thermolumineszenzglühkurven mithilfe neuronaler Netze"
 *E4 - Kröninger*
 
@@ -24,6 +24,6 @@ Donnerstags, 10–11 Uhr, AV-Raum (P2-E0-414)
 "Einfluss der Hochdruckkühlrate auf die Dynamik in dotiertem Eis XII"
 *E3 - Böhmer*
 
-**21.01.2019** 	Felix Landmeyer
+**24.01.2019** 	Felix Landmeyer
 "Gasadsorption an hydrophoben Oberflächen"
 *E1 - Tolan*

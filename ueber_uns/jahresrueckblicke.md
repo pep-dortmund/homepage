@@ -2,6 +2,7 @@
 title: Jahresrückblicke
 subtitle: Hier findet ihr alle Jahresrückblicke der vergangenen Jahre.
 layout: one-card
+category: jahresberichte
 ---
 In den Jahresrückblicken ist jeweils die Vereinsarbeit eines Jahres kurz zusammengefasst:
 

@@ -2,6 +2,7 @@
 title: Going Abroad
 subtitle: Hier gibt es Informationen zu unseren Auslandsprogrammen.
 layout: one-card
+category: goingabroad
 ---
 ### Bachelorarbeit in Purdue
 

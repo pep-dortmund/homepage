@@ -1,10 +1,9 @@
 ---
 title: Initiativstipendien
 subtitle: Hier gibt es Informationen zu unseren Initiativstipendien.
-layout: page-custom
+layout: one-card
 category: initiativ
 ---
-<div class="box" markdown="1">
 Die finanzielle Förderung kann bis zu 150 € monatlich
 betragen und ist auf den Projektzeitraum befristet, wobei die Vergabe der
 Stipendien leistungsorientiert und einkommensunabhängig erfolgt.
@@ -22,4 +21,3 @@ Initiativstipendium](dokumente/initiativstipendium_bewerbung.pdf)
 Die Förderung durch das Begabtenförderungsprogramm ist unabhängig von einer
 Mitgliedschaft im Alumniverein, sodass Nichtmitglieder keinerlei Nachteile
 haben.
-</div>

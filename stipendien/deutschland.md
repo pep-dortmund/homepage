@@ -1,9 +1,8 @@
 ---
 title: Deutschlandstipendien
 subtitle: Hier gibt es Informationen zu den Deutschlandstipendien.
-layout: page-custom
+layout: one-card
 ---
-<div class="box" markdown="1">
 Die finanzielle Förderung beträgt 300 € monatlich und
 ist auf ein Jahr befristet, wobei die Vergabe der Stipendien
 leistungsorientiert und einkommensunabhängig erfolgt.
@@ -25,4 +24,3 @@ Der Bewerbungszeitraum läuft immer vom 15. August bis zum 15. September.
 Die Förderung durch das Begabtenförderungsprogramm ist unabhängig von einer
 Mitgliedschaft im Alumniverein, sodass Nichtmitglieder keinerlei Nachteile
 haben.
-</div>

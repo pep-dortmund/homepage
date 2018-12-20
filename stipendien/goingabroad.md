@@ -1,10 +1,9 @@
 ---
 title: Going Abroad
 subtitle: Hier gibt es Informationen zu unseren Auslandsprogrammen.
-layout: page-custom
+layout: one-card
 category: goingabroad
 ---
-<div class="box" markdown="1">
 ### Bachelorarbeit in Purdue
 
 #### *Going Abroad - Purdue*, was soll das sein?
@@ -111,5 +110,3 @@ Die ausgewählten Studierenden werden dann benachrichtigt.
 
 ### Noch Fragen?
 Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei [uns im Büro](mitmachen.html) vorbei.
-
-</div>

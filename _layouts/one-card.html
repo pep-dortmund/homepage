@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="container hyphenate mb-3">
+  <header class="text-center">
+    <h2>{{ page.title }}</h2>
+    <hr>
+    {% if page.subtitle %}
+    <p>{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+  <div class="card">
+    <div class="card-body">
+      {{ content }}
+    </div>
+  </div>
+</div>

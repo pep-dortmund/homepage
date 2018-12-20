@@ -1,28 +1,22 @@
 ---
 title: Kontakt & Impressum
 subtitle: Impressum des Vereins Physikstudierende und ehemalige Physikstudierende der Technischen Universität Dortmund et al. e.V.
-layout: page-custom
+layout: one-card
 ---
-<div class="box" markdown="1">
 #### Verantwortlich im Sinne von § 5 TMG
-
-<img alt="" src="images/impressum.svg">
+![](images/impressum.svg)
 
 #### Kontakt
-
 [kontakt@pep-dortmund.org](mailto:kontakt@pep-dortmund.org)
 
 #### Registergericht
-
 Amtsgericht Dortmund
 
 #### Eingetragener Verein
-
 Vereinsregisternummer VR5898
 
 #### Verantwortlich für den Inhalt nach §55 Abs. 2 RStV
-
-<img alt="" src="images/redaktion.svg">
+![](images/redaktion.svg)
 
 #### Haftungsausschluss
 
@@ -85,4 +79,3 @@ kommerziellen Verwendung und Weitergabe ihrer Daten (vgl. § 28 BDSG).
 All persons who are mentioned on this website strongly object any use
 of their addresses for commercial purposes (§ 28 of the German Federal
 Law on the Protection of Privacy).
-</div>

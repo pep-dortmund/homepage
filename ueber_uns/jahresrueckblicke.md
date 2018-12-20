@@ -10,3 +10,4 @@ In den Jahresrückblicken ist jeweils die Vereinsarbeit eines Jahres kurz zusamm
 |[Jahresrückblick 2015](dokumente/jahresrueckblick_2015.pdf)|
 |[Jahresrückblick 2014](dokumente/jahresrueckblick_2014.pdf)|
 |[Jahresrückblick 2013](dokumente/jahresrueckblick_2013.pdf)|
+{: class="table table-bordered table-hover"}

@@ -21,3 +21,4 @@ Zudem werden zukünftige Projekte geplant und bewilligt. Darüber hinaus wird de
 |[Protokoll der außerordentlichen Mitgliederversammlung von 2007](dokumente/jhv_2007_ao.pdf)|
 |[Protokoll der Mitgliederversammlung von 2006](dokumente/jhv_2006.pdf)|
 |[Protokoll der Mitgliederversammlung von 2005](dokumente/jhv_2005.pdf)|
+{: class="table table-bordered table-hover"}

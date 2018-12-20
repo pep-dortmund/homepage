@@ -2,6 +2,7 @@
 title: Initiativstipendien
 subtitle: Hier gibt es Informationen zu unseren Initiativstipendien.
 layout: one-card
+category: initiativ
 ---
 Die finanzielle Förderung kann bis zu 150 € monatlich
 betragen und ist auf den Projektzeitraum befristet, wobei die Vergabe der

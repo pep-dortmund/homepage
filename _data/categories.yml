@@ -4,7 +4,7 @@ absolventenfeier:
     jump-to-id: true
 
 special:
-    icon: flag-o
+    icon: flag
     url: archive/index.html
     jump-to-id: true
 
@@ -13,11 +13,11 @@ bachelorkolloquium:
     url: vereinsleben/bachelorkolloquium.html
 
 mitmachen:
-    icon: hand-pointer-o
+    icon: hand-pointer
     url: mitmachen.html
 
 satzung:
-    icon: bookmark-o
+    icon: bookmark
 
 vorstand:
     icon: users
@@ -26,7 +26,7 @@ protokolle:
     icon: paperclip
 
 interessensgruppen:
-    icon: group # connectdevelop
+    icon: user-friends
     url: vereinsleben/interessensgruppen.html
 
 jahresberichte:
@@ -38,12 +38,12 @@ toolbox:
     url: vereinsleben/toolbox.html
 
 sommerakademie:
-    icon: sun-o
+    icon: sun
     url: vereinsleben/soak.html
 
 mindstorms:
-    icon: scissors
-    url: vereinsleben/toolbox.html
+    icon: cut
+    url: vereinsleben/mindstorms.html
 
 stammtisch:
     icon: comments-o
@@ -51,20 +51,20 @@ stammtisch:
 
 berufsfelderseminar:
     icon: briefcase
-    url: vereinsleben/toolbox.html
+    url: vereinsleben/berufsfelderseminar.html
 
 spenden:
-    icon: euro
+    icon: euro-sign
 
 stipendien:
     icon: support
 
 veranstaltungen:
-    icon: calendar-o
+    icon: calendar
     url: vereinsleben/veranstaltungen.html
 
 jobboerse:
-    icon: arrows-h
+    icon: arrows-alt-h
     url: jobboerse.html
 
 erfahrungsbericht:
@@ -74,3 +74,12 @@ erfahrungsbericht:
 klassenzimmer:
     icon: chalkboard-teacher
     url: vereinsleben/klassenzimmer.html
+
+kontakt:
+    icon: envelope
+
+goingabroad:
+    icon: globe
+
+initiativ:
+    icon: lightbulb

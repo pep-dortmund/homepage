@@ -9,7 +9,7 @@ image: images/2019-01-06-kolloquium.png
 Zum Anfang des Jahres lädt PeP et al. e.V. zum (diesmal nicht nur)
 physikalischen Kolloquium ein.  
 Unter dem Thema "Dortmunder Physik zum Durchstarten" werden die
-Alumni Igor, Jan und Kevin über ihre beruflichen Erfahrungen nach dem Studium
+Alumni Igor Babuschkin, Jan Brandt und Kevin Dungs über ihre beruflichen Erfahrungen nach dem Studium
 in Dortmund berichten.
 
 Die Vorträge finden am 08.01.19 um 16:30 im HS2 statt. Weitere Informationen

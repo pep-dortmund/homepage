@@ -10,6 +10,7 @@ $theme-colors: (
 );
 $body-bg: mix(#B7B6B6, #FFFFFF, 20%);
 $font-family-base: "Fira Sans", sans-serif;
+$carousel-control-color: var(--primary);
 
 @import "bootstrap";
 
@@ -156,6 +157,18 @@ a.icon:hover {
   height: 180px;
   overflow: hidden;
   border-radius: 50%;
+}
+
+.carousel-indicators {
+  bottom: 5px;
+}
+
+.carousel-indicators li {
+  background-color : var(--secondary);
+}
+
+.carousel-indicators .active {
+  background-color : var(--dark);
 }
 
 .image.wall-of-fame img {

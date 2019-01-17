@@ -1,0 +1,41 @@
+<!-- Carousel -->
+<div id="{{ include.name }}" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    {% for post in include.data reversed %}
+    <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
+      {% capture toggle %}{{ forloop.index | modulo:2 }}{% endcapture %}
+      <div class="card mt-3 mx-auto" style="width : 90%;">
+        <div class="card-body">
+          <h1 class="card-title">{{ post.title }}</h1>
+          {% if post.subtitle %}
+          <p><em>{{ post.subtitle }}</em></p>
+          {% endif %}
+          <span class="image {% if toggle == '0' %}float-right ml-2{% else %}float-left mr-2{% endif %} wall-of-fame">
+            <!-- adjusting the image position a little bit to the left via object-position -->
+            <img src="{{ post.image }}" alt="" style="{{ post.image-style }}">
+          </span>
+          {{ post.content | markdownify }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    <ol class="carousel-indicators">
+      {% for post in include.data %}
+      <li
+        data-target="#{{ include.name }}"
+        data-slide-to="{{ forloop.index0 }}"
+        class="{% if forloop.first == true %}active{% endif %}">
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+
+  <a class="carousel-control-prev" href="#{{ include.name }}" role="button" data-slide="prev" style="width : 3%">
+    <span class="carousel-control-prev-icon fas fa-angle-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#{{ include.name }}" role="button" data-slide="next" style="width : 3%">
+    <span class="carousel-control-next-icon fas fa-angle-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

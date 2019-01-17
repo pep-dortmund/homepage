@@ -20,7 +20,7 @@
     </div>
     {% endfor %}
     <ol class="carousel-indicators">
-      {% for post in include.data %}
+      {% for post in include.data reversed %}
       <li
         data-target="#{{ include.name }}"
         data-slide-to="{{ forloop.index0 }}"

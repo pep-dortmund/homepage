@@ -1,5 +1,5 @@
 <!-- Carousel -->
-<div id="{{ include.name }}" class="carousel slide" data-ride="carousel">
+<div id="{{ include.name }}" class="carousel slide" data-ride="carousel" data-interval="30000">
   <div class="carousel-inner">
     {% for post in include.data reversed %}
     <div class="carousel-item {% if forloop.first == true %}active{% endif %}">

@@ -2,7 +2,7 @@
 layout: post
 title: Mindstorms am Heisenberg Gymnasium
 categories: special mindstorms
-image: images/01_Lego.JPG
+image: images/01_Lego_02.JPG
 author: Laura, Lena
 ---
 Seit Anfang des Schuljahres 2018/19 bereichert die Lego AG das Nachmittagsprogramm des Heisenberg Gymnasiums in Dortmund Eving.
@@ -13,6 +13,7 @@ Aber nicht nur die Schülerinnen und Schüler profitieren von dieser Zusammenarb
 Aber auch die Betreuerinnen und Betreuer freuen sich neue Erfahrungen sammeln zu können.
 Jede Woche werden Aufgaben auf neue kreative Art gelöst und Parcours mit den selbstgebauten Robotern gemeistert.   
 Auch im 2. Halbjahr wird die AG wieder angeboten, um den Informatikraum mit neuen Ideen zum Leben zu erwecken.
+Mit René Lehner und Christian Arauner sind zwei motivierte Betreuer für das kommende Halbjahr dabei!
 
 
-Wir freuen uns übrigens immer über Unterstützung! Falls du Lust hast, dich in einer Lego Mindstroms AG zu engagieren, melde dich bei uns!
+Wir freuen uns übrigens immer über Unterstützung! Falls du Lust hast, dich in einer Lego Mindstroms AG zu engagieren, melde dich bei uns unter kontakt@pep-dortmund.org

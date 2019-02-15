@@ -2,7 +2,7 @@
 layout: post
 title: Mindstorms am Heisenberg Gymnasium
 categories: special mindstorms
-image: images/01_Lego_02.JPG
+image: images/01_Lego.JPG
 author: Laura, Lena
 ---
 Seit Anfang des Schuljahres 2018/19 bereichert die Lego AG das Nachmittagsprogramm des Heisenberg Gymnasiums in Dortmund Eving.

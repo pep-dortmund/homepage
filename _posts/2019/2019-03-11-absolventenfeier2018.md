@@ -8,8 +8,8 @@ author: Marie
 
 
 
-Mit insgesamt über 500 Gästen, Eltern, Freunden und Professoren feierten die Abschlussjahrgänge 
-des Jahres 2019 am 2. März 2019 ihre Absolventenfeier.
+Mit insgesamt über 500 Gästen, Eltern, Freunden und Professoren feierte der Abschlussjahrgang 
+des Jahres 2018 am 2. März 2019 seine Absolventenfeier.
 Neben vielen Ehrengästen durften wir unter Anderen die Prorektorin Studium Insa Melle in unseren Reihen begrüßen.
 In feierlichem Rahmen überreichte der Dekan Prof. Dr. Frithjof Anders den Absolventinnen und Absolventen Ihre Urkunden.
 Insgesamt konnten 43 Bachelor-, 67 Master- und 10 Promotions-Urkunden und Zeugnisse verliehen werden.

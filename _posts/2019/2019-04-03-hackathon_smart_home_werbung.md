@@ -6,8 +6,8 @@ image: images/Hackathon_SmartHome2019.png
 author: Simone
 ---
 
-Schon im Mai findet der nächste Hackathon statt. Diesmal ist das Thema „Smart Home mit dem RaspberryPi”. 
-Ein Wochenende lang werden wir an den Projekten 'Light Control', 'Smart Mirrow' und 'Photobox' arbeiten.
+Schon im Mai findet der nächste Hackathon statt. Diesmal ist das Thema „Smart Home mit dem Raspberry Pi”. 
+Ein Wochenende lang werden wir an den Projekten 'Light Control', 'Smart Mirror' und 'Photobox' arbeiten.
 
 Stattfindet wird der Hackathon vom 24. bis 26. Mai im Tagungshaus Grend in Essen. 
 Für den Workshop zahlt ihr inklusive Übernachtung und Verpflegung 20€.

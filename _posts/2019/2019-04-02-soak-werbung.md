@@ -8,7 +8,7 @@ author: Valentin, Karl
 
 Sonne und Physik in den österreichischen Alpen!
 
-Vom 17.08. bis zum 25.05. wollen wir mit Euch eine Woche mit physikalischen und
+Vom 17.08. bis zum 25.08. wollen wir mit Euch eine Woche mit physikalischen und
 fachfremden Vorträgen,
 allerhand Projekten und verschiedenen Freizeitbeschäftigungen verbringen.
 

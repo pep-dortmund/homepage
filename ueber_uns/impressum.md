@@ -15,9 +15,6 @@ Amtsgericht Dortmund
 #### Eingetragener Verein
 Vereinsregisternummer VR5898
 
-#### Verantwortlich für den Inhalt nach §55 Abs. 2 RStV
-![](images/redaktion.svg)
-
 #### Haftungsausschluss
 
 ##### Verweise auf externe Web-Seiten

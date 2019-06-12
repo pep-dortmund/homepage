@@ -6,7 +6,7 @@ author: Karl
 image: images/2019-06-03-hackathon-smart-home-gruppenfoto.jpg
 ---
 
-Vom 24. bis 26. Mai haben 18 TeilnehmerInnen an verschiedenen Projekten rund um
+Vom 24. bis 26. Mai haben 18 Teilnehmer*innen an verschiedenen Projekten rund um
 den Raspberry Pi gearbeitet.
 Neben der Kontrolle von Lampen mittels Geräusch- und Bewegungssensoren wurde
 eine Photobox gebaut und ein Smart Mirror konstruiert.

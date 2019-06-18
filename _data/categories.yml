@@ -65,7 +65,7 @@ veranstaltungen:
 
 jobboerse:
     icon: arrows-alt-h
-    url: jobboerse.html
+    url: jobboerse/
 
 erfahrungsbericht:
     icon: balance-scale

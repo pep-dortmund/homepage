@@ -12,16 +12,17 @@ category: goingabroad
 In den drei Monaten des Auslandsprogramms wirst du Teil von Jungs Team an der
 [Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
 in den USA. Dort wirst du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt sein. Neben neuen
-Bereichen der Physik hast du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendium angeboten, das heißt, ein Großteil der anfallenden Kosten wird übernommen.
+Bereichen der Physik hast du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendium angeboten, das heißt, ein Großteil der anfallenden Kosten wird übernommen. Du kannst dir auch die [Erfahrungsberichte](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der vergangenen Stipendiaten durchlesen, um einen ersten Eindruck vom Programm zu erhalten.
 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
 Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
+Im weltweiten [Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2019/physics-astronomy), im Bereich der Physik, ist Purdue unter den Top 100 der besten Universitäten.
 Etwa 40.000 Studierende besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
 Übrigens, der erste und letzte Mensch auf dem Mond waren Purdue Absolventen.
 
 #### Wann findet das Auslandsprogramm statt?
-Das Auslandsprogramm findet im Sommersemester 2019 statt.
+Das Auslandsprogramm findet im Sommersemester 2020 statt.
 
 #### Wie und wo lebt man während des Aufenthalts?
 Während deines Forschungsaufenthaltes lebst du im Studentenwohnheim der Universität.
@@ -81,14 +82,14 @@ Das Stipendium deckt folgende Dinge ab:
 - Hin- und Rückreise
 - Unterkunft
 - Kosten für das Visum
-- monatliches Gehalt
+- Monatliches Gehalt
 
 #### Wie läuft die Bewerbung ab?
 Um an dem Auslandsprogramm teilnehmen zu dürfen, solltest du dich aktuell
 im vierten Semester befinden.
 Des Weiteren unterliegen dem Stipendium diese Voraussetzungen:
 
-- Noch kein Bachelor Abschluss bis zum Sommersemester 2019, aber mind. 135 CP erarbeitet haben
+- Noch kein Bachelor Abschluss bis zum Sommersemester 2020, aber mind. 135 CP erarbeitet haben
 - Angemessene Englischkenntnisse
 - Exzellente Studienleistungen
 - Soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten
@@ -103,7 +104,7 @@ In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
 - Ein offizieller Notenspiegel
 
 Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
-Eine Bewerbung kann bis zum ~~30.11.2018~~ 06.12.2018 eingereicht werden. Die auf Grund des Bewerbungsschreibens
+Eine Bewerbung kann bis zum  __31.10.2019__ eingereicht werden. Die auf Grund des Bewerbungsschreibens
 ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
 Die ausgewählten Studierenden werden dann benachrichtigt.

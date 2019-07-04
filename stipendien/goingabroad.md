@@ -12,7 +12,10 @@ category: goingabroad
 In den drei Monaten des Auslandsprogramms wirst du Teil von Jungs Team an der
 [Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
 in den USA. Dort wirst du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt sein. Neben neuen
-Bereichen der Physik hast du die Chance das amerikanische Leben kennenzulernen. Das Programm wird als Stipendium angeboten, das heißt, ein Großteil der anfallenden Kosten wird übernommen. Du kannst dir auch die [Erfahrungsberichte](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der vergangenen Stipendiaten durchlesen, um einen ersten Eindruck vom Programm zu erhalten.
+Bereichen der Physik hast du die Chance das amerikanische Leben kennenzulernen.
+Das Programm wird als Stipendium angeboten, das heißt, ein Großteil der anfallenden Kosten wird übernommen.
+Du kannst dir auch die [Erfahrungsberichte](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der
+vergangenen Stipendiaten durchlesen, um einen ersten Eindruck des Programms zu erhalten.
 
 #### Purdue? Was ist das für eine Uni?
 Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
@@ -110,4 +113,5 @@ Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom 
 Die ausgewählten Studierenden werden dann benachrichtigt.
 
 ### Noch Fragen?
-Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ bei [uns im Büro](mitmachen.html) vorbei.
+Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ
+bei [uns im Büro](mitmachen.html) vorbei.

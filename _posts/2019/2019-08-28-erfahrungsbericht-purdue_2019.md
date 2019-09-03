@@ -7,7 +7,7 @@ author: Nicole, Jonah, Steven
 ---
 
 
-Bereits bei der Ankuft an der Purdue University wurde uns bewusst, dass sich das amerikanische Studentenleben deutlich von dem eines deutschen Studierenden unterscheidet. Der Campus der Universität ist um einiges größer als der einer deutschen Universität. Neben einer Vielzahl and Studentenwohnheimen gibt es dort einige Verbindungshäuser von sogenannten Sororities und Fraternities. Desweiteren gibt es eine Menge Restaurants (viele davon Fast Food) am Campus, sodass man, wenn man eine Abwechslung von dem Mensaessen wünscht, eine vielfältige Auswahl an Alternativen zur Verfügung hat.
+Bereits bei der Ankuft an der Purdue University wurde uns bewusst, dass sich das amerikanische Studentenleben deutlich von dem eines deutschen Studierenden unterscheidet. Der Campus der Universität ist um einiges größer als der einer deutschen Universität. Neben einer Vielzahl an Studentenwohnheimen gibt es dort einige Verbindungshäuser von sogenannten Sororities und Fraternities. Desweiteren gibt es eine Menge Restaurants (viele davon Fast Food) am Campus, sodass man, wenn man eine Abwechslung von dem Mensaessen wünscht, eine vielfältige Auswahl an Alternativen zur Verfügung hat.
 
 Während unserer Zeit am Campus lebten wir in dem Studentenwohnheim _Hawkins Hall_. Unsere Zimmer waren ausgestattet mit einem Bett, einem Schreibtisch und einem Kleiderschrank. Desweiteren gab es auf jedem Stockwerk ein Gemeinschaftszimmer, indem man sich mit seinen “Nachbarn” treffen konnte. Desweiteren gab es eine Gemeinschaftsküche, in der man sein eigenes Essen zubereiten konnte.
 

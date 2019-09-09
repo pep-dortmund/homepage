@@ -6,7 +6,7 @@ image: images/stipendien/pape_becker_going_abroad-2.jpg
 author: Steven, Sebastian, Henning
 ---
 
-Schon bei der Ankunft beeindruckte die Purdue Univeristy mit ihrem modernen und gepflegten Campus.  Auf diesem befindet sich neben einer Vielzahl von Universitätsgebäuden und Studentenverbindungshäusern, auch unser Wohnheim „Hawkins Hall”, in dem wir den Großteil unseres Aufenthalts gewohnt haben. In der Hawkins Hall hatten wir ein Einzelzimmer, welches mit Bett und Schreibtisch ausreichend zum studieren eingerichtet war.
+Schon bei der Ankunft beeindruckte die Purdue University mit ihrem modernen und gepflegten Campus.  Auf diesem befindet sich neben einer Vielzahl von Universitätsgebäuden und Studentenverbindungshäusern, auch unser Wohnheim „Hawkins Hall”, in dem wir den Großteil unseres Aufenthalts gewohnt haben. In der Hawkins Hall hatten wir ein Einzelzimmer, welches mit Bett und Schreibtisch ausreichend zum studieren eingerichtet war.
 
 Nachdem Frühstück in einer der Mensen, sind wir mit unseren Fahrrädern zum Fakultätsgebäude gefahren. Dort hat Sebastian an der „Kritischen Schichtanalyse von Phase 2 Pixelsensoren des  CMS Detektors“ gearbeitet. Hierfür hat er Finite Elemente Analysen mit der Software ANSYS durchgeführt. Steven hat sich im Reinraum mit der „Inbetriebnahme eines laserbasierten Testsystem für CMS Phase 1 Pixelsensoren“ beschäftigt.
 

@@ -9,8 +9,8 @@ Jedes Jahr im Sommer veranstalten wir eine Sommerakademie in den österreichisch
 Neben Vorträgen zu konkreten Forschungsprojekten, Erfahrungsberichten von Physikerinnen und Physikern und Workshops zu physikalischen und fachfremden Themen, bieten die umliegenden Berge und die Natur die Möglichkeit für ein abwechslungsreiches Freizeitprogramm.
 
 In diesem Jahr findet die Sommerakademie mit dem Hauptthema
-„Der Mensch in Bewegung“
-vom 18.–26. August statt.
+„Zeit“
+vom 21.–28. August statt.
 
 
-Das Anmeldeformular als Download gibt es [hier](dokumente/soak18_anmeldung.pdf).
+Die Anmeldung erfolgt [hier](https://registration.pep-dortmund.org/events/3/registration/).

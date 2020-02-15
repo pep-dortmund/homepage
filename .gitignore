@@ -1,3 +1,4 @@
+.jekyll-cache
 .DS_Store
 dist
 cabal-dev

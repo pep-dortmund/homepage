@@ -17,5 +17,3 @@ Alle Informationen sind in den jeweiligen Stellenausschreibungen zu finden:
 * [IT-Spezialistinnen und IT-Spezialisten (m/w/d) als System- oder Fachadministratoren/-administratorinnen](dokumente/ausschreibungen_jobboerse/2020-04-03_verfassungsschutz4.pdf)
 
 * [IT-Spezialistinnen und IT-Spezialisten (m/w/d) für Netzwerktechnik / Netzwerkadministration](dokumente/ausschreibungen_jobboerse/2020-04-03_verfassungsschutz5.pdf)
- 
-

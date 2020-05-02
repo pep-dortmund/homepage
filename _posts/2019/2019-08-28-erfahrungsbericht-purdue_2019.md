@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erfahrungsbericht des zweiten Purdue-Austausches
-categories: erfahrungsbericht
+categories: goingabroad
 image: images/stipendien/schulte_blank_going_abroad_2019.jpg
 author: Nicole, Jonah, Steven
 ---

@@ -1,5 +1,5 @@
 ---
-question: Wie lebe ich während des Aufenthalts?
+question: Wie sieht mein Tag in Purdue aus?
 faq-name: purdue
 ---
 

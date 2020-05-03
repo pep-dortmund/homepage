@@ -79,7 +79,6 @@ kontakt:
     icon: envelope
 
 goingabroad:
-    icon: user-astronaut
     url: stipendien/goingabroad.html
 
 initiativ:

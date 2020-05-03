@@ -6,7 +6,7 @@ faq-name: purdue
 Die Arbeitsgruppe von Prof. Dr. Andreas Jung forscht mit dem [CMS Detektor](https://de.wikipedia.org/wiki/Compact_Muon_Solenoid) am LHC, dem größten Teilchenbeschleuniger der Welt im [CERN](https://de.wikipedia.org/wiki/CERN).
 Deine Bachelorarbeit wird im Themengebiet der modernen experimentellen Teilchenphysik liegen und sich mit Physik an der Front der Forschung beschäftigen. 
 Du hast die Auswahl zwischen Hardware-Themen und der Datenanalyse. 
-Um besser einordnen zu können, welche Themen dir die Arbeit bieten kann, kannst du dir die [Kurzfassung der Bacheloarbeit]((https://pep-dortmund.org/stipendien/stipendien/purdue-themen.html)) 
+Um besser einordnen zu können, welche Themen dir die Arbeit bieten kann, kannst du dir die [Kurzfassung der Bacheloarbeit](https://pep-dortmund.org/stipendien/stipendien/purdue-themen.html))
 
 Du willst es noch genauer wissen? Dann lese jetzt
 <a class="" type="button" data-toggle="collapse" href="#purdue-thema-more" aria-expanded="false" aria-controls="purdue-thema-more">mehr...</a>

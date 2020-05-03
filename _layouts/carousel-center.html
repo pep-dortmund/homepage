@@ -19,7 +19,7 @@ layout: default
     <h3 class="text-center">{{ page.firstheading }}</h3>
   {% endif %}
   {% if page.carousel-cards %}
-    <div id="{{ idname }}" class="carousel slide mx-auto mb-3" {% if page.interval %} data-interval="{{ page.interval }}" {% endif %} data-ride="carousel" style="max-width: 70vh;">
+    <div id="{{ idname }}" class="carousel slide mx-auto mb-5" {% if page.interval %} data-interval="{{ page.interval }}" {% endif %} data-ride="carousel" style="max-width: 70vh;">
       <ol class="carousel-indicators">
       {% for card in page.carousel-cards %}
         <li data-target="#{{ idname }}" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %} active {% endif %}"></li>
@@ -35,13 +35,13 @@ layout: default
                 </div>
               {% endif %}
               <div class="card-body">
-                <p class="card-text">{{ card.quote }} 
+                <p class="card-text">{{ card.quote }}
                   {% if card.link %}
                     <a href="{{ card.link }}">Mehr...</a>
                   {% endif %}
                 </p>
                 {% if card.name %}
-                  <footer class="blockquote-footer mb-3">{{ card.name }}</footer>      
+                  <footer class="blockquote-footer mb-3">{{ card.name }}</footer>
                 {% endif %}
               </div>
             </div>

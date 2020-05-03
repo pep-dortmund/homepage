@@ -7,5 +7,5 @@ Du wirst durch deinen Aufenthalt in Amerika keine zusätzliche kosten selber tra
 
 - Hin- und Rückreise
 - Unterkunft
+- Verpflegung
 - Kosten für das Visum
-- Monatliches Gehalt

@@ -1,14 +1,12 @@
 ---
-question: Ist der Aufenthalt auch fachlich interessant?
+question: Mit welchem Themengebiet beschäftigst du dich?
 faq-name: purdue
 ---
 
-Wir sind überzeugt, dass dir das Programm nicht nur eine außergewöhnliche persönliche Erfahrung bietet, sondern auch physikalisch höchst spannend ist.
-Seine Arbeitsgruppe forscht mit dem [CMS Detektor](https://de.wikipedia.org/wiki/Compact_Muon_Solenoid) am LHC, dem größten Teilchenbeschleuniger der Welt im [CERN](https://de.wikipedia.org/wiki/CERN).
+Die Arbeitsgruppe von Prof. Dr. Andreas Jung forscht mit dem [CMS Detektor](https://de.wikipedia.org/wiki/Compact_Muon_Solenoid) am LHC, dem größten Teilchenbeschleuniger der Welt im [CERN](https://de.wikipedia.org/wiki/CERN).
 Deine Bachelorarbeit wird im Themengebiet der modernen experimentellen Teilchenphysik liegen und sich mit Physik an der Front der Forschung beschäftigen. 
-Du hast die Auswahl zwischen Hardware-Themen und der Datenanalyse. Dies bedeutet insbesondere, dass „experimentelle Physik” nicht unbedingt bedeutet, dass du im Labor stehst. 
-Für welches Thema du dich auch entscheidest: Du wirst lernen moderne Methoden der Physik (z.B. „Machine Learning”) anzuwenden. 
-Um besser einordnen zu können, welche Chancen dir die Arbeit bieten kann, könntest du dir die [Abstracts der durch das Stipendium bereits entstandenen Arbeiten angucken](stipendien/goingabroad.html#abstracts). 
+Du hast die Auswahl zwischen Hardware-Themen und der Datenanalyse. 
+Um besser einordnen zu können, welche Themen dir die Arbeit bieten kann, kannst du dir die [Kurzfassung der Bacheloarbeit]((https://pep-dortmund.org/stipendien/stipendien/purdue-themen.html)) 
 
 Du willst es noch genauer wissen? Dann lese jetzt
 <a class="" type="button" data-toggle="collapse" href="#purdue-thema-more" aria-expanded="false" aria-controls="purdue-thema-more">mehr...</a>

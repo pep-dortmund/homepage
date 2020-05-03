@@ -2,7 +2,7 @@
 layout: post
 title: Kritische Schichtanalyse der Unterstützungsstruktur von CMS Phase-2 Pixelsensoren
 categories: purdue-themen
-author: Sebastian
+author: Sebastian Pape
 ---
 
 The following bachelor thesis discusses a thermal analysis of the support and

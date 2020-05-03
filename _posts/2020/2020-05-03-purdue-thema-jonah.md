@@ -2,7 +2,7 @@
 layout: post
 title: ""
 categories: purdue-themen
-author: Jonah
+author: Jonah Blank
 ---
 ## Studies on event selection criteria for the non-resonant {% latex %}HH\rightarrow b\bar{b}b\bar{b}{% endlatex %} decay channel 
 

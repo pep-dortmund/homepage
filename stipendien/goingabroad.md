@@ -37,7 +37,7 @@ du eine kurze Beschreibung der vergangenen Bachelorarbeiten [hier](https://pep-d
 In dem folgenden Video stellt sich Prof. Jung kurz vor und du bekommst einen Einblick
 von einem seiner Laboratorien.
 
-<div class="embed-responsive embed-responsive-16by9 mb-5 w-75 mx-auto" style="margin-bottom:35px">
+<div class="embed-responsive embed-responsive-16by9 mb-3 w-75 mx-auto">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/okzjc2jJ2JU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

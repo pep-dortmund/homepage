@@ -19,7 +19,7 @@ layout: default
     <h3 class="text-center">{{ page.firstheading }}</h3>
   {% endif %}
   {% if page.carousel-cards %}
-    <div id="{{ idname }}" class="carousel slide mx-auto mb-3" {% if page.interval %} data-interval="{{ page.interval }}" {% endif %} data-ride="carousel">
+    <div id="{{ idname }}" class="carousel slide mx-auto mb-3" {% if page.interval %} data-interval="{{ page.interval }}" {% endif %} data-ride="carousel" style="max-width: 70vh;">
       <ol class="carousel-indicators">
       {% for card in page.carousel-cards %}
         <li data-target="#{{ idname }}" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %} active {% endif %}"></li>
@@ -28,13 +28,21 @@ layout: default
       <div class="carousel-inner">
         {% for card in page.carousel-cards %}
           <div class="carousel-item {% if forloop.first %} active {% endif %}">
-            <div class="card mx-auto" style="width: 80vw;">
+            <div class="card mx-auto" style="width: 80vw; max-width: 70vh;">
               {% if card.image %}
-                  <img src="{{ card.image }}" class="d-block card-img-top" style="object-fit: cover; width: 80vw; height: 40vw; {% if card.imgstyle %}{{ card.imgstyle }}{% endif %}">
+                <div class="car-img-top" style="overflow: hidden;">
+                  <img src="{{ card.image }}" class="d-block card-img-top" style="object-fit: cover; width: 80vw; height: 40vw; max-height: 40vh; max-width: 70vh; {% if card.imgstyle %}{{ card.imgstyle }}{% endif %}">
+                </div>
               {% endif %}
               <div class="card-body">
-                <p class="card-text">{{ card.quote }} <a href="{{ card.link }}">Mehr...</a></p>
-                <footer class="blockquote-footer mb-3">{{ card.name }}</footer>      
+                <p class="card-text">{{ card.quote }} 
+                  {% if card.link %}
+                    <a href="{{ card.link }}">Mehr...</a>
+                  {% endif %}
+                </p>
+                {% if card.name %}
+                  <footer class="blockquote-footer mb-3">{{ card.name }}</footer>      
+                {% endif %}
               </div>
             </div>
           </div>

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kritische Schichtanalyse der Unterstützungsstruktur von CMS Phase-2 Pixelsensoren
-image: images/purdue/sebastian.png
 categories: purdue-themen
 author: Sebastian
 ---

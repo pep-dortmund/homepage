@@ -2,7 +2,6 @@
 layout: post
 title: ""
 categories: purdue-themen
-image: images/purdue/jonah.png
 author: Jonah
 ---
 ## Studies on event selection criteria for the non-resonant {% latex %}HH\rightarrow b\bar{b}b\bar{b}{% endlatex %} decay channel 
@@ -20,3 +19,4 @@ and an integrated luminosity of
 Furthermore, the background rejection provided these criteria, namely the dominant QCD-multijet background and the sub-dominant 
 {% latex %}t\bar{t}{% endlatex %}
  background, are studied. Based on the expected signal and background rates, experimental upper limits for the non-resonant Di-Higgs cross section are studied.
+

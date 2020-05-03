@@ -2,7 +2,6 @@
 layout: post
 title: Study of the Sensitivity of Top Quark Spin Correlations to Supersymmetric Top Quark Partners
 categories: purdue-themen
-image: images/purdue/nicole.png
 author: Nicole
 ---
 

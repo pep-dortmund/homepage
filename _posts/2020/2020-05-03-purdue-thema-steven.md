@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Inbetriebnahme eines laserbasierten Testsystems für CMS Phase-1 Pixelsensoren
-image: images/purdue/steven.png
 categories: purdue-themen
 author: Steven
 ---

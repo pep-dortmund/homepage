@@ -50,9 +50,17 @@
   submenu:
       - title: Going Abroad
         link: goingabroad.html
+        subsubmenu:
+          - title: Erfahrungsberichte
+            link: erfahrungsberichte-purdue.html
+          - title: FAQ 
+            link: faq-purdue.html
+          - title: Bisherige Themen 
+            link: purdue-themen.html
       - title: Deutschlandstipendien
         link: deutschland.html
       - title: Initiativstipendien
         link: initiativ.html
-      - title: Erfahrungsberichte
-        link: erfahrungsberichte.html
+        subsubmenu:
+          - title: Erfahrungsberichte
+            link: erfahrungsberichte.html

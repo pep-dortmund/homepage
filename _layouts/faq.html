@@ -1,0 +1,18 @@
+---
+layout: page-custom
+---
+{{ content }}
+
+{% assign category_questions = site.faq | where: "faq-name", page.faq-name %}
+{% for question in site.faq %}
+<div class="card mb-3">
+    <div class="card-header">
+        <h3 class="card-title">{{ question.question }}</h3>
+    </div>
+    <div class="card-body">
+        <p class="card-text">{{ question.content | markdownify }} </p>
+    </div>
+</div>
+{% endfor %}
+
+

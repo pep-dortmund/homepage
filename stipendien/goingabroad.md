@@ -28,7 +28,7 @@ zu erstellen. Als Stipendiat*in wirst du Teil der Forschungsgruppe von Prof. Jun
 beschäftigst dich mit aktuellen Forschungsthemen im Bereich der _Hochenergiephysik_.
 Hierbei kannst du dir aussuchen, ob du in der Datenanalyse oder in der Hardware
 entwicklung mitwirken möchtest. Neben deiner Forschungstätigkeit in einem internationalen Team
-kannst du das Leben an einer amerikanischen Universität kennenzulernen und den
+kannst du das Leben an einer amerikanischen Universität kennenlernen und den
 {%latex%} 10\, \mathrm{km}^2 {% endlatex %} großen Campus erkunden.
 
 Zusätzliche Informationen findest du zum Beispiel in den  [Erfahrungsberichten](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der
@@ -42,7 +42,7 @@ von einem seiner Laboratorien.
 </div>
 
 ### Bewerbung
-Um an dem Auslandsprogramm teilnehmen zu können, solltest du im  aktuell
+Um an dem Auslandsprogramm teilnehmen zu können, solltest du dich aktuell
 im vierten bzw. fünften Semester befinden.
 Des Weiteren unterliegen dem Stipendium diese Voraussetzungen:
 

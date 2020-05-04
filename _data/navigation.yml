@@ -50,7 +50,6 @@
   submenu:
       - title: Going Abroad
         link: goingabroad.html
-        dividedown: true
         subsubmenu:
           - title: Erfahrungsberichte
             link: erfahrungsberichte-purdue.html
@@ -62,7 +61,6 @@
         link: deutschland.html
       - title: Initiativstipendien
         link: initiativ.html
-        divideup: true
         subsubmenu:
           - title: Erfahrungsberichte
             link: erfahrungsberichte.html

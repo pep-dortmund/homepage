@@ -1,5 +1,5 @@
 ---
-question: Kann ich in vor oder nach der Bachelorarbeit die USA besichtigen?
+question: Kann ich vor oder nach der Bachelorarbeit die USA besichtigen?
 faq-name: purdue
 ---
 

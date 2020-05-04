@@ -3,7 +3,7 @@ question: Mit welchem Themengebiet beschäftigst du dich?
 faq-name: purdue
 ---
 
-Die Arbeitsgruppe von Prof. Dr. Andreas Jung forscht mit dem [CMS Detektor](https://de.wikipedia.org/wiki/Compact_Muon_Solenoid) am LHC, dem größten Teilchenbeschleuniger der Welt im [CERN](https://de.wikipedia.org/wiki/CERN).
+Die Arbeitsgruppe von Prof. Dr. Andreas Jung forscht mit dem [CMS Detektor](https://de.wikipedia.org/wiki/Compact_Muon_Solenoid) am LHC, dem größten Teilchenbeschleuniger der Welt am [CERN](https://de.wikipedia.org/wiki/CERN).
 Deine Bachelorarbeit wird im Themengebiet der modernen experimentellen Teilchenphysik liegen und sich mit Physik an der Front der Forschung beschäftigen. 
 Du hast die Auswahl zwischen Hardware-Themen und der Datenanalyse. 
 Um besser einordnen zu können, welche Themen dir die Arbeit bieten kann, kannst du dir die [Kurzfassung der Bacheloarbeit](stipendien/purdue-themen.html)

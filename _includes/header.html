@@ -15,9 +15,20 @@
         </a>
         <div class="dropdown-menu">
           {% for sublink in navlink.submenu %}
+          {% if sublink.subsubmenu and forloop.first == false %}
+            <div class="dropdown-divider"></div>
+          {% endif %}
           <a class="dropdown-item {% if page.url contains sublink.link %}active{% endif %}" href="{{ navlink.directory}}/{{ sublink.link }}">
             {{ sublink.title }}
           </a>
+          {% for subsublink in sublink.subsubmenu %}
+          <a class="dropdown-item {% if page.url contains subsublink.link %}active{% endif %}" href="{{ navlink.directory}}/{{ subsublink.link }}">
+            &bull; {{ subsublink.title }}
+          </a>
+          {% endfor %}
+          {% if sublink.subsubmenu and forloop.last == false %}
+            <div class="dropdown-divider"></div>
+          {% endif %}
           {% endfor %}
         </div>
       </li>

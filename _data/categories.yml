@@ -79,7 +79,7 @@ kontakt:
     icon: envelope
 
 goingabroad:
-    icon: globe
+    url: stipendien/goingabroad.html
 
 initiativ:
     icon: lightbulb

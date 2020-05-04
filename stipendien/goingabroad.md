@@ -21,50 +21,44 @@ carousel-cards:
     imgstyle: "object-position: 100% 50%;"
 ---
 ### Going Abroad | Purdue University
-Going Abroad ist ein Auslandsprogramm von PeP et. al. e.V. und
+Going Abroad ist ein Auslandsprogramm von PeP et al. e.V. und
 [Prof. Dr. Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php),
-welches dir ermöglicht deine Bachelorarbeit an der [Purdue University](https://www.purdue.edu/)
-zu erstellen. Als Stipendiat*in wirst du Teil der Forschungsgruppe von Prof. Jung und
+das dir ermöglicht deine Bachelorarbeit an der [Purdue University](https://www.purdue.edu/)
+zu erstellen. Als Stipendiat\*in wirst du Teil der Forschungsgruppe von Prof. Jung und
 beschäftigst dich mit aktuellen Forschungsthemen im Bereich der _Hochenergiephysik_.
-Hierbei kannst du dir aussuchen, ob du in der Datenanalyse oder in der Hardware
-entwicklung mitwirken möchtest. Neben deiner Forschungstätigkeit in einem internationalen Team
-kannst du das Leben an einer amerikanischen Universität kennenlernen und den
-{%latex%} 10\, \mathrm{km}^2 {% endlatex %} großen Campus erkunden.
+Hierbei kannst du dir aussuchen, ob du in der Datenanalyse oder in der Hardware-Entwicklung mitwirken möchtest.
+Neben deiner Forschungstätigkeit in einem internationalen Team kannst du das Leben an einer amerikanischen Universität kennenlernen und den 10 km<sup>2</sup> großen Campus erkunden.
 
-Zusätzliche Informationen findest du zum Beispiel in den  [Erfahrungsberichten](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der
-vergangenen Stipendiat*inne und im [FAQ](stipendien/faq-purdue.html). Außerdem findest
-du eine kurze Beschreibung der vergangenen Bachelorarbeiten [hier](stipendien/purdue-themen.html).
-In dem folgenden Video stellt sich Prof. Jung kurz vor und du bekommst einen Einblick
-von einem seiner Laboratorien.
+Zusätzliche Informationen findest du zum Beispiel in den  [Erfahrungsberichten](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der vergangenen Stipendiaten und Stipendiatinnen und im [FAQ](stipendien/faq-purdue.html).
+Außerdem findest du eine kurze Beschreibung der vergangenen Bachelorarbeiten [hier](stipendien/purdue-themen.html).
+In dem folgenden Video stellt sich Prof. Jung kurz vor und du bekommst einen Einblick von einem seiner Laboratorien.
 
 <div class="embed-responsive embed-responsive-16by9 mb-5 w-75 mx-auto" style="margin-bottom:45px">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/okzjc2jJ2JU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Bewerbung
-Um an dem Auslandsprogramm teilnehmen zu können, solltest du dich aktuell
-im vierten bzw. fünften Semester befinden.
-Des Weiteren unterliegen dem Stipendium diese Voraussetzungen:
+Um an dem Auslandsprogramm teilnehmen zu können, solltest du aktuell im vierten bzw. fünften Semester studieren.
+Außerdem solltest du folgende Voraussetzungen erfüllen:
 
-- Noch kein Bachelor Abschluss bis zum Sommersemester 2021, aber mind. 135 CP erarbeitet haben
+- Du hast bis zum Sommersemester 2021 noch keine Bachelorarbeit geschrieben, aber mind. 135 CP erarbeitet
 - Angemessene Englischkenntnisse
 - Exzellente Studienleistungen
-- Soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten
-von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
+- Soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
 - Engagement innerhalb der Fakultät, z. B. Fachschaftsarbeit, Mitwirkung bei Schüleruni, etc.
 
-In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
+Deine Bewerbung sollte aus folgenden Dokumenten bestehen:
 
 - Ein einseitiges Motivationsschreiben, warum du an dem Programm teilnehmen solltest
-- Ein Lebenslauf
-- Ein Nachweis für das Engagement in den oben genannten Feldern
+- Tabellarischer Lebenslauf
+- Ein Nachweis für dein Engagement in den oben genannten Feldern
 - Ein offizieller Notenspiegel
 
 Momentan bereiten wir die Bewerbungsphase für Going Abroad 2021 vor.
 
 <!-- Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
 Eine Bewerbung kann bis zum  __31.10.2020__ eingereicht werden. Die auf Grund des Bewerbungsschreibens
-ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
+ausgewählten Studierenden werden zu einem Bewerbungsgespräch eingeladen.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
 Die ausgewählten Studierenden werden dann benachrichtigt. -->
 

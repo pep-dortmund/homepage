@@ -4,14 +4,14 @@ faq-name: purdue
 ---
 
 Die Arbeitsgruppe von Prof. Dr. Andreas Jung forscht mit dem [CMS Detektor](https://de.wikipedia.org/wiki/Compact_Muon_Solenoid) am LHC, dem größten Teilchenbeschleuniger der Welt am [CERN](https://de.wikipedia.org/wiki/CERN).
-Deine Bachelorarbeit wird im Themengebiet der modernen experimentellen Teilchenphysik liegen und sich mit Physik an der Front der Forschung beschäftigen. 
-Du hast die Auswahl zwischen Hardware-Themen und der Datenanalyse. 
+Deine Bachelorarbeit wird im Themengebiet der modernen experimentellen Teilchenphysik liegen und sich mit Physik an der Front der Forschung beschäftigen.
+Du hast die Auswahl zwischen Hardware-Themen und der Datenanalyse.
 Um besser einordnen zu können, welche Themen dir die Arbeit bieten kann, kannst du dir die [Kurzfassung der Bacheloarbeit](stipendien/purdue-themen.html)
 
 Du willst es noch genauer wissen? Dann lese jetzt
 <a class="" type="button" data-toggle="collapse" href="#purdue-thema-more" aria-expanded="false" aria-controls="purdue-thema-more">mehr...</a>
 
-<div class="collapse" id="purdue-thema-more">
+<div class="collapse" id="purdue-thema-more" markdown="1">
 "High energy physics summer research projects for UG students at Purdue University are in the context
 of the analysis of the data recorded with the Compact Muon Solenoid (CMS) detector at the LHC. We are
 also deeply involved in the R&D for a new silicon pixel detector, which is currently developed for the

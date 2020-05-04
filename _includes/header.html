@@ -23,7 +23,7 @@
           </a>
           {% for subsublink in sublink.subsubmenu %}
           <a class="dropdown-item {% if page.url contains subsublink.link %}active{% endif %}" href="{{ navlink.directory}}/{{ subsublink.link }}">
-            <span class="mr-3"></span>&bull; {{ subsublink.title }}
+            &bull; {{ subsublink.title }}
           </a>
           {% endfor %}
           {% if sublink.dividedown %}

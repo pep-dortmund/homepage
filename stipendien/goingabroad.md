@@ -1,116 +1,66 @@
 ---
-title: Going Abroad
-subtitle: Hier gibt es Informationen zu unseren Auslandsprogrammen.
-layout: one-card
+title: "Going Abroad Stipendium"
+subtitle: Ergreife die Chance und schreibe deine Bachelorarbeit in den USA
+layout: carousel-center
 category: goingabroad
+interval: 10000
+carousel-cards:
+  #- image: images/wall_of_fame/wof-ajung.jpg
+  #  quote: „I'm looking forward to welcome two of Dortmunds students to experience purdue university. As recent years have shown...”
+  #  name: Prof. Dr. Andreas Jung
+  #  imgstyle: "object-position: 100% 0;"
+  - image: images/stipendien/schulte_blank_going_abroad_2019.jpg
+    quote: „Wir hatten eine wirklich schöne Zeit an der Purdue University, in der wir viel gelernt haben und viele tolle Menschen kennengelernt haben.”
+    link: stipendien/erfahrungsberichte-purdue.html#goingabroad-2019-08-28-erfahrungsbericht-purdue_2019
+    name: Nicole Schulte & Jonah Blank
+    imgstyle: "object-position: 100% 30;"
+  - image: images/stipendien/pape_becker_going_abroad-2.jpg
+    quote: „Schon bei der Ankunft beeindruckte die Purdue University mit ihrem modernen und gepflegten Campus.”
+    link: stipendien/erfahrungsberichte-purdue.html#goingabroad-2018-10-02-erfahrungsbericht-purdue
+    name: Steven Becker & Sebastian Pape
+    imgstyle: "object-position: 100% 50%;"
 ---
-### Bachelorarbeit in Purdue
+### Going Abroad | Purdue University
+Going Abroad ist ein Auslandsprogramm von PeP et al. e.V. und
+[Prof. Dr. Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php),
+das dir ermöglicht deine Bachelorarbeit an der [Purdue University](https://www.purdue.edu/)
+zu erstellen. Als Stipendiat\*in wirst du Teil der Forschungsgruppe von Prof. Jung und
+beschäftigst dich mit aktuellen Forschungsthemen im Bereich der _Hochenergiephysik_.
+Hierbei kannst du dir aussuchen, ob du in der Datenanalyse oder in der Hardware-Entwicklung mitwirken möchtest.
+Neben deiner Forschungstätigkeit in einem internationalen Team kannst du das Leben an einer amerikanischen Universität kennenlernen und den 10 km<sup>2</sup> großen Campus erkunden.
 
-#### *Going Abroad - Purdue*, was soll das sein?
-*Going Abroad - Purdue* ist ein Auslandsprogramm von PeP et. al. e.V. und der Arbeitsgruppe von
-[Andreas Jung](https://www.physics.purdue.edu/people/faculty/anjung.php).
-In den drei Monaten des Auslandsprogramms wirst du Teil von Jungs Team an der
-[Purdue University](https://www.purdue.edu/), [West Lafayette](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana)
-in den USA. Dort wirst du an aktueller Forschung im Bereich der Hochenergiephysik beteiligt sein. Neben neuen
-Bereichen der Physik hast du die Chance das amerikanische Leben kennenzulernen.
-Das Programm wird als Stipendium angeboten, das heißt, ein Großteil der anfallenden Kosten wird übernommen.
-Du kannst dir auch die [Erfahrungsberichte](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der
-vergangenen Stipendiaten durchlesen, um einen ersten Eindruck des Programms zu erhalten.
+Zusätzliche Informationen findest du zum Beispiel in den  [Erfahrungsberichten](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der vergangenen Stipendiaten und Stipendiatinnen und im [FAQ](stipendien/faq-purdue.html).
+Außerdem findest du eine kurze Beschreibung der vergangenen Bachelorarbeiten [hier](stipendien/purdue-themen.html).
+In dem folgenden Video stellt sich Prof. Jung kurz vor und du bekommst einen Einblick von einem seiner Laboratorien.
 
-#### Purdue? Was ist das für eine Uni?
-Die [Purdue University](https://en.wikipedia.org/wiki/Purdue_University) ist eine Universität in West Lafayette,
-Indiana, USA. Sie ist als forschungsintensive Universität Mitglied der Association of American Universities.
-Im weltweiten [Ranking](https://www.topuniversities.com/university-rankings/university-subject-rankings/2019/physics-astronomy), im Bereich der Physik, ist Purdue unter den Top 100 der besten Universitäten.
-Etwa 40.000 Studierende besuchen die Universität und werden dabei von mehr als 3.000 Lehrkräften betreut.
-Übrigens, der erste und letzte Mensch auf dem Mond waren Purdue Absolventen.
+<div class="embed-responsive embed-responsive-16by9 mb-5 w-75 mx-auto" style="margin-bottom:45px">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/okzjc2jJ2JU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-#### Wann findet das Auslandsprogramm statt?
-Das Auslandsprogramm findet im Sommersemester 2020 statt.
+### Bewerbung
+Um an dem Auslandsprogramm teilnehmen zu können, solltest du aktuell im vierten bzw. fünften Semester studieren.
+Außerdem solltest du folgende Voraussetzungen erfüllen:
 
-#### Wie und wo lebt man während des Aufenthalts?
-Während deines Forschungsaufenthaltes lebst du im Studentenwohnheim der Universität.
-Dort ist ein Einzelzimmer für dich reserviert.
-
-Während deines Forschungsaufenthalts arbeitest du in etwa 8 Stunden pro Tag.
-Neben der Arbeit kannst du in der Uni eigenen Mensa essen oder im Freizeitzentrum der Uni entspannen.
-Am Wochenende kannst du zum Beispiel Chicago besichtigen oder am Lake Michigan wandern gehen.
-
-Vor und nach deinem Forschungsprojekt hast du die Möglichkeit weitere 30 Tage in den USA zu verbringen.
-In dieser Zeit steht es dir frei, das Land auf eigene Kosten zu erkunden.
-Unter Absprache mit den Förderern kannst du dir den Ort des Hin- und Rückflugs selbst aussuchen.
-
-#### Mit welchem Themengebiet beschäftigst du dich?
-Das Programm findet im Bereich der Hochenergiephysik statt.
-
-Im Wesentlichen beschäftigst du dich dann mit diesem Themenbereich:
-
-"High energy physics summer research projects for UG students at Purdue University are in the context
-of the analysis of the data recorded with the Compact Muon Solenoid (CMS) detector at the LHC. We are
-also deeply involved in the R&D for a new silicon pixel detector, which is currently developed for the
-high-luminosity upgrade of the LHC (HL-LHC).
-
-The Purdue group is involved in the measurement of the top quark coupling to the Higgs boson
-(Yukawa coupling) and in high precision measurements of top quark properties. Summer research projects
-for UG students will be tied to the group’s data analysis efforts. The Higgs boson gives mass to all
-elementary particles and the value of the top quark Yukawa coupling sheds light on the electroweak
-symmetry breaking process and even on the question whether the Universe is in a stable, meta-stable or
-instable vacuum state. Together with the precision measurement of top quark properties results can pin
-point to beyond the standard model contributions, which is what all particle physicists are searching
-for since decades. The data analysis heavily relies on methods that include topological multi-variate
-analysis, regularized matrix unfolding and complementary profiling techniques.
-
-There is also the opportunity to contribute in the R&D for the high-luminosity upgrade of the CMS
-detector following the HL-LHC upgrade to provide unprecedented instantaneous luminosities at a hadron
-collider. The Purdue Silicon Detector Laboratory (PSDL) is an in-house facility providing 2 large clean
-rooms in order to assemble highly integrated electronic circuits via a robotic gantry and test fully
-assembled silicon pixel modules with high precision probe stations. The PSDL produced about 900 silicon
-detector modules for the CMS forward silicon pixel detector currently commissioned at CERN/CMS. The group
-is also focused on the production of support structure prototypes from carbon foam, custom carbon fiber
-face sheets and mock-up silicon pixel modules. These silicon detector prototypes are tested for their
-thermal performance under the same conditions as later in the CMS detector. We use the existing PSDL
-capabilities for the mechanical and thermal studies, which include a curing oven and a cold box setup
-for thermal studies employing liquid CO2 coolant."
-
-
-#### Wie läuft das mit der Bachelorarbeit ab?
-Mit der Teilnahme an dem Auslandsprogramm verpflichtest du dich deine Bachelorarbeit an der Purdue Universität
-zu schreiben. Als deutscher Professor steht dir Prof. Dr. Spaan oder Prof. Dr. Kröninger zur Seite.
-
-#### Wie viele Studierende können an dem Programm teilnehmen?
-Zwei Studierenden erhalten pro Jahr die Chance am Programm teilzunehmen.
-
-#### Was ist alles in dem Stipendium enthalten?
-Das Stipendium deckt folgende Dinge ab:
-
-- Hin- und Rückreise
-- Unterkunft
-- Kosten für das Visum
-- Monatliches Gehalt
-
-#### Wie läuft die Bewerbung ab?
-Um an dem Auslandsprogramm teilnehmen zu dürfen, solltest du dich aktuell
-im vierten Semester befinden.
-Des Weiteren unterliegen dem Stipendium diese Voraussetzungen:
-
-- Noch kein Bachelor Abschluss bis zum Sommersemester 2020, aber mind. 135 CP erarbeitet haben
+- Du hast bis zum Sommersemester 2021 noch keine Bachelorarbeit geschrieben, aber mind. 135 CP erarbeitet
 - Angemessene Englischkenntnisse
 - Exzellente Studienleistungen
-- Soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten
-von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
+- Soziales/gesellschaftliches ehrenamtliches Engagement, z. B. Leiten einer Sportmannschaft, Gestalten von Lehrgängen, aktive Organisation von Veranstaltungen, Kinder- und Jugendarbeit, etc.
 - Engagement innerhalb der Fakultät, z. B. Fachschaftsarbeit, Mitwirkung bei Schüleruni, etc.
 
-In deiner Bewerbung sollten folgende Dokumente hinzugefügt werden:
+Deine Bewerbung sollte aus folgenden Dokumenten bestehen:
 
 - Ein einseitiges Motivationsschreiben, warum du an dem Programm teilnehmen solltest
-- Ein Lebenslauf
-- Ein Nachweis für das Engagement in den oben genannten Feldern
+- Tabellarischer Lebenslauf
+- Ein Nachweis für dein Engagement in den oben genannten Feldern
 - Ein offizieller Notenspiegel
 
-Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
-Eine Bewerbung kann bis zum  __31.10.2019__ eingereicht werden. Die auf Grund des Bewerbungsschreibens
-ausgewählten Studierenden können zu einem Bewerbungsgespräch eingeladen werden.
+Momentan bereiten wir die Bewerbungsphase für Going Abroad 2021 vor.
+
+<!-- Um dich zu bewerben, sende uns eine [E-Mail](mailto:goingabroad@pep-dortmund.org).
+Eine Bewerbung kann bis zum  __31.10.2020__ eingereicht werden. Die auf Grund des Bewerbungsschreibens
+ausgewählten Studierenden werden zu einem Bewerbungsgespräch eingeladen.
 Innerhalb eines Monats nach Ende der Bewerbungsfrist wird eine Entscheidung vom Gremium getroffen.
-Die ausgewählten Studierenden werden dann benachrichtigt.
+Die ausgewählten Studierenden werden dann benachrichtigt. -->
 
 ### Noch Fragen?
 Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ

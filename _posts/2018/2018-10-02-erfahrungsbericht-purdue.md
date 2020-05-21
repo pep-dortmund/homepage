@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erfahrungsbericht des ersten Purdue-Austausches
-categories: erfahrungsbericht
+categories: goingabroad
 image: images/stipendien/pape_becker_going_abroad-2.jpg
 author: Steven, Sebastian, Henning
 ---

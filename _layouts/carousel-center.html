@@ -1,0 +1,62 @@
+---
+layout: default
+---
+{% assign category = site.data.categories[page.category] %}
+{% assign idname = page.name | remove: ".html" | remove: ".md" | prepend: "carousel" %}
+
+<div class="container hyphenate mb-3">
+  <header class="text-center">
+    <h2>
+      {{ page.title }}&nbsp;
+      <span class="fas fa-{{ category.icon }}"></span>
+    </h2>
+    <hr>
+    {% if page.subtitle %}
+      <p class="text-center">{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+  {% if page.firstheading %}
+    <h3 class="text-center">{{ page.firstheading }}</h3>
+  {% endif %}
+  {% if page.carousel-cards %}
+    <div id="{{ idname }}" class="carousel slide mx-auto mb-5" {% if page.interval %} data-interval="{{ page.interval }}" {% endif %} data-ride="carousel" style="max-width: 70vh;">
+      <ol class="carousel-indicators">
+      {% for card in page.carousel-cards %}
+        <li data-target="#{{ idname }}" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %} active {% endif %}"></li>
+      {% endfor %}
+      </ol>
+      <div class="carousel-inner">
+        {% for card in page.carousel-cards %}
+          <div class="carousel-item {% if forloop.first %} active {% endif %}">
+            <div class="card mx-auto" style="width: 80vw; max-width: 70vh;">
+              {% if card.image %}
+                <div class="car-img-top" style="overflow: hidden;">
+                  <img src="{{ card.image }}" class="d-block card-img-top" style="object-fit: cover; width: 80vw; height: 40vw; max-height: 40vh; max-width: 70vh; {% if card.imgstyle %}{{ card.imgstyle }}{% endif %}">
+                </div>
+              {% endif %}
+              <div class="card-body">
+                <p class="card-text">{{ card.quote }}
+                  {% if card.link %}
+                    <a href="{{ card.link }}">Mehr...</a>
+                  {% endif %}
+                </p>
+                {% if card.name %}
+                  <footer class="blockquote-footer mb-3">{{ card.name }}</footer>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <a class="carousel-control-prev mx-3" style="margin-top: 20vw; align-items: flex-start;" href="#{{ idname }}" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next mx-3" style="margin-top: 20vw; align-items: flex-start;" href="#{{ idname }}" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  {% endif %}
+  {{ content }}
+</div>

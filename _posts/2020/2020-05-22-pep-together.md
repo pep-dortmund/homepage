@@ -12,6 +12,6 @@ anschließend zum gemeinsamen Billiard spielen, um den Abend in ruhiger Atmosph�
 Aufgrund der momentanen Lage wird das nächste "Pep im Park" allerdings nicht in geplanter Form stattfinden können. Stattdessen
 laden wir euch herzlich ein, wieder unserem digitalen Stammtisch beizuwohnen. Dieser wird ebenfalls am 30.05.2020 stattfinden und zwar ab 19 Uhr auf der Videoplattform Jitsi.
 
-Bei Interesse meldet Euch gerne bei dem [PeP-Alumniteam](mailto:alumniarbeit@pep-dortmund.org) und ihr bekommt von uns den Link zugesendet. Wir freuen uns auch jederzeit über weiter Vorschläge für zukünftige Stammtische.
+Falls ihr den Link nicht über unseren Mitgliederverteiler erhalten habt, meldet euch bei Interesse bei dem [PeP-Alumniteam](mailto:alumniarbeit@pep-dortmund.org). Wir freuen uns auch jederzeit über weitere Vorschläge für zukünftige Stammtische.
 
 Bis dahin wünschen wir allen beste Gesundheit und freuen uns auf einen tollen Abend mit euch!

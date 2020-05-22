@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PeP Together am 30.05.2020
+title: PeP im Park am 30.05.2020
 categories: special veranstaltungen
 image: images/pep-together-22-05.jpg
 author: Jonah

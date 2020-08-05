@@ -12,7 +12,7 @@ author: Christian
 Auch im Jahr 2020 veranstaltet PeP et al. wieder den Toolbox Workshop.
 In diesem Jahr allerdings nicht als Präsenzveranstaltung, sondern digital.
 
-Dieser richtet sich vor allem an die kommenden Drittsemester
+Der Workshop richtet sich vor allem an die kommenden Drittsemester
 und behandelt die Grundlagen des wissenschaftlichen Arbeitens
 und den Umgang mit den nötigen Werkzeugen.
 

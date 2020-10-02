@@ -3,8 +3,8 @@ title: Bachelor-Kolloquium
 layout: category
 category: bachelorkolloquium
 ---
-Im Bachelor-Kolloquium können Bachelor-Absolventen ihre Arbeit in lockerem Rahmen vorstellen,
-sodass sich Fünftsemester und weitere Interessierte einen ersten Eindruck
-von Bachelor-Arbeitsthemen verschaffen können und die Forschungsschwerpunkte der einzelnen Lehrstühle kennenlernen.
+Im Bachelor-Kolloquium werden Bachelor-Arbeiten verschiedener Lehrstühle und Forschungsrichtungen aus dem vorangegangenen Semester vorgestellt,
+sodass bei Interesse an künftigen Bachelor-Arbeiten ein erster Eindruck 
+von der Arbeit am Lehrstuhl und den Forschungsschwerpunkten in lockerem Rahmen und aus erster Hand gewonnen werden kann.
 
-Jeder ist herzlich eingeladen!
+Bei Interesse und Fragen gerne Nachrichten an bachelorkolloquium@pep-dortmund.org schicken. Wir freuen uns auf Euch!

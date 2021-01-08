@@ -32,7 +32,7 @@ die Zugangsdaten der Zoom-Videokonferenz werden via E-Mail verschickt.
 *E6 - Cinchetti*
 
 **18.02.2021** 	Lena Friedrich
-"Temperaturabhängige Strukturbildung in polymerisierter ionischen Flüssigkeiten"
+"Temperaturabhängige Strukturbildung in polymerisierten ionischen Flüssigkeiten"
 *E1 - Tolan*
 
 **25.02.2021** 	Julian Schröer

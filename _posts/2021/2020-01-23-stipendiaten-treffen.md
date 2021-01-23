@@ -2,7 +2,7 @@
 layout: post
 title: Erstes Treffen der Stipendiatinnen und Stipendiaten
 categories: special veranstaltungen
-image: images/2020-01-23-stipendiaten-treffen.png
+image: images/2020-01-23-stipendiaten-treffen_cropped.png
 author: Vanessa
 ---
 

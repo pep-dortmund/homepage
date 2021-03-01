@@ -8,7 +8,7 @@ author: Donna
 
 
 Ein spannender Remote Stammtisch hat am letzten Freitag, den 26.02.2021 stattgefunden. Zunächst wurde das Allgemein- und Nischenwissen der Anwesenden mit ein paar spannenden Quizfragen exploriert. Danach gab es einen digitalen Umzug von Zoom nach Gather.Town.
-Dort wurde die Map erkundet und umgestaltet, es wurden kleinere Gesprächsgruppen gebilet und einige allbekannte Spiele gespielt - Scribble, Codenames, Werwolf.
+Dort wurde die Map erkundet und umgestaltet, es wurden kleinere Gesprächsgruppen gebildet und einige allbekannte Spiele gespielt - Scribble, Codenames, Werwolf.
 
 Die nächsten Termine für die Stammtische in diesem Jahr sind:
 

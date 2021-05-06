@@ -6,7 +6,7 @@ image: images/2021-04-17-kaeuterbank-workshop.png
 author: Marie
 ---
 
-Ein neuer Workshop steht vor der Tür. Die Organisation lag dieses Mal in der Hand unserer Stipendiat:innen. Da aktuell leider viele Events fast ausschließlich über Zoom und Co. stattfinden, möchten wir in das triste auf den Bildschirm starren etwas Abwechslung bringen und die normalen Zoom-Meetings aufPePpen; um Zoom kommen wir trotzdem nicht ganz drumherum. Zusammen werden wir innerhalb von 3-4 Stunden eine Kräuterbank als grüne Ergänzung für die eigene Küche bauen. Das Beste daran ist, dass du dich nur [anmelden] (https://registration.pep-dortmund.de/events/8/registration/) und die Materialien von uns abholen musst. 
+Ein neuer Workshop steht vor der Tür. Die Organisation lag dieses Mal in der Hand unserer Stipendiat:innen. Da aktuell leider viele Events fast ausschließlich über Zoom und Co. stattfinden, möchten wir in das triste auf den Bildschirm starren etwas Abwechslung bringen und die normalen Zoom-Meetings aufPePpen; um Zoom kommen wir trotzdem nicht ganz drumherum. Zusammen werden wir innerhalb von 3-4 Stunden eine Kräuterbank als grüne Ergänzung für die eigene Küche bauen. Das Beste daran ist, dass du dich nur [anmelden](https://registration.pep-dortmund.de/events/8/registration/) und die Materialien von uns abholen musst. 
 
 Die wichtigsten Infos auf einen Blick:
 

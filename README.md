@@ -23,14 +23,27 @@ It is advisable, that you test the website locally if you make any changes or re
 
 ```
 $ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev
-$ sudo gem install bundler
+$ gem install bundler
 ```
+
+And add this to your bashrc/zshrc/.profile/...:
+```
+export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
+export PATH="$PATH:$GEM_HOME/bin"
+```
+
 
 #### ArchLinux
 
 ```
 $ sudo pacman -S ruby nodejs libxml2 libxslt
-$ sudo gem install bundler
+$ gem install bundler
+```
+
+And add this to your bashrc/zshrc/.profile/...:
+```
+export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
+export PATH="$PATH:$GEM_HOME/bin"
 ```
 
 #### macOS
@@ -44,7 +57,8 @@ Go to the base directory of this repository.
 
 First install all required gems
 ```
-$ bundle install --path vendor/bundle
+$ bundle config set --local path 'vendor/bundle'
+$ bundle install
 ```
 
 In order to test the site at this point, simply run

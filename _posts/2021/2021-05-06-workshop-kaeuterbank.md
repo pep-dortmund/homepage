@@ -11,9 +11,13 @@ Ein neuer Workshop steht vor der Tür. Die Organisation lag dieses Mal in der Ha
 Die wichtigsten Infos auf einen Blick:
 
 Was?		Workshop für den Bau einer Kräuterbank
+
 Wo?		Zoom, den Link schicken wir vor dem Workshop
+
 Wann?		Samstag, 12. Juni 2021, ab 10:00 Uhr
+
 Kosten?		Keine! Es gibt keine Teilnahmekosten und das Material wird gestellt
+
 Abholung?	Freitag, 11. Juni 2021 zwischen 16 und 19 Uhr an der Uni. Weitere Termine nach Absprache
 Benötigtes Material: Kreuzschlitzschraubendreher (Größe 2)
 

@@ -1,5 +1,5 @@
-homepage [![Build Status](https://travis-ci.org/pep-dortmund/homepage.svg?branch=master)](https://travis-ci.org/pep-dortmund/homepage)
-=====================
+# homepage [![Upload](https://github.com/pep-dortmund/homepage/actions/workflows/deploy.yml/badge.svg)](https://github.com/pep-dortmund/homepage/actions/workflows/deploy.yml)
+
 
 Repository of the PeP al. homepage (<https://pep-dortmund.org>).
 

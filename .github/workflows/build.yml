@@ -1,0 +1,28 @@
+name: Build and Verify
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+
+      - name: install dependencies
+        run: |
+          bundle config set --local path 'vendor/bundle'
+          bundle install
+
+      - name: build
+        run: bundle exec jekyll build
+
+      - name: check output
+        run: |
+          bundle exec htmlproofer ./_site \
+            --allow-hash-href \
+            --check-html \
+            --only-4xx \
+            --disable-external \
+            --empty-alt-ignore

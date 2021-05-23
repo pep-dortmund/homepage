@@ -1,0 +1,37 @@
+name: Upload
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+
+      - name: install dependencies
+        run: |
+          bundle config set --local path 'vendor/bundle'
+          bundle install
+
+      - name: build
+        run: bundle exec jekyll build --config _deploy_config.yml
+
+      - name: upload
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -t rsa "$DEPLOY_HOST" 2> /dev/null | sort -u  -o ~/.ssh/known_hosts
+          echo "$DEPLOY_KEY" > ~/.ssh/deploy_key
+          eval "$(ssh-agent -s)"
+          chmod 600 ~/.ssh/deploy_key
+          ssh-add ~/.ssh/deploy_key
+          rsync -rq --links --delete --exclude=".*" ./_site/ "$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH"

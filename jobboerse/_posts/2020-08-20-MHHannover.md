@@ -22,5 +22,5 @@ Die Stelle bietet die Möglichkeit zur Teilnahme am Graduiertenprogramm „Audit
 * Gute Deutschkenntnisse für die Patientenkommunikation
 
 
-Alle weitere Informationen sind in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2020-08-20_MHHannover.pdf) zu finden.
+Alle weitere Informationen sind in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2020-08-20_MHHannover.pdf) zu finden.
 Der Bewerbungsschluss ist der 25. September 2020.

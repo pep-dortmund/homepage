@@ -27,4 +27,4 @@ Wir bieten:
 
 Wir bitten um Bewerbungen mit Anschreiben und tabellarischem Lebenslauf in einem PDF-Dokument bis zum 15.11.2018 per E-Mail an sarah.weigelt@tu-dortmund.de
 
-Interesse? Alle weiteren Informationen findest du in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2018-11-05_rehabilitationswissenschaften.pdf)!
+Interesse? Alle weiteren Informationen findest du in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2018-11-05_rehabilitationswissenschaften.pdf)!

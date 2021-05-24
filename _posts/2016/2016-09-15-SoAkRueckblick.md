@@ -3,7 +3,7 @@ layout: post
 title: Sommerakademie Rückblick 2016
 categories: special sommerakademie veranstaltungen
 author: Timon Janine
-image: images/SoAk2016_Gruppenbild.jpg
+image: /images/SoAk2016_Gruppenbild.jpg
 ---
 
 Die 6. Sommerakademie 2016 stand voll und ganz im Zeichen des Mars. 37 Studenten aller Semester und 5 Alumni trafen 

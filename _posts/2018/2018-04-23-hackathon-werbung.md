@@ -2,7 +2,7 @@
 layout: post
 title: Hackathon „Modern Web Services”
 categories: special veranstaltungen
-image: images/poster_hackathon_dark.png
+image: /images/poster_hackathon_dark.png
 author: Max, Kevin
 ---
 

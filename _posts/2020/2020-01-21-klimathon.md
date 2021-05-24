@@ -2,7 +2,7 @@
 layout: post
 title: Klimathon
 categories: special veranstaltungen
-image: images/klimathon.jpg
+image: /images/klimathon.jpg
 author: Simone, Stefan 
 ---
 

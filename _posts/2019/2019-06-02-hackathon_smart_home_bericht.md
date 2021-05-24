@@ -3,7 +3,7 @@ layout: post
 title: Hackathon "Smart Home"
 categories: special veranstaltungen
 author: Karl
-image: images/2019-06-03-hackathon-smart-home-gruppenfoto.jpg
+image: /images/2019-06-03-hackathon-smart-home-gruppenfoto.jpg
 ---
 
 Vom 24. bis 26. Mai haben 18 Teilnehmer*innen an verschiedenen Projekten rund um

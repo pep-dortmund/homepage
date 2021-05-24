@@ -2,7 +2,7 @@
 layout: post
 title: Physikanten zu Besuch beim Klassenzimmer
 categories: klassenzimmer special
-image: images/klassenzimmer/2018-05-07-Physikanten.jpg
+image: /images/klassenzimmer/2018-05-07-Physikanten.jpg
 author: Henning
 ---
 

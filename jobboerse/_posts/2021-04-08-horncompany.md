@@ -9,4 +9,4 @@ Es gibt passende Stellenangebote für PhysikerInnen bei horn & company.
 
 Alle Informationen sind in den entsprechenden Stellenausschreibungen zu finden:
 
-* [Exzellente Praktikanten (m/w/d) für die Top-Management-Beratung](dokumente/ausschreibungen_jobboerse/2021-04-08_horncompany.pdf)
+* [Exzellente Praktikanten (m/w/d) für die Top-Management-Beratung](/dokumente/ausschreibungen_jobboerse/2021-04-08_horncompany.pdf)

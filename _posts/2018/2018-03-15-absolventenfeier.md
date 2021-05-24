@@ -2,7 +2,7 @@
 layout: post
 title: Absolventenfeier des Jahrgangs 2017
 categories: special absolventenfeier veranstaltungen
-image: images/absolventenfeier2017.jpg
+image: /images/absolventenfeier2017.jpg
 author: Max
 ---
 

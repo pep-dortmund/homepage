@@ -2,7 +2,7 @@
 layout: post
 title: Kräuterbank Workshop
 categories: special veranstaltungen
-image: images/2021-05-05-workshop-kraeuterbank.png
+image: /images/2021-05-05-workshop-kraeuterbank.png
 author: Marie
 ---
 

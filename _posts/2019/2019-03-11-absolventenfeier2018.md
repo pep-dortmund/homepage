@@ -2,7 +2,7 @@
 layout: post
 title: Absolventenfeier des Jahrgangs 2018
 categories: special absolventenfeier veranstaltungen
-image: images/absolventenfeier2018.jpg
+image: /images/absolventenfeier2018.jpg
 author: Marie
 ---
 

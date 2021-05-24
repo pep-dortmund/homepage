@@ -38,4 +38,4 @@ Wir sollten uns kennenlernen, wenn Sie:
 * Verhandlungssichere Deutschkenntnisse und gute Englischkennnisse mitbringen
 
 
-Alle weiteren Informationen findet ihr in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_expert.pdf)!
+Alle weiteren Informationen findet ihr in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_expert.pdf)!

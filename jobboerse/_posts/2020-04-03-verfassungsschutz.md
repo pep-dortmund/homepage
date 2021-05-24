@@ -2,6 +2,7 @@
 layout: post
 title: Stellenangebote beim Bundesamt für Verfassungsschutz
 author: Antje
+publish_until: 2021-04-03T00:00:00
 ---
 
 Das Bundesamt für Verfassungsschutz hat aktuell passende Stellenangebote für Physikstudierende.

@@ -2,6 +2,7 @@
 layout: post
 title: Stellenangebote beim Bundesamt für Verfassungsschutz
 author: Henning
+publish_until: 2022-03-04T00:00:00
 ---
 
 Es gibt passende Stellenangebote für PhysikerInnen beim Bundesamt für Verfassungsschutz.

@@ -2,6 +2,7 @@
 layout: post
 title: Fakultät Rehabiltationswissenschaften sucht studentische Hilfskraft für den IT-Bereich
 author: Jacqueline
+publish_until: 2019-11-05T00:00:00
 ---
 
 Der neu besetzte Fachbereich Sehen, Sehbeeinträchtigung & Blindheit (Prof. Sarah Weigelt) der Fakultät Rehabilitationswissenschaften sucht eine studentische Hilfskraft mit umfassenden IT-Erfahrungen zur langfristigen Unterstützung der empirischen Forschung.

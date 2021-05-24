@@ -3,7 +3,7 @@ layout: post
 title: Going Abroad 2019
 categories: special veranstaltungen
 author: Steven
-image: images/stipendien/schulte_blank_going_abroad_2019.jpg
+image: /images/stipendien/schulte_blank_going_abroad_2019.jpg
 ---
 
 In diesem Jahr hat PeP et al. e.V. Nicole Schulte und Jonah Blank, im Rahmen des Going Abroad

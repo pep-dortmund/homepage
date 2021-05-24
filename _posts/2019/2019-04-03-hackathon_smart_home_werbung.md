@@ -2,7 +2,7 @@
 layout: post
 title: Hackathon „Smart Home”
 categories: special veranstaltungen
-image: images/Hackathon_SmartHome2019.png
+image: /images/Hackathon_SmartHome2019.png
 author: Simone
 ---
 

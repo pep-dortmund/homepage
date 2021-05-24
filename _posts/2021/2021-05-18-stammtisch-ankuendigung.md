@@ -2,7 +2,7 @@
 layout: post
 title: Remote Stammtisch am 29.05.2021
 categories: special veranstaltungen
-image: images/2021-remote-stammtisch-februar.jpg
+image: /images/2021-remote-stammtisch-februar.jpg
 author: Donna
 ---
 

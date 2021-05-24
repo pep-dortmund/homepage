@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jahresbericht 2015
-categories: special jahresberichte ueberuns spenden
+categories: special jahresrueckblicke ueberuns spenden
 special-title: Jahresbericht 2015
 special-subtitle: Was wurde letztes Jahr gemacht?
 special-action: Reinschauen
@@ -21,7 +21,7 @@ Wir verbinden den Bericht ebenfalls mit dem Aufruf den Jahresbeitrag von 10,–
 EUR auf das Vereinskonto zu überweisen, oder noch besser einen Dauerauftrag
 einzurichten.
 
-![bankverbindung](images/bankverbindung.svg)
+![bankverbindung](/images/bankverbindung.svg)
 
 Wem unsere Arbeit gefällt, der ist herzlich eingeladen einen Förderbeitrag von
 25,– bzw. 50,– EUR beizutragen.
@@ -30,4 +30,4 @@ Vielen Dank!
 
 Henning Moldenhauer  Alex Birnkraut  Vanessa Müller  
 
-Hier nun der [Jahresbericht](dokumente/jahresbericht_2015.pdf).
+Hier nun der [Jahresbericht](/dokumente/jahresbericht_2015.pdf).

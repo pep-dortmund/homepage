@@ -2,6 +2,7 @@
 layout: post
 title: Talentmobil der Hochschule Bochum sucht Moderatoren
 author: Lena
+publish_until: 2018-12-19T00:00:00
 ---
 
 Die MINT-Bildung Ruhr/Vest gGmbH unterstützt Schulen bei der Gestaltung ihrer Bildungsangebote im MINT-Bereich. Hierbei kommt auch das Talentmobil der Hochschule Bochum zum Einsatz. Mittels attraktiver naturwissenschaftlich-technisch ausgerichteter Workshops wie beispielsweise zu den Themen 3D-Druck, Robotik oder Photonik verschafft das Talentmobil
@@ -15,4 +16,4 @@ Zu den Aufgabenschwerpunkten gehören:
 * Vor-/Nachbereitung der Workshops
 * Ansprechperson bei Problemen
 
-Alle weiteren Informationen findet ihr in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2017-12-19_talentmobil.pdf)!
+Alle weiteren Informationen findet ihr in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2017-12-19_talentmobil.pdf)!

@@ -2,7 +2,7 @@
 layout: post
 title: Anmeldung zur Absolventenfeier 2019
 categories: special veranstaltungen
-image: images/absolventenfeier2018.jpg
+image: /images/absolventenfeier2018.jpg
 author: Lena
 ---
 

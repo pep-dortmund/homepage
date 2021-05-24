@@ -22,5 +22,12 @@ paginate_path: "/archive/page:num/"
 sass:
   style: compressed
 
-collections: 
+collections:
     - faq
+
+defaults:
+  - scope:
+      path: ""  # matches everything
+      type: "posts"
+    values:
+      publish_until: 2100-12-31T23:59:59

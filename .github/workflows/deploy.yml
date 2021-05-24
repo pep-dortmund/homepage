@@ -19,7 +19,7 @@ jobs:
           bundle install
 
       - name: build
-        run: bundle exec jekyll build --config _deploy_config.yml
+        run: bundle exec jekyll build
 
       - name: upload
         env:

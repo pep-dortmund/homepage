@@ -2,6 +2,7 @@
 layout: post
 title: Wirtschaftsprüfungsgesellschaft Warth & Klein Grant Thornton AG sucht Digital Experts
 author: Lena
+publish_until: 2018-12-19T00:00:00
 ---
 
 Warth & Klein Grant Thornton gehört zu den zehn größten deutschen Wirtschaftsprüfungsgesellschaften. Über 850 Mitarbeiter

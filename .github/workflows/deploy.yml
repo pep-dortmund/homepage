@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master
+  schedule:
+    # Every Sunday at 23:00 UTC
+    cron: 0 23 * * 0
 
 jobs:
   deploy:

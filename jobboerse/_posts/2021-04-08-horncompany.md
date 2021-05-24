@@ -2,6 +2,7 @@
 layout: post
 title: Stellenangebot bei horn & company
 author: Henning
+publish_until: 2022-04-08T00:00:00
 ---
 
 Es gibt passende Stellenangebote für PhysikerInnen bei horn & company.

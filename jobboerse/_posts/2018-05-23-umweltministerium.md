@@ -2,6 +2,7 @@
 layout: post
 title: Ministerium sucht Umweltreferendare/Umweltreferendarinnen
 author: Lena
+publish_until: 2019-05-23T00:00:00
 ---
 
 Das Ministerium für Umwelt, Landwirtschaft, Natur- und Verbraucherschutz des Landes Nordrhein-Westfalen stellt zum 01.10.2018 bis zu 7

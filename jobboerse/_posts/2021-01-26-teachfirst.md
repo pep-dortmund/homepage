@@ -2,6 +2,7 @@
 layout: post
 title: Stellenangebot bei Teach First
 author: Henning
+publish_until: 2022-01-26T00:00:00
 ---
 
 Es gibt ein Stellenangebot für PhysikerInnen bei Teach First.

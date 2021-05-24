@@ -2,6 +2,7 @@
 layout: post
 title: PhD Stelle an der Medizinischen Hochschule Hannover
 author: Antje
+publish_until: 2021-08-20T00:00:00
 ---
 
 An der Medizinischen Hochschule Hannover ist innerhalb des DFG-geförderten Exzellenzclusters "Hören für alle: Medizin, Grundlagenforschung und technische Lösungen für personalisierte Hörunterstützung (H4A 2.0)" eine Promotionsstelle / PhD student position zum Thema **“Nuklearmedizinische Diagnostik des altersbedingten Hörverlusts und der Rehabilitation des Hörvermögens mit auditorischen Implantaten“** zu vergeben.

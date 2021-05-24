@@ -1,20 +1,18 @@
 absolventenfeier:
     icon: graduation-cap
-    url: vereinsleben/absolventenfeier.html
+    url: /vereinsleben/absolventenfeier.html
     jump-to-id: true
 
 special:
     icon: flag
-    url: archive/index.html
-    jump-to-id: true
 
 bachelorkolloquium:
     icon: bullhorn
-    url: vereinsleben/bachelorkolloquium.html
+    url: /vereinsleben/bachelorkolloquium.html
 
 mitmachen:
     icon: hand-pointer
-    url: mitmachen.html
+    url: /mitmachen.html
 
 satzung:
     icon: bookmark
@@ -27,31 +25,31 @@ protokolle:
 
 interessensgruppen:
     icon: user-friends
-    url: vereinsleben/interessensgruppen.html
+    url: /vereinsleben/interessensgruppen.html
 
 jahresberichte:
     icon: paperclip
-    url: ueber_uns/jahresberichte.html
+    url: /ueber_uns/jahresberichte.html
 
 toolbox:
     icon: wrench
-    url: vereinsleben/toolbox.html
+    url: /vereinsleben/toolbox.html
 
 sommerakademie:
     icon: sun
-    url: vereinsleben/soak.html
+    url: /vereinsleben/soak.html
 
 mindstorms:
     icon: cut
-    url: vereinsleben/mindstorms.html
+    url: /vereinsleben/mindstorms.html
 
 stammtisch:
     icon: comments-o
-    url: vereinsleben/toolbox.html
+    url: /vereinsleben/toolbox.html
 
 berufsfelderseminar:
     icon: briefcase
-    url: vereinsleben/berufsfelderseminar.html
+    url: /vereinsleben/berufsfelderseminar.html
 
 spenden:
     icon: euro-sign
@@ -61,25 +59,25 @@ stipendien:
 
 veranstaltungen:
     icon: calendar
-    url: vereinsleben/veranstaltungen.html
+    url: /vereinsleben/veranstaltungen.html
 
 jobboerse:
     icon: arrows-alt-h
-    url: jobboerse/
+    url: /jobboerse/
 
 erfahrungsbericht:
     icon: balance-scale
-    url: stipendien/erfahrungsberichte.html
+    url: /stipendien/erfahrungsberichte.html
 
 klassenzimmer:
     icon: chalkboard-teacher
-    url: vereinsleben/klassenzimmer.html
+    url: /vereinsleben/klassenzimmer.html
 
 kontakt:
     icon: envelope
 
 goingabroad:
-    url: stipendien/goingabroad.html
+    url: /stipendien/goingabroad.html
 
 initiativ:
     icon: lightbulb

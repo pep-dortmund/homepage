@@ -2,7 +2,7 @@
 layout: post
 title: Christian Flüchter
 subtitle: Gutachter in der Forschungsförderung bei der VDI Technologiezentrum GmbH in Düsseldorf
-image: images/wall_of_fame/wof-cfluechter.jpg
+image: /images/wall_of_fame/wof-cfluechter.jpg
 image-style: "object-position: 90%;"
 ---
 

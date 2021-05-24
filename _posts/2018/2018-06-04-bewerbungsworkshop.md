@@ -2,7 +2,7 @@
 layout: post
 title: Workshop "Erfolgreich Bewerben"
 categories: special veranstaltungen
-image: images/bewerbungsworkshop_2018.jpg
+image: /images/bewerbungsworkshop_2018.jpg
 author: Simone, Marie
 ---
 

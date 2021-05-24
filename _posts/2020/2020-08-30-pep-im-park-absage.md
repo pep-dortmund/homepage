@@ -2,7 +2,7 @@
 layout: post
 title: Absage von PeP im Park am 05.09.2020
 categories: special veranstaltungen
-image: images/2020-PeP-im-Park.jpg
+image: /images/2020-PeP-im-Park.jpg
 author: Katharina, Donna
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Sicher Auftreten
 categories: special veranstaltungen
-image: images/sicher_auftreten.jpg
+image: /images/sicher_auftreten.jpg
 author: Simone
 ---
 

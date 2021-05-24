@@ -4,7 +4,7 @@ subtitle: Impressum des Vereins Physikstudierende und ehemalige Physikstudierend
 layout: one-card
 ---
 #### Verantwortlich im Sinne von § 5 TMG
-![](images/impressum.svg)
+![impressum](/images/impressum.svg)
 
 #### Kontakt
 [kontakt@pep-dortmund.org](mailto:kontakt@pep-dortmund.org)

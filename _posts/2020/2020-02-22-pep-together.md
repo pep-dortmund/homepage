@@ -2,7 +2,7 @@
 layout: post
 title: PeP Together am 28.02.2020
 categories: special veranstaltungen
-image: images/billiard.jpg
+image: /images/billiard.jpg
 author: Donna 
 ---
 

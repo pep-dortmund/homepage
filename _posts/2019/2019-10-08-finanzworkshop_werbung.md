@@ -2,7 +2,7 @@
 layout: post
 title: Finanzworkshop
 categories: special veranstaltungen
-image: images/finanzworkshop.png
+image: /images/finanzworkshop.png
 author: Simone
 ---
 

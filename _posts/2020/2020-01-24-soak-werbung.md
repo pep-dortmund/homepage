@@ -2,7 +2,7 @@
 layout: post
 title: Sommerakademie 2020
 categories: special sommerakademie veranstaltungen
-image: images/soak2020_teaser.svg
+image: /images/soak2020_teaser.svg
 author: Valentin, Karl
 ---
 

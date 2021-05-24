@@ -2,7 +2,7 @@
 layout: post
 title: PhysiKon 2020 fällt leider aus
 categories: special veranstaltungen
-image: images/logo-pfeil-gruen.svg
+image: /images/logo-pfeil-gruen.svg
 author: Antje
 ---
 

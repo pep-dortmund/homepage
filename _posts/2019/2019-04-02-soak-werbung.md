@@ -2,7 +2,7 @@
 layout: post
 title: Sommerakademie 2019
 categories: special sommerakademie veranstaltungen
-image: images/soak2019_teaser.svg
+image: /images/soak2019_teaser.svg
 author: Valentin, Karl
 ---
 
@@ -16,10 +16,10 @@ Dieses Jahr möchten wir das Oberthema "Licht" von allen Seiten beleuchten.
 Gerne könnt ihr mit eigenen Ideen dieses Thema mitgestalten und Euch einbringen!
 
 Wie immer sind Studierende und Alumni aller Semester eingeladen.
-Bei Fragen oder Anmerkungen könnt ihr uns jederzeit eine Mail an sommerakademie@pep-dortmund.org schreiben.
+Bei Fragen oder Anmerkungen könnt ihr uns jederzeit eine Mail an [sommerakademie@pep-dortmund.org](mailto:sommerakademie@pep-dortmund.org) schreiben.
 
 Wie freuen uns auf euch!
 
 Das PeP et al SoAk Team.
 
-Einen [Anmeldebogen findet ihr hier](dokumente/soak19_anmeldung.pdf).
+Einen [Anmeldebogen findet ihr hier](/dokumente/soak19_anmeldung.pdf).

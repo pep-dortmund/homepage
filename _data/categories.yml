@@ -5,8 +5,6 @@ absolventenfeier:
 
 special:
     icon: flag
-    url: archive/index.html
-    jump-to-id: true
 
 bachelorkolloquium:
     icon: bullhorn

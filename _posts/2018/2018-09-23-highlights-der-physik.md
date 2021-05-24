@@ -2,7 +2,7 @@
 title: Highlights der Physik
 author: Kevin
 category: special
-image: images/2018-09-23-highligths.jpg
+image: /images/2018-09-23-highligths.jpg
 ---
 Bei den diesjährigen [Highlights der Physik in
 Dortmund](http://www.highlights-physik.de) war Pep et al. ebenfalls vertreten.

@@ -9,4 +9,4 @@ Es gibt ein Stellenangebot für PhysikerInnen bei Teach First.
 
 Alle Informationen sind in der Stellenausschreibung zu finden:
 
-* [Absolvent (m/w/d) als Fellow an Brennpunktschulen](dokumente/ausschreibungen_jobboerse/2021-01-26_Teach_First.pdf)
+* [Absolvent (m/w/d) als Fellow an Brennpunktschulen](/dokumente/ausschreibungen_jobboerse/2021-01-26_Teach_First.pdf)

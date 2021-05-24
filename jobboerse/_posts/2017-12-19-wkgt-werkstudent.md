@@ -33,4 +33,4 @@ Wir sollten uns kennenlernen, wenn Sie:
 * Auch in englischer Sprache arbeiten möchten und über entsprechend gute Englischkenntnisse verfügen
 
 
-Alle weiteren Informationen findet ihr in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_werkstudent.pdf)!
+Alle weiteren Informationen findet ihr in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_werkstudent.pdf)!

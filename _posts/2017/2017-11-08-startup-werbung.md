@@ -2,7 +2,7 @@
 layout: post
 title: Physik meets Gründung
 categories: special veranstaltungen
-image: images/2017-11-08-startup-bulb.png
+image: /images/2017-11-08-startup-bulb.png
 author: Henning
 ---
 

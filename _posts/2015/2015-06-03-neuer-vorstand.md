@@ -13,7 +13,7 @@ In der Geschäftsführung sind nun Henning Moldenhauer als erster Vorsitzender,
 Alex Birnkraut als zweiter Vorsitzender und Vanessa Müller als
 Finanzreferentin.
 
-Im [Newsletter](dokumente/newsletter_2015-05.pdf) stellt sich der neue Vorstand
+Im [Newsletter](/dokumente/newsletter_2015-05.pdf) stellt sich der neue Vorstand
 vor.
 
 Neben der Geschäftsführung wurden auch die Positionen für folgende
@@ -28,5 +28,5 @@ Projektbeauftragte belegt:
   - Alumni-Arbeit
   - Organisation der Sommerakademie
 
-Genaueres ist dem Protokoll der [Mitgliederversammlung](dokumente/jhv_2015.pdf)
+Genaueres ist dem Protokoll der [Mitgliederversammlung](/dokumente/jhv_2015.pdf)
 zu entnehmen.

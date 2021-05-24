@@ -35,4 +35,4 @@ Unser Angebot:
 
 
 Alle weiteren Informationen finden Sie in der
-[Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2019-06-17_geomobile.pdf)!
+[Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2019-06-17_geomobile.pdf)!

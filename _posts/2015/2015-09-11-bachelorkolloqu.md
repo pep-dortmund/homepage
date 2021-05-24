@@ -25,4 +25,4 @@ euch einfach bei [Janine](mailto:janine2.mueller@tu-dortmund.de), auch bei
 anderen Fragen oder Anregungen.
 
 Mehr Informationen und Programm unter
-[Bachelorkolloquium](vereinsleben/bachelorkolloquium.html)
+[Bachelorkolloquium](/vereinsleben/bachelorkolloquium.html)

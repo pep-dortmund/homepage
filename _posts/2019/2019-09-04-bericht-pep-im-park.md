@@ -3,7 +3,7 @@ layout: post
 title: PeP im Park 2019
 categories: special veranstaltungen
 author: Donna
-image: images/2019-PeP-im-Park.jpg
+image: /images/2019-PeP-im-Park.jpg
 ---
 
 In entspannter Atmosphäre hat am 31. August "PeP im Park" stattgefunden.

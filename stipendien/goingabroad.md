@@ -5,18 +5,14 @@ layout: carousel-center
 category: goingabroad
 interval: 10000
 carousel-cards:
-  #- image: images/wall_of_fame/wof-ajung.jpg
-  #  quote: „I'm looking forward to welcome two of Dortmunds students to experience purdue university. As recent years have shown...”
-  #  name: Prof. Dr. Andreas Jung
-  #  imgstyle: "object-position: 100% 0;"
-  - image: images/stipendien/schulte_blank_going_abroad_2019.jpg
+  - image: /images/stipendien/schulte_blank_going_abroad_2019.jpg
     quote: „Wir hatten eine wirklich schöne Zeit an der Purdue University, in der wir viel gelernt haben und viele tolle Menschen kennengelernt haben.”
-    link: stipendien/erfahrungsberichte-purdue.html#goingabroad-2019-08-28-erfahrungsbericht-purdue_2019
+    link: /stipendien/erfahrungsberichte-purdue.html#goingabroad-2019-08-28-erfahrungsbericht-purdue_2019
     name: Nicole Schulte & Jonah Blank
     imgstyle: "object-position: 100% 30;"
-  - image: images/stipendien/pape_becker_going_abroad-2.jpg
+  - image: /images/stipendien/pape_becker_going_abroad-2.jpg
     quote: „Schon bei der Ankunft beeindruckte die Purdue University mit ihrem modernen und gepflegten Campus.”
-    link: stipendien/erfahrungsberichte-purdue.html#goingabroad-2018-10-02-erfahrungsbericht-purdue
+    link: /stipendien/erfahrungsberichte-purdue.html#goingabroad-2018-10-02-erfahrungsbericht-purdue
     name: Steven Becker & Sebastian Pape
     imgstyle: "object-position: 100% 50%;"
 ---
@@ -29,8 +25,8 @@ beschäftigst dich mit aktuellen Forschungsthemen im Bereich der _Hochenergiephy
 Hierbei kannst du dir aussuchen, ob du in der Datenanalyse oder in der Hardware-Entwicklung mitwirken möchtest.
 Neben deiner Forschungstätigkeit in einem internationalen Team kannst du das Leben an einer amerikanischen Universität kennenlernen und den 10 km<sup>2</sup> großen Campus erkunden.
 
-Zusätzliche Informationen findest du zum Beispiel in den  [Erfahrungsberichten](https://pep-dortmund.org/stipendien/erfahrungsberichte.html) der vergangenen Stipendiaten und Stipendiatinnen und im [FAQ](stipendien/faq-purdue.html).
-Außerdem findest du eine kurze Beschreibung der vergangenen Bachelorarbeiten [hier](stipendien/purdue-themen.html).
+Zusätzliche Informationen findest du zum Beispiel in den  [Erfahrungsberichten](/stipendien/erfahrungsberichte.html) der vergangenen Stipendiaten und Stipendiatinnen und im [FAQ](/stipendien/faq-purdue.html).
+Außerdem findest du eine kurze Beschreibung der vergangenen Bachelorarbeiten [hier](/stipendien/purdue-themen.html).
 In dem folgenden Video stellt sich Prof. Jung kurz vor und du bekommst einen Einblick von einem seiner Laboratorien.
 
 <div class="embed-responsive embed-responsive-16by9 mb-5 w-75 mx-auto" style="margin-bottom:45px">
@@ -64,4 +60,4 @@ Die ausgewählten Studierenden werden dann benachrichtigt. -->
 
 ### Noch Fragen?
 Schreib uns einfach eine [E-Mail](mailto:goingabroad@pep-dortmund.org) oder schau alternativ
-bei [uns im Büro](mitmachen.html) vorbei.
+bei [uns im Büro](/mitmachen.html) vorbei.

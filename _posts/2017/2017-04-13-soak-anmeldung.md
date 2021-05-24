@@ -27,4 +27,4 @@ Wir freuen uns auf euch!
 
 Das PeP et al. SoAk-Team.
 
-Anmeldeformular zum Download: [hier](dokumente/soak17_anmeldung.pdf)
+Anmeldeformular zum Download: [hier](/dokumente/soak17_anmeldung.pdf)

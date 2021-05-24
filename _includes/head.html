@@ -6,24 +6,21 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <base href="{{ site.url }}{{ site.baseurl }}/">
 
-  <script async src="assets/js/katex.min.js"></script>
-  <script defer src="assets/js/jquery.min.js"></script>
-  <script defer src="assets/js/bootstrap.min.js"></script>
-  <script defer src="assets/js/custom.js"></script>
+  <script async src="/assets/js/katex.min.js"></script>
+  <script defer src="/assets/js/jquery.min.js"></script>
+  <script defer src="/assets/js/bootstrap.min.js"></script>
+  <script defer src="/assets/js/custom.js"></script>
 
-  <link rel="stylesheet" href="assets/css/all.min.css">
-  <link rel="stylesheet" href="assets/css/bootstrap-custom.css">
-  <link rel="stylesheet" href="assets/css/katex.min.css">
-
-  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}">
+  <link rel="stylesheet" href="/assets/css/all.min.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap-custom.css">
+  <link rel="stylesheet" href="/assets/css/katex.min.css">
 
   <!-- favicon stuff -->
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="manifest.json">
-  <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="theme-color" content="#ffffff">
 </head>

@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master
+  schedule:
+    # Every Sunday at 23:00 UTC
+    - cron: 0 23 * * 0
 
 jobs:
   deploy:
@@ -19,7 +22,7 @@ jobs:
           bundle install
 
       - name: build
-        run: bundle exec jekyll build --config _deploy_config.yml
+        run: bundle exec jekyll build
 
       - name: upload
         env:

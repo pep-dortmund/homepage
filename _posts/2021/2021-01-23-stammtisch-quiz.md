@@ -2,7 +2,7 @@
 layout: post
 title: Remote Stammtisch am 26.02.2021
 categories: special veranstaltungen
-image: images/2021-01-23-winner.jpg
+image: /images/2021-01-23-winner.jpg
 author: Donna
 ---
 

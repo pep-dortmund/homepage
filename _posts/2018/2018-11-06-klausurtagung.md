@@ -2,7 +2,7 @@
 layout: post
 title: Vorstandsklausurtagung in Essen
 categories: special
-image: images/2018-11-03-klausurtagung.jpg
+image: /images/2018-11-03-klausurtagung.jpg
 author: Henning
 ---
 

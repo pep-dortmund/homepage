@@ -2,6 +2,7 @@
 layout: post
 title: Wirtschaftsprüfungsgesellschaft Warth & Klein Grant Thornton AG sucht Werkstudent
 author: Lena
+publish_until: 2018-12-19T00:00:00
 ---
 
 Warth & Klein Grant Thornton gehört zu den zehn größten deutschen Wirtschaftsprüfungsgesellschaften. Über 850 Mitarbeiter
@@ -32,4 +33,4 @@ Wir sollten uns kennenlernen, wenn Sie:
 * Auch in englischer Sprache arbeiten möchten und über entsprechend gute Englischkenntnisse verfügen
 
 
-Alle weiteren Informationen findet ihr in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_werkstudent.pdf)!
+Alle weiteren Informationen findet ihr in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2017-12-19_wkgt_werkstudent.pdf)!

@@ -2,7 +2,7 @@
 layout: post
 title: Bericht zum Remote Stammtisch am 26.02.2021
 categories: special veranstaltungen
-image: images/2021-remote-stammtisch-februar.jpg
+image: /images/2021-remote-stammtisch-februar.jpg
 author: Donna 
 ---
 

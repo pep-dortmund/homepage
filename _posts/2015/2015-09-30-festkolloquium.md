@@ -5,7 +5,7 @@ categories: special veranstaltungen
 special-title: Festkolloquium
 special-subtitle: PeP et al. e.V. wird 10 Jahre als
 special-action: Reinschauen
-image: images/anniversary.png
+image: /images/anniversary.png
 author: Henning
 ---
 Am Dienstag den 20.10.2015 findet anlässlich des zehnjährigen Bestehens von

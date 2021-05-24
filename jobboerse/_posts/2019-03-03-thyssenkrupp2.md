@@ -2,6 +2,7 @@
 layout: post
 title: thyssenkrupp sucht Werkstudent im Bereich Internet of Things / Software Entwicklung (m/w/divers)
 author: Jacqueline
+publish_until: 2020-03-03T00:00:00
 ---
 
 Die Unternehmen der Business Area Components Technology stellen
@@ -55,4 +56,4 @@ Wir freuen uns auf Ihre Bewerbung
 
 
 Alle weiteren Informationen finden Sie in der
-[Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2019-03-03_thyssenkrupp2.pdf)!
+[Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2019-03-03_thyssenkrupp2.pdf)!

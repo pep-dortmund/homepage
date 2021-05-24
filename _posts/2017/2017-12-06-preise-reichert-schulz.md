@@ -2,7 +2,7 @@
 layout: post
 title: Preise für Stefanie Reichert und Dirk Schulz
 categories: special preise
-image: images/2017-12-06-reichert-schulz.jpg
+image: /images/2017-12-06-reichert-schulz.jpg
 author: Christophe
 ---
 

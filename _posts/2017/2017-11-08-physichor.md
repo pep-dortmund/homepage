@@ -2,7 +2,7 @@
 layout: post
 title: PhysiChor
 categories: interessensgruppen
-image: images/physichor.png
+image: /images/physichor.png
 author: Henning
 ---
 

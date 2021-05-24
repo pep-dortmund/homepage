@@ -2,7 +2,7 @@
 layout: post
 title: TU Sommerfest
 categories: special veranstaltungen
-image: images/tusommerfest2018.jpeg
+image: /images/tusommerfest2018.jpeg
 author: Simone, Marie
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Hackathon 2017
 categories: special veranstaltungen 
-image: images/mindstorms_hackathon_2017.jpg
+image: /images/mindstorms_hackathon_2017.jpg
 author: Marie
 ---
 Am Wochenende vom 21.04. bis zum 23.04. fand zum ersten Mal der von PeP et al. organisierte Mindstorms-Hackathon statt.

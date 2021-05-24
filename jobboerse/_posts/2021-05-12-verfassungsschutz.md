@@ -10,4 +10,4 @@ Die Bewerbungsfrist ist der 22.06.2021.
 
 Alle Informationen sind in den entsprechenden Stellenausschreibungen zu finden:
 
-* [Geografinnen/Geografen oder Geoinformatiker/-innen (m/w/d) als Referentinnen/Referenten](dokumente/ausschreibungen_jobboerse/2021-05-12_bfv1.pdf)
+* [Geografinnen/Geografen oder Geoinformatiker/-innen (m/w/d) als Referentinnen/Referenten](/dokumente/ausschreibungen_jobboerse/2021-05-12_bfv1.pdf)

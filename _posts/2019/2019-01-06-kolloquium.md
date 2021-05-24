@@ -3,7 +3,7 @@ layout: post
 title: Kolloquium am 08.01.19
 categories: special veranstaltungen
 author: Kevin
-image: images/2019-01-06-kolloquium.png
+image: /images/2019-01-06-kolloquium.png
 ---
 
 Zum Anfang des Jahres lädt PeP et al. e.V. zum (diesmal nicht nur)

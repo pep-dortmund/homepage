@@ -2,7 +2,7 @@
 layout: post
 title: Alumnivereine auf dem Sommerfest der TU Dortmund
 categories: special veranstaltungen
-image: images/2019_Sommerfest.jpeg
+image: /images/2019_Sommerfest.jpeg
 author: Henning
 ---
 

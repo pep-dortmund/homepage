@@ -2,7 +2,7 @@
 layout: post
 title: Workshop Berufsfindung
 categories: special veranstaltungen
-image: images/2021-04-17-workshop-teilnehmer.jpg
+image: /images/2021-04-17-workshop-teilnehmer.jpg
 author: Stefan 
 ---
 

@@ -56,4 +56,4 @@ Wir freuen uns auf Ihre Bewerbung
 
 
 Alle weiteren Informationen finden Sie in der
-[Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2019-03-03_thyssenkrupp2.pdf)!
+[Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2019-03-03_thyssenkrupp2.pdf)!

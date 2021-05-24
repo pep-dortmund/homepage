@@ -5,7 +5,7 @@ categories: special toolbox veranstaltungen
 special-title: Toolbox Workshop 2017
 special-subtitle: Python, Unix, Make, Git, LaTeX
 special-action: Mehr Infos
-image: images/toolbox.png
+image: /images/toolbox.png
 author: Max
 ---
 

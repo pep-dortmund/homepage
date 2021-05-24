@@ -2,7 +2,7 @@
 layout: post
 title: Sommerakademie 2018
 categories: special sommerakademie veranstaltungen
-image: images/soak2018_teaser.jpeg
+image: /images/soak2018_teaser.jpeg
 author: Timon, Karl
 ---
 
@@ -16,4 +16,4 @@ Das diesjährige Oberthema ist
 Wie immer sind Studierende und Alumni aller Semester eingeladen. Weitere Informationen folgen in Kürze.
 Wie freuen uns auf euch!
 
-Hinweis: Die Anmeldephase ist bereits gestartet. Einen Anmeldebogen findet ihr [hier](dokumente/soak18_anmeldung.pdf).
+Hinweis: Die Anmeldephase ist bereits gestartet. Einen Anmeldebogen findet ihr [hier](/dokumente/soak18_anmeldung.pdf).

@@ -2,7 +2,7 @@
 layout: post
 title: Online Sommerakademie 2020
 categories: special sommerakademie veranstaltungen
-image: images/2020-08-soak-teaser.png
+image: /images/2020-08-soak-teaser.png
 author: Valentin, Karl
 ---
 
@@ -20,7 +20,7 @@ Ab sofort könnt ihr euch auch dort anmelden, damit ihr zu den Programmpunkten a
 gehalten werdet und auch die entsprechenden Zugangsdaten erhaltet.
 
 Wie immer könnt ihr euch gerne bei Fragen an
-[sommerakademie@pep-dortmund.org](sommerakademie@pep-dortmund.org) wenden.
+[sommerakademie@pep-dortmund.org](mailto:sommerakademie@pep-dortmund.org) wenden.
 
 Wir freuen uns auf euch!
 

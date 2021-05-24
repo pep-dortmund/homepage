@@ -16,4 +16,4 @@ Zu den Aufgabenschwerpunkten gehören:
 * Vor-/Nachbereitung der Workshops
 * Ansprechperson bei Problemen
 
-Alle weiteren Informationen findet ihr in der [Stellenausschreibung](dokumente/ausschreibungen_jobboerse/2017-12-19_talentmobil.pdf)!
+Alle weiteren Informationen findet ihr in der [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2017-12-19_talentmobil.pdf)!

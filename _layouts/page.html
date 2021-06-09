@@ -1,11 +1,17 @@
 ---
-layout: page-custom
+layout: base
 ---
-<div class="box hyphenate">
-  {% if page.image %}
-  <span class="image featured">
-    <img src="{{ page.image }}" alt="">
-  </span>
-  {% endif %}
+{% assign category = site.data.categories[page.category] %}
+<div class="container hyphenate mb-3">
+  <header class="text-center">
+    <h2>
+      {{ page.title }}&nbsp;
+      <span class="fas fa-{{ category.icon }}"></span>
+    </h2>
+    <hr>
+    {% if page.subtitle %}
+    <p>{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
   {{ content }}
 </div>

@@ -1,12 +1,20 @@
 ---
-layout: category-custom
+layout: base
 ---
 {% assign category = site.data.categories[page.category] %}
-<header class="text-center">
-  <h2>
-    {{ page.title }}&nbsp;
-    <span class="fas fa-{{ category.icon }}"></span>
-  </h2>
-  <hr>
-  {{ content }}
-</header>
+<div id="main" class="container hyphenate mb-3">
+  <header class="text-center">
+    <h2>
+      {{ page.title }}&nbsp;
+      <span class="fas fa-{{ category.icon }}"></span>
+    </h2>
+    <hr>
+    {{ content }}
+  </header>
+
+  {% for post in site.categories[page.category] %}
+    {% if site.time < post.publish_until %}
+      {% include post.html post=post %}
+    {% endif %}
+  {% endfor %}
+</div>

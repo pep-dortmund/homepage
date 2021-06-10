@@ -7,8 +7,8 @@ author: Donna
 ---
 
 
-Erneut gab es einen schönen Remote Stammtisch in geselliger Runde! In einer bunten Mischung aus Alumnis und Studierenden wurde zunächst fleißig an verschiedensten Quizfragen geknobelt und dann auf Gather.Town herumspaziert und geplaudert.
-Bis in den späten Abend wurden so nette Gespräche geführt und das ein oder andere Spiel, sei es das alltbekannte Scribble.io oder fordernde Jackbox-Spiele, ausprobiert. Danke für diesen sehr netten Abend!
+Erneut gab es einen schönen Remote Stammtisch in geselliger Runde! In einer bunten Mischung aus Alumnis und Studierenden wurde zunächst fleißig an verschiedensten Quizfragen geknobelt und im Anschluss auf Gather.Town herumspaziert.
+Bis in den späten Abend wurden so nette Gespräche geführt und das ein oder andere Spiel, sei es das altbekannte Scribble.io oder ein forderndes Jackbox-Spiel, ausprobiert. Danke für diesen sehr netten Abend!
 
 Die nächsten Termine für die Stammtische in diesem Jahr sind:
 

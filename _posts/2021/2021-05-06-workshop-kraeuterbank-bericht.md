@@ -2,7 +2,7 @@
 layout: post
 title: Bericht zum Kräuterbank Workshop am 12.06.2021
 categories: special veranstaltungen
-image: images/2021-06-16-kraeuterbank-workshop-bericht.png
+image: images/2021-06-16-kraeuterbank-workshop-bericht.jpg
 author: Marie
 ---
 

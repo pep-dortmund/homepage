@@ -2,6 +2,7 @@
 layout: post
 title: Stellenangebote bei Deichmann
 author: Lena
+publish_until: 2022-06-22T00:00:00
 ---
 
 Es gibt neue Stellenangebote für PhysikerInnen bei Deichmann Digital.

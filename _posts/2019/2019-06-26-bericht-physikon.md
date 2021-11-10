@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PhysiKon 2019
-categories: special veranstaltungen
+categories: special veranstaltungen physikon
 author: Lena
 image: /images/PhysiKon_2019_005.jpg
 ---

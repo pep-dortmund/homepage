@@ -4,6 +4,8 @@
 - title: Vereinsleben
   directory: vereinsleben
   submenu:
+      - title: PhysiKon
+        link: physikon.html
       - title: Absolventenfeier
         link: absolventenfeier.html
       - title: Bachelorkolloquium

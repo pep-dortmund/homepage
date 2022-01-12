@@ -27,10 +27,14 @@ um sich auf den Rundmail-Verteiler eintragen zu lassen.
 **16.12.2021** 	Moritz Petrolle 
 *E1 - Westphal*
 
-**13.01.2022** 	tba 
+**13.01.2022** 	Gemeinschaftsvortrag Mira, Micha, Lasse
+*E6 - Cinchetti*
 
-**20.01.2022** 	tba 
+**20.01.2022** 	Tim Brune
+*T3 - Päß*
 
-**27.01.2022** 	tba 
+**27.01.2022** 	Tim Merta 
+*E2 - Bayer/Aßmann*
 
-**03.02.2022** 	tba 
+**03.02.2022** 	Richard Leven 
+*E6 - Cinchetti*

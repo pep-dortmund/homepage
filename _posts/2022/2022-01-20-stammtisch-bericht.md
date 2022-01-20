@@ -2,7 +2,7 @@
 layout: post
 title: Ankündigung der Stammtische in 2022
 categories: special veranstaltungen
-image: /images/2021-11-29-Stammtisch-Bericht.png
+image: /images/2021-11-29-Stammtisch-Bericht.jpg
 author: Donna 
 ---
 Wie auch in den vorherigen Jahren, werden auch in diesem Jahr wieder regelmäßig Stammtische stattfinden. 

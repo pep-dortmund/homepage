@@ -36,5 +36,8 @@ um sich auf den Rundmail-Verteiler eintragen zu lassen.
 **27.01.2022** 	Tim Merta 
 *E2 - Bayer/Aßmann*
 
-**03.02.2022** 	Richard Leven 
+**03.02.2022** 	Abbisha Pathmalogan
+*E1 - Tolan*
+
+**10.02.2022** Richard Leven 
 *E6 - Cinchetti*

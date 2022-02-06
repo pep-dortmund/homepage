@@ -16,7 +16,7 @@ Der Fokus des ersten Tages liegt auf dem Kennenlernen und dem wissenschaftlichen
 
 Der Fokus des zweiten Tages liegt auf dem Präsentieren von wissenschaftlichen Ergebnissen. Hierbei steht als Tool PowerPoint im Vordergrund, wobei ich ebenfalls kurz auf die Alternative unter Verwendung von LaTeX eingehen werde.
 
-Anmelden könnt ihr euch bis zum 23.02.2022 unter [registration.pep-dortmund.org/events/](https://registration.pep-dortmund.org/events/9/registration/)
+Anmelden könnt ihr euch bis zum 23.02.2022 unter [registration.pep-dortmund.org/events/](https://registration.pep-dortmund.org/events/12/registration/)
 . Bei Fragen meldet euch an [workshop@pep-dortmund.org](mailto:workshop@pep-dortmund.org)
 
 Ich freue mich auf euch!

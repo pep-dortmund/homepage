@@ -32,4 +32,4 @@ Ihr Profil
    * Sie bringen eine hohe Motivation, Flexibilität und Reisebereitschaft mit.
 
 
-Hier gehts zur [Stellenausschreibung](somefile.pdf)
+Hier gehts zur [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2022-04-14_DataScientist_tkbilstein.pdf).

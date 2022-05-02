@@ -32,4 +32,5 @@ Ihr Profil
    * Sie bringen eine hohe Motivation, Flexibilität und Reisebereitschaft mit.
 
 
-Hier gehts zur [Stellenausschreibung](/dokumente/ausschreibungen_jobboerse/2022-04-14_DataScientist_tkbilstein.pdf).
+weitere Infos findet ihr [hier](/dokumente/ausschreibungen_jobboerse/2022-04-14_DataScientist_tkbilstein.pdf).
+Zur Stellenausschreibung geht es hier: https://jobs.thyssenkrupp.com/en/job/Data-Scientist-m-w-divers?id=824514

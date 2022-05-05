@@ -22,7 +22,7 @@ It is advisable, that you test the website locally if you make any changes or re
 #### Ubuntu
 
 ```
-$ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev
+$ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev build-essential
 $ gem install bundler
 ```
 

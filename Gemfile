@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '4.2.0'
+gem 'jekyll', '~> 4.2'
 gem 'jekyll-paginate'
 gem 'html-proofer'
 gem 'execjs'

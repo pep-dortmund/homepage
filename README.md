@@ -22,11 +22,11 @@ It is advisable, that you test the website locally if you make any changes or re
 #### Ubuntu
 
 ```
-$ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev
+$ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev build-essential
 $ gem install bundler
 ```
 
-And add this to your bashrc/zshrc/.profile/...:
+And add this to your ~/.bashrc ~/.zshrc ~/.profile/...:
 ```
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"
@@ -40,7 +40,7 @@ $ sudo pacman -S ruby nodejs libxml2 libxslt
 $ gem install bundler
 ```
 
-And add this to your bashrc/zshrc/.profile/...:
+And add this to your ~/.bashrc ~/.zshrc ~/.profile/...:
 ```
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"

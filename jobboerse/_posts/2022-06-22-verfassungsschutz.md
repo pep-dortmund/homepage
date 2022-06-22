@@ -5,9 +5,8 @@ author: Antonia
 publish_until: 2022-12-22T00:00:00
 ---
 
-Es gibt passende Stellenangebote für Physiker:innen beim Bundesamt für Verfassungsschutz.
-Der Arbeitsort wäre Berlin und 
-die Bewerbungsfrist ist der 18.07.2022.
+Es gibt passende Stellenangebote für Physiker:innen beim Bundesamt für Verfassungsschutz am Standort Berlin.
+Die Bewerbungsfrist endet am 18.07.2022.
 
 Alle weiteren Informationen sind in den entsprechenden Stellenausschreibungen zu finden:
 

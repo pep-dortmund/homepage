@@ -10,11 +10,13 @@ carousel-cards:
     link: /stipendien/erfahrungsberichte-purdue.html#goingabroad-2019-08-28-erfahrungsbericht-purdue_2019
     name: Nicole Schulte & Jonah Blank
     imgstyle: "object-position: 100% 30;"
+    alt: "Nicole Schulte & Jonah Blank"
   - image: /images/stipendien/pape_becker_going_abroad-2.jpg
     quote: „Schon bei der Ankunft beeindruckte die Purdue University mit ihrem modernen und gepflegten Campus.”
     link: /stipendien/erfahrungsberichte-purdue.html#goingabroad-2018-10-02-erfahrungsbericht-purdue
     name: Steven Becker & Sebastian Pape
     imgstyle: "object-position: 100% 50%;"
+    alt: "Steven Becker & Sebastian Pape"
 ---
 ### Going Abroad | Purdue University
 Going Abroad ist ein Auslandsprogramm von PeP et al. e.V. und

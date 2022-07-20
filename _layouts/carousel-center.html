@@ -31,7 +31,7 @@ layout: base
             <div class="card mx-auto" style="width: 80vw; max-width: 70vh;">
               {% if card.image %}
                 <div class="car-img-top" style="overflow: hidden;">
-                  <img src="{{ card.image }}" class="d-block card-img-top" style="object-fit: cover; width: 80vw; height: 40vw; max-height: 40vh; max-width: 70vh; {% if card.imgstyle %}{{ card.imgstyle }}{% endif %}">
+                  <img src="{{ card.image }}" class="d-block card-img-top" alt="{{ card.alt }}" style="object-fit: cover; width: 80vw; height: 40vw; max-height: 40vh; max-width: 70vh; {% if card.imgstyle %}{{ card.imgstyle }}{% endif %}">
                 </div>
               {% endif %}
               <div class="card-body">

@@ -25,4 +25,4 @@ jobs:
             --checks Images Scripts Links\
             --only-4xx \
             --disable-external \
-            --ignore-empty-alt=true
+            --ignore-empty-alt true

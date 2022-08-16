@@ -17,7 +17,7 @@ Technischen Universität Dortmund. Weitere Informationen und der Link zu dem
 Bewerbungsportal sind unter folgendem Link zu finden.
 
 [Informationen zur Bewerbung auf ein
-Deutschlandstipendium](http://www.tu-dortmund.de/uni/Uni/Freunde_und_F__rderer/Stipendien/Deutschlandstipendium/Bewerbung/index.html)
+Deutschlandstipendium](https://www.tu-dortmund.de/uni/Uni/Freunde_und_F__rderer/Stipendien/Deutschlandstipendium/Bewerbung/index.html)
 
 Der Bewerbungszeitraum läuft immer vom 15. August bis zum 15. September.
 

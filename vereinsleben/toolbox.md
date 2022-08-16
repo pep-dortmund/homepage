@@ -8,4 +8,4 @@ und Medizinphysikstudierende der TU Dortmund an.
 Im Kurs wird der Umgang mit Werkzeugen, die wissenschaftliches Arbeiten
 erleichtern, vermittelt.
 
-Mehr Infos unter [toolbox.pep-dortmund.org](http://toolbox.pep-dortmund.org).
+Mehr Infos unter [toolbox.pep-dortmund.org](https://toolbox.pep-dortmund.org).

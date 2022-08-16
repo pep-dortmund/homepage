@@ -16,6 +16,6 @@ im All verbracht.
 
 Mehr Informationen unter:
 
-[Physik TU Dortmund - Festkolloquium](http://www.physik.tu-dortmund.de/images/Kolloq-WS-1516/kolloquium_ewald.pdf)
+[Physik TU Dortmund - Festkolloquium](https://www.physik.tu-dortmund.de/images/Kolloq-WS-1516/kolloquium_ewald.pdf)
 
 Wir würden uns sehr über zahlreiches Erscheinen freuen!

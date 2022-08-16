@@ -9,5 +9,5 @@ image: /images/Kolloq.jpg
 ---
 # Jeeehay!
 
-<a href="http://google.de">google</a>
-[google](http://google.de)
+<a href="https://google.de">google</a>
+[google](https://google.de)

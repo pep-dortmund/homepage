@@ -11,7 +11,7 @@ author: Max
 
 Auch im Jahr 2017 veranstaltet PeP et al. wieder den Toolbox Workshop.
 
-Dieser richtet sich vor allem an die kommenden Drittsemester 
+Dieser richtet sich vor allem an die kommenden Drittsemester
 und behandelt die Grundlagen des wissenschaftlichen Arbeitens
 und den Umgang mit den nötigen Werkzeugen.
 
@@ -20,4 +20,4 @@ Vom 25. bis zum 29. September werden die Themen
 
 Die zweite Woche vom 2. bis zum 6. Oktober steht ganz im Zeichen von LaTeX.
 
-Weitere Informationen und Anmeldung [hier](http://toolbox.pep-dortmund.org).
+Weitere Informationen und Anmeldung [hier](https://toolbox.pep-dortmund.org).

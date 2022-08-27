@@ -17,5 +17,5 @@ für den Einsatz!
 Die Schule und die Teilnehmenden der von einem ehemaligen Schüler des
 Goethe-Gymnasiums ausgerichteten Roboter-AG bedanken sich herzlich für die
 großzügige Leihgabe. Das Goethe-Gymnasium
-[berichtete](http://goethe-gymnasium-dortmund.de/index.php/works-details/roboter-ag-im-olympiafieber.html)
+[berichtete](https://goethe-gymnasium-dortmund.de/index.php/works-details/roboter-ag-im-olympiafieber.html)
 auch auf seiner eigenen Website von der Kooperation.

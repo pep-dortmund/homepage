@@ -21,4 +21,4 @@ Vom 12. bis zum 16. Oktober werden die Themen
 
 Die zweite Woche vom 19. bis zum 23. Oktober steht ganz im Zeichen von LaTeX.
 
-Weitere Informationen und Anmeldung [hier](http://toolbox.pep-dortmund.org).
+Weitere Informationen und Anmeldung [hier](https://toolbox.pep-dortmund.org).

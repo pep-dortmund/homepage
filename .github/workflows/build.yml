@@ -22,7 +22,7 @@ jobs:
         run: |
           bundle exec htmlproofer ./_site \
             --allow-hash-href \
-            --checks Images Scripts \
+            --checks Images Scripts Links\
             --only-4xx \
             --disable-external \
-            --ignore-empty-alt
+            --ignore-empty-alt true

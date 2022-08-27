@@ -9,7 +9,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 twitter_username: pepdortmund
 twitter_url: https://twitter.com/pepdortmund
 github_username: pep-dortmund
-github_url: http://github.com/pep-dortmund/
+github_url: https://github.com/pep-dortmund/
 facebook_url: https://www.facebook.com/groups/pep.dortmund/
 xing_url: https://www.xing.com/communities/groups/pep-et-al-b621-1029339
 katex:

@@ -10,7 +10,7 @@ author: Max
 
 Auch im Jahr 2016 war der Toolbox-Workshop ein voller Erfolg.
 
-In dem zweiwöchigen Blockkurs haben wir ca. 50 interessierten Studierenden wichtige Grundlagen des wissenschaftlichen 
+In dem zweiwöchigen Blockkurs haben wir ca. 50 interessierten Studierenden wichtige Grundlagen des wissenschaftlichen
 Arbeitens und dafür hilfreiche Werkzeuge vermittelt.
 
 Hierzu gehörten:
@@ -23,6 +23,6 @@ Hierzu gehörten:
 
 * Verfassen wissenschaftlicher Texte mit LaTeX
 
-Folien, Jupyter Notebooks und Übungsaufgaben gibt es [hier](http://toolbox.pep-dortmund.org/notes.html).
- 
+Folien, Jupyter Notebooks und Übungsaufgaben gibt es [hier](https://toolbox.pep-dortmund.org/notes.html).
+
 Herzlichen Dank an alle Vortragenden und Helfer!

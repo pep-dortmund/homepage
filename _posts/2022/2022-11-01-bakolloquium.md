@@ -13,7 +13,7 @@ Du möchtest nächstes Semester deine Bachelorarbeit schreiben, weißt aber noch
 Dann ist das Bachelor-Kolloquium genau richtig für dich. 
 Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarbeit vor und ermöglichen dir so einen Einblick in die verschiedenen Arbeitsgruppen bei entspannter Atmosphäre. 
 
-Die Termine im November sind:
+Die Termine im November und Dezember:
 
 | **07.11.2022** || *AG Anders*  || Yanick Kind |               
 | **14.11.2022** || *AG Albrecht*  || Katharina Popp & Tobias Knospe |  

@@ -5,9 +5,9 @@ categories: special bachelorkolloquium veranstaltungen
 image: /images/2022-11-01_bakolloquium.png
 author: Ludwig
 ---
-Es geht wieder los! PeP et al. lädt auch dieses Semester wieder zum Bachelorkolloquium ein. 
-Montags von 12:15 bis ca. 13:15 Uhr im AV Raum (P2-E0-414) des Physik Gebäudes der TU Dortmund.
+**Montags von 12:15 bis ca. 13:15 Uhr im AV Raum (P2-E0-414)** des Physik Gebäudes der TU Dortmund.
 
+Es geht wieder los! PeP et al. lädt auch dieses Semester wieder zum Bachelorkolloquium ein. 
 Du möchtest nächstes Semester deine Bachelorarbeit schreiben, weißt aber noch nicht zu welchem Thema? 
 
 Dann ist das Bachelor-Kolloquium genau richtig für dich. 

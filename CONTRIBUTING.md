@@ -2,6 +2,32 @@
 
 Please read this carefully if you want to add anything to the website 😊
 
+## Setting up git
+
+Since this repository contains a lot of large files (images, pdfs...) we 
+use [git-lfs](https://git-lfs.github.com/) to handle them.
+You first need to install it (see below). 
+Then simply run `git lfs install` and continue with your everyday life. 
+Git will now do the rest. 
+
+### Ubuntu (Debian)
+```sh
+$ sudo apt install git-lfs
+```
+
+### Arch-Linux
+```sh
+$ sudo pacman -S git-lfs
+```
+
+### Mac OS (homebrew)
+```sh
+$ brew install git-lfs
+```
+
+
+
+
 ## General setup of this website
 
 The website is optimized for posts, with some additional static content.

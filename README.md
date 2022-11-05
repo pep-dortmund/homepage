@@ -5,6 +5,8 @@ Repository of the PeP al. homepage (<https://pep-dortmund.org>).
 
 ## Contributing
 
+Please read [Contributing](CONTRIBUTING.md) to see how to set up `git-lfs`.
+
 See [Contributing](CONTRIBUTING.md) for detailled explanation how to
 - write new posts
 - add static pages

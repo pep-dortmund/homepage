@@ -13,11 +13,15 @@ Du möchtest nächstes Semester deine Bachelorarbeit schreiben, weißt aber noch
 Dann ist das Bachelor-Kolloquium genau richtig für dich. 
 Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarbeit vor und ermöglichen dir so einen Einblick in die verschiedenen Arbeitsgruppen bei entspannter Atmosphäre. 
 
-Die Termine im November und Dezember:
+Die Termine im November, Dezember und Januar sind:
 
 | **07.11.2022** || *AG Anders*  || Yanick Kind |               
 | **14.11.2022** || *AG Albrecht*  || Katharina Popp & Tobias Knospe |  
 | **28.11.2022** || *AG Cinchetti*  || Till Willershausen |
 | **05.12.2022** || *AG Reiter*  || Jan Ravi Bade  |               
-| **12.12.2022** || *AG Uhrig*  || Benedikt Sander |  
-| **19.12.2022** || *AG Albrecht*  || Lasyan Kader (Medizinphysik) |
+| **12.12.2022** || *AG Uhrig*  || Benedikt Sander (in Raum CP-03-123) |  
+| **19.12.2022** || *AG Stamou*  || Jan Willeke (Auf Zoom) |
+| **09.01.2023** || *AG Rhode*  || Anno & Martin |
+| **16.01.2023** || *AG Albrecht*  || Lasyan Kader (MedPhy) |
+| **23.01.2023** || *AG Kröninger*  || Helen Thews & Ruben Trimpop (MedPhy) |
+| **30.01.2023** || *AG Khan*  || Linus Bölte |

@@ -5,19 +5,25 @@ categories: special bachelorkolloquium veranstaltungen
 image: /images/2022-11-01_bakolloquium.png
 author: Ludwig
 ---
+
 **Montags von 12:15 bis ca. 13:15 Uhr im AV Raum (P2-E0-414)** des Physik Gebäudes der TU Dortmund.
 
-Es geht wieder los! PeP et al. lädt auch dieses Semester wieder zum Bachelorkolloquium ein. 
-Du möchtest nächstes Semester deine Bachelorarbeit schreiben, weißt aber noch nicht zu welchem Thema? 
+Es geht wieder los! PeP et al. lädt auch dieses Semester wieder zum Bachelorkolloquium ein.
+Du möchtest nächstes Semester deine Bachelorarbeit schreiben, weißt aber noch nicht zu welchem Thema?
 
-Dann ist das Bachelor-Kolloquium genau richtig für dich. 
-Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarbeit vor und ermöglichen dir so einen Einblick in die verschiedenen Arbeitsgruppen bei entspannter Atmosphäre. 
+Dann ist das Bachelor-Kolloquium genau richtig für dich.
+Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarbeit vor und ermöglichen dir so einen Einblick in die verschiedenen Arbeitsgruppen bei entspannter Atmosphäre.
 
-Die Termine im November und Dezember:
+Die Termine im November und Dezember sind:
 
-| **07.11.2022** || *AG Anders*  || Yanick Kind |               
-| **14.11.2022** || *AG Albrecht*  || Katharina Popp & Tobias Knospe |  
-| **28.11.2022** || *AG Cinchetti*  || Till Willershausen |
-| **05.12.2022** || *AG Reiter*  || Jan Ravi Bade  |               
-| **12.12.2022** || *AG Uhrig*  || Benedikt Sander |  
-| **19.12.2022** || *AG Albrecht*  || Lasyan Kader (Medizinphysik) |
+| **07.11.2022** || _AG Anders_ || Yanick Kind |  
+| **14.11.2022** || _AG Albrecht_ || Katharina Popp & Tobias Knospe |  
+| **28.11.2022** || _AG Cinchetti_ || Till Willershausen |
+| **05.12.2022** || _AG Reiter_ || Jan Ravi Bade |  
+| **12.12.2022** || _AG Uhrig_ || Benedikt Sander (in Raum CP-03-123) |  
+| **19.12.2022** || _AG Stamou_ || Jan Willeke (Zoom, Link später hier) |
+
+<!-- | **09.01.2023** || *AG Rhode*  || Anno Knierim & Martin Schönfeld |
+| **16.01.2023** || *AG Albrecht*  || Lasyan Kader (Medizinphysik) |
+| **23.01.2023** || *AG Kröninger*  || Helen Thews & Ruben Trimpop (Medphysik) |
+| **30.01.2023** || *AG Khan*  || Linus Bölte | -->

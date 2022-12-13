@@ -21,9 +21,8 @@ Die Termine im November und Dezember sind:
 | **28.11.2022** || _AG Cinchetti_ || Till Willershausen |
 | **05.12.2022** || _AG Reiter_ || Jan Ravi Bade |  
 | **12.12.2022** || _AG Uhrig_ || Benedikt Sander (in Raum CP-03-123) |  
-| **19.12.2022** || _AG Stamou_ || Jan Willeke (Zoom, Link später hier) |
-
-<!-- | **09.01.2023** || *AG Rhode*  || Anno Knierim & Martin Schönfeld |
+| **19.12.2022** || _AG Stamou_ || Jan Willeke ([Zoom ID: 981 8515 2878, PW: 898383](https://tu-dortmund.zoom.us/j/98185152878?pwd=VVZsVDBlT0VGNy9HVDJsdE5Cc3haQT09 )) |
+| **09.01.2023** || *AG Rhode*  || Anno Knierim & Martin Schönfeld |
 | **16.01.2023** || *AG Albrecht*  || Lasyan Kader (Medizinphysik) |
-| **23.01.2023** || *AG Kröninger*  || Helen Thews & Ruben Trimpop (Medphysik) |
-| **30.01.2023** || *AG Khan*  || Linus Bölte | -->
+| **23.01.2023** || *AG Kröninger*  || Helen Thews (Medizinphysik) |
+| **30.01.2023** || *AG Khan*  || Linus Bölte |

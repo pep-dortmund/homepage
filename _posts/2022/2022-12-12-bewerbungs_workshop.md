@@ -15,4 +15,4 @@ Der Workshop findet am Wochenende vom 13. bis zum 15. Jaunar in Essen statt und 
 
 Bei Fragen melde dich gerne per [Mail](mailto:workshop@pep-dortmund.org).
 
-<script defer src="assets/js/free_places.js">
+<script defer src="/assets/js/free_places.js">

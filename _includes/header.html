@@ -1,16 +1,16 @@
-<nav class="navbar navbar-expand-md navbar-dark fixed-top{% if page.landing %} bg-faded nav-landing{% else %} bg-dark{% endif %}" id="pepNavContainer">
+<nav class="navbar navbar-expand-md navbar-dark fixed-top {% if page.landing %} bg-faded nav-landing {% else %} bg-dark {% endif %} px-3" id="pepNavContainer">
   <a class="navbar-brand" href="/index.html">PeP et al. e.V.</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pepNavbar">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#pepNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
 
 
-  <div class="collapse navbar-collapse" id="pepNavbar">
+  <div class="collapse navbar-collapse justify-content-end" id="pepNavbar">
     <ul class="navbar-nav ml-auto">
       {% for navlink in site.data.navigation %}
       {% if navlink.submenu %}
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle {% if page.url contains navlink.directory %}active{% endif %}" href="#" role="button" data-toggle="dropdown">
+        <a class="nav-link dropdown-toggle {% if page.url contains navlink.directory %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown">
           {{ navlink.title }}
         </a>
         <div class="dropdown-menu">

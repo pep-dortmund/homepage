@@ -130,9 +130,6 @@ h1, h2, h3, h4, h5, h6 {
 	border: 3px solid transparent;
 }
 
-.icon span {
-}
-
 a.icon:hover {
   text-decoration: none;
   border: 3px solid;
@@ -167,14 +164,6 @@ a.icon:hover {
 
 .carousel-indicators {
   bottom: 0px;
-}
-
-.carousel-indicators li {
-  background-color : var(--secondary);
-}
-
-.carousel-indicators .active {
-  background-color : var(--dark);
 }
 
 .image.wall-of-fame img {

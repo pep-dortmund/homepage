@@ -19,7 +19,12 @@ layout: base
   <h3 class="text-center">{{ page.firstheading }}</h3>
   {% endif %}
   {% if page.carousel-cards %}
-  <div id="{{ idname }}" class="carousel slide mx-auto mb-5" {% if page.interval %} data-bs-interval="{{ page.interval }}" {% endif %} data-bs-ride="carousel" style="max-width: 70vh;">
+  <div 
+    id="{{ idname }}"
+    class="carousel carousel-dark slide mx-auto mb-5"
+    {% if page.interval %}data-bs-interval="{{ page.interval }}"{% endif %}
+    data-bs-ride="carousel"
+  >
     <div class="carousel-indicators">
     {% for card in page.carousel-cards %}
       <button type="button" data-bs-target="#{{ idname }}" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %} active {% endif %}"></li>
@@ -28,10 +33,10 @@ layout: base
     <div class="carousel-inner">
       {% for card in page.carousel-cards %}
         <div class="carousel-item {% if forloop.first %} active {% endif %}">
-          <div class="card mx-auto" style="width: 80vw; max-width: 70vh;">
+          <div class="card mx-auto">
             {% if card.image %}
-              <div class="car-img-top" style="overflow: hidden;">
-                <img src="{{ card.image }}" class="d-block card-img-top" alt="{{ card.alt }}" style="object-fit: cover; width: 80vw; height: 40vw; max-height: 40vh; max-width: 70vh; {% if card.imgstyle %}{{ card.imgstyle }}{% endif %}">
+              <div class="card-img-top">
+                <img src="{{ card.image }}" class="d-block card-img-top" alt="{{ card.alt }}">
               </div>
             {% endif %}
             <div class="card-body">
@@ -48,11 +53,11 @@ layout: base
         </div>
       {% endfor %}
     </div>
-    <button class="carousel-control-prev"  href="#{{ idname }}" role="button" data-bs-slide="prev">
+    <button class="carousel-control-prev"  data-bs-target="#{{ idname }}" role="button" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </button>
-    <button class="carousel-control-next"  href="#{{ idname }}" role="button" data-bs-slide="next">
+    <button class="carousel-control-next"  data-bs-target="#{{ idname }}" role="button" data-bs-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </button>

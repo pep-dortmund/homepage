@@ -8,10 +8,10 @@ landing: true
 
 <div class="banner" id="banner">
   <h2>{{ special.special-title }}</h2>
-  <p>{{ special.special-subtitle }}</p>
+  <h3>{{ special.special-subtitle }}</h3>
   {% if special.special-action %}
-  <a href="{{ site.categories.special[0].url }}" class="btn btn-outline-light" type="button">
-    {{ site.categories.special[0].special-action }}
+  <a href="{{ special.url }}" class="btn btn-outline-light" type="button">
+    {{ special.special-action }}
   </a>
   {% endif %}
 </div>

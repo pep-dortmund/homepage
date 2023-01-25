@@ -6,282 +6,56 @@ gewählten Kassenprüfer stellen die ordnungsgemäße Buchführung der Vereinsfi
 layout: page
 category: vorstand
 ---
+
+{% for block in site.data.gremien.vorstand %}
 <div class="card mb-3">
   <div class="card-body text-center">
-    <h3 class="card-title">Geschäftsführender Vorstand
-      <a href="mailto:vorstand@pep-dortmund.org">
+    <h3 class="card-title">{{ block.name }}
+      {% if block.email %}
+      <a href="mailto:{{ block.email }}">
         <span class="fa fa-envelope" style="color: var(--dark)"></span>
       </a>
+      {% endif %}
     </h3>
-    <div class="row">
+    <div class="row d-flex justify-content-evenly">
+      {% for person in block.people %}
       <div class="col-12 col-md-4">
-        <img class="card-img portrait" alt="" src="/images/vorstand/kevinS.jpg">
-        <h4>Kevin Schmidt</h4>
-        <p>1. Vorsitzender</p>
+        {% if person.image %}
+        <img class="card-img portrait" alt="" src="{{ person.image }}">
+        {% endif %}
+        <div class="name">{{ person.name }}</div>
+        {% if person.role %}
+        <div class="role">{{ person.role }}</div>
+        {% endif %}
       </div>
-      <div class="col-12 col-md-4">
-        <img class="card-img portrait" alt="" src="/images/vorstand/karl.jpg">
-        <h4>Karl Schiller</h4>
-        <p>2. Vorsitzender</p>
-      </div>
-      <div class="col-12 col-md-4">
-        <img class="card-img portrait" alt="" src="/images/vorstand/jan.jpg">
-        <h4>Jan Peter Herdieckerhoff</h4>
-        <p>Finanzreferent</p>
-      </div>
-    </div>
-  </div>
-</div>
+      {% endfor %}
 
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Koordination
-      <a href="mailto:koordination@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-       <img class="card-img portrait" alt="" src="/images/vorstand/ludwig.JPG"> 
-        <!-- <img class="card-img portrait" alt="" src="/images/passbilddummy.jpg">  -->
-        <h4>Ludwig Neste</h4>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Mitgliederverwaltung
-      <!-- <a href="mailto:koordination@pep-dortmund.org"> -->
-        <!-- <span class="fa fa-envelope" style="color: var(--dark)"></span> -->
-      <!-- </a> -->
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/lars.jpg">
-        <h4>Lars Bollmann</h4>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Ressourcenverwaltung
-      <a href="mailto:ressourcenverwaltung@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/max.jpg">
-        <h4>Maximilian Linhoff</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto text-left">
+      {% if block.team %}
+      <div class="col-12 col-md-4 d-flex flex-column align-items-center">
         <h4>Team</h4>
-        <ul>
-          <li>Kevin Heinicke</li>
+        <ul class="text-start">
+          {% for person in block.team %}
+          <li>{{ person }}</li>
+          {% endfor %}
         </ul>
       </div>
+      {% endif %}
     </div>
   </div>
 </div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Begabtenförderung
-      <a href="mailto:begabtenfoerderung@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/marie.jpg">
-        <h4>Marie Schmitz</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/thorben.jpg">
-        <h4>Thorben Menne</h4>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Fortbildungen
-      <a href="mailto:workshop@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/johannes.jpg">
-        <h4>Johannes Lamers</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/passbilddummy.jpg"> 
-        <h4>Yanick Kind</h4>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Toolbox
-      <a href="mailto:toolbox@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/christian.jpg">
-        <h4>Christian Beckmann</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto text-left">
-        <h4>Team</h4>
-        <ul>
-          <li>Sebastian Lütge</li>
-          <li>Stefan Grisard</li>
-          <li>Joshua Luckey</li>
-          <li>Maximilian Linhoff</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Öffentlichkeitsarbeit
-      <a href="mailto:oeffentlichkeitsarbeit@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/antonia.jpg">
-        <h4>Antonia Joëlle Bock</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/mira.jpg">
-        <h4>Mira Arndt</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto text-left">
-        <h4>Team</h4>
-        <ul>
-          <li>Christophe Cauet</li>
-          <li>Donna Mattern</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Alumniarbeit
-      <a href="mailto:alumniarbeit@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/lena.jpg">
-        <h4>Lena Linhoff</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/donna.jpg">
-        <h4>Donna Maria Mattern</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto text-left">
-        <h4>Team</h4>
-        <ul>
-          <li>Katharina Brägelmann</li>
-          <li>Jonah Nitschke</li>
-          <li>Daniel Weber</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Sommerakademie
-      <a href="mailto:sommerakademie@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/feline.jpg">
-        <h4>Feline Heinzelmann</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto text-left">
-        <h4>Team</h4>
-        <ul>
-          <li>Stefan Grisard</li>
-          <li>Valentin Mischke</li>
-          <li>Karl Schiller</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Wirtschaft
-      <a href="mailto:wirtschaft@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/stefan.jpg">
-        <h4>Stefan Grisard</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/till.jpg">
-        <h4>Till Willershausen</h4>
-      </div>
-      <div class="col-12 col-md-4 mx-auto text-left">
-        <h4>Team</h4>
-        <ul>
-          <li>Katharina Brägelmann</li>
-          <li>Lena Linhoff</li>
-          <li>Antje Mödden</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="card mb-3">
-  <div class="card-body text-center">
-    <h3 class="card-title">Lehramt
-      <a href="mailto:klassenzimmer@pep-dortmund.org">
-        <span class="fa fa-envelope" style="color: var(--dark)"></span>
-      </a>
-    </h3>
-    <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        <img class="card-img portrait" alt="" src="/images/vorstand/joshua.jpg">
-        <h4>Joshua Luckey</h4>
-      </div>
-    </div>
-  </div>
-</div>
+{% endfor %}
 
 <div class="card mb-3">
   <div class="card-body text-center">
     <h3 class="card-title">Kassenprüfer</h3>
     <div class="row">
-      <div class="col-12 col-md-4 mx-auto">
-        Die gewählten Kassenprüfer des Vereins sind <strong>Florian Kruse</strong> und <strong>Julian Wishahi</strong>.
+      <div class="col-12 col-md-4 mx-auto d-flex flex-column align-items-center">
+        <div>Die gewählten Kassenprüfer des Vereins sind</div>
+        <ul class="text-start">
+        {% for person in site.data.gremien.kassenpruefer %}
+          <li><strong>{{ person }}</strong></li>
+        {% endfor %}
+        </ul>
       </div>
     </div>
   </div>

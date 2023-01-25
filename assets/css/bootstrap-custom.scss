@@ -11,6 +11,12 @@ $font-family-base: "Fira Sans", sans-serif;
 
 @import "bootstrap";
 
+
+.card .name {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
 .container.landing {
     position: relative;
 };
@@ -185,7 +191,7 @@ a.icon:hover {
     min-height: 30rem;
 }
 
-.banner h2, h3 {
+.banner h2, .banner h3 {
     color: #fff;
 }
 

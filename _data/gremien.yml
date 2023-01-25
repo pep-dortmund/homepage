@@ -1,0 +1,110 @@
+vorstand:
+  - name: "Geschäftsführender Vorstand"
+    email: "vorstand@pep-dortmund.org"
+    people:
+      - name: "Kevin Schmidt"
+        role: "1. Vorsitzender"
+        image: "/images/vorstand/kevinS.jpg"
+      - name: "Karl Schiller"
+        role: "2. Vorsitzender"
+        image: "/images/vorstand/karl.jpg"
+      - name: "Jan Peter Herdieckerhoff"
+        role: "Finanzreferent"
+        image: "/images/vorstand/jan.jpg"
+
+  - name: "Koordination"
+    email: "koordination@pep-dortmund.org"
+    people:
+      - name: "Ludwig Neste"
+        image: "/images/vorstand/ludwig.jpg"
+
+  - name: "Mitgliederverwaltung"
+    people:
+      - name: "Lars Bollmann"
+        image: "/images/vorstand/lars.jpg"
+
+  - name: "Ressourcenverwaltung"
+    email: "ressourcenverwaltung@pep-dortmund.org"
+    people:
+      - name: "Maximilian Linhoff"
+        image: "/images/vorstand/max.jpg"
+    team:
+      - "Kevin Heinicke"
+
+  - name: "Begabtenförderung"
+    email: "begabtenfoerderung@pep-dortmund.org"
+    people:
+      - name: "Marie Schmitz"
+        image: "/images/vorstand/marie.jpg"
+      - name: "Thorben Menne"
+        image: "/images/vorstand/thorben.jpg"
+
+  - name: "Fortbildungen"
+    email: "workshop@pep-dortmund.org"
+    people:
+      - name: "Jahannes Lamers"
+        image: "/images/vorstand/johannes.jpg"
+      - name: "Yanick Kind"
+        image: "/images/passbilddummy.jpg"
+
+  - name: "Toolbox-Workshop"
+    email: "toolbox@pep-dortmund.org"
+    people:
+      - name: "Christian Beckmann"
+        image: "/images/vorstand/christian.jpg"
+    team:
+      - "Sebastian Lüdge"
+      - "Stefan Grisard"
+      - "Joshua Luckey"
+      - "Maximilian Linhoff"
+
+  - name: "Öffentlichkeitsarbeit"
+    email: "oeffentlichkeitsarbeit@pep-dortmund.org"
+    people:
+      - name: "Antonia Joëlle Bock"
+        image: "/images/vorstand/antonia.jpg"
+      - name: "Mira Arndt"
+        image: "/images/vorstand/mira.jpg"
+    team:
+      - "Christophe Cauet"
+      - "Donna Mattern"
+
+  - name: "Alumniarbeit"
+    email: "alumniarbeit@pep-dortmund.org"
+    people:
+      - name: "Lena Linhoff"
+        image: "/images/vorstand/lena.jpg"
+      - name: "Donna Maria Mattern"
+        image: "/images/vorstand/donna.jpg"
+
+  - name: "Sommerakademie"
+    email: "sommerakademie@pep-dortmund.org"
+    people:
+      - name: "Feline Heinzelmann"
+        image: "/images/vorstand/feline.jpg"
+    team:
+      - "Stefan Grisard"
+      - "Valentin Mischke"
+      - "Karl Schiller"
+
+  - name: "Wirtschaft"
+    email: "wirtschaft@pep-dortmund.org"
+    people:
+      - name: "Stefan Grisard"
+        image: "/images/vorstand/stefan.jpg"
+      - name: "Till Willershausen"
+        image: "/images/vorstand/till.jpg"
+    team:
+      - "Katharina Brägelmann"
+      - "Lena Linhoff"
+      - "Antje Mödden"
+
+  - name: "Lehramt"
+    email: "klassenzimmer@pep-dortmund.org"
+    people:
+      - name: "Joshua Luckey"
+        image: "/images/vorstand/joshua.jpg"
+
+kassenpruefer:
+  - "Florian Kruse"
+  - "Julian Wishahi"

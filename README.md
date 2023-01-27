@@ -22,8 +22,8 @@ It is advisable, that you test the website locally if you make any changes or re
 #### Ubuntu
 
 ```
-$ sudo apt install ruby-dev nodejs-legacy libxml2-dev libxslt-dev build-essential
-$ gem install bundler
+$ sudo apt install ruby-dev nodejs libxml2-dev libxslt-dev build-essential
+$ gem install --user bundler
 ```
 
 And add this to your ~/.bashrc ~/.zshrc ~/.profile/...:
@@ -37,7 +37,7 @@ export PATH="$PATH:$GEM_HOME/bin"
 
 ```
 $ sudo pacman -S ruby nodejs libxml2 libxslt
-$ gem install bundler
+$ gem install --user bundler
 ```
 
 And add this to your ~/.bashrc ~/.zshrc ~/.profile/...:

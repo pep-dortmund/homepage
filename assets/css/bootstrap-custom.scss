@@ -12,6 +12,17 @@ $font-family-base: "Fira Sans", sans-serif;
 @import "bootstrap";
 
 
+.no-hyphen {
+  text-justify: none;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+
+img.landing-logo {
+  height: 150px;
+  max-width: 100%;
+}
+
 .card .name {
     font-weight: bold;
     font-size: 1.5rem;

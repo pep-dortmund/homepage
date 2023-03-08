@@ -17,12 +17,12 @@ __05.11.2015__ *Sascha Dungs*
 E4, Herr Klingenberg
 
 __19.11.2015__ *Alicia Fattorini*  
-“Untersuchungen zur Zerfallsverteilung von {% latex %}B_s^0{% endlatex %}-Mesonen im Zerfallskanal
-{% latex %} B_s^0 \to \phi \phi{% endlatex %} am LHCb-Experiment”  
+“Untersuchungen zur Zerfallsverteilung von \\(B_s^0\\)-Mesonen im Zerfallskanal
+\\( B_s^0 \to \phi \phi\\) am LHCb-Experiment”  
 E5, Herr Spaan
 
 __03.12.2015__ *Stefan Bissmann*  
-“Helizitätsamplituden und deren Symmetrien in {% latex %}B \to K^*l^+l^-{% endlatex %}”  
+“Helizitätsamplituden und deren Symmetrien in \\(B \to K^*l^+l^-\\)”  
 T4, Frau Hiller
 
 __17.12.2015__ *Marie Fehrmann*  
@@ -40,7 +40,7 @@ __21.01.2016__ *Felix Meier*
 T3, Herr Päs
 
 __28.01.2016__ *Johannes Heuel*  
-“A study of the decay {% latex %} B^+ \to K^+e^+e^- {% endlatex %}” 
+“A study of the decay \\( B^+ \to K^+e^+e^- \\)” 
 E5, Herr Albrecht
 
 __04.02.2016__ *Gary Ferkinghoff*  

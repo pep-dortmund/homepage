@@ -15,7 +15,7 @@ Donnerstags, 10:15–11:15 Uhr, AV-Raum (P2-E0-414)
 *T4 – Frau Hiller*
 
 **02.11.2017** Hubertus Kaiser   
-„Messung des Verzweigungsverhältnisses {% latex %} \mathrm{Y} \to \mathrm{\mu}^{+} \mathrm{\mu}^{-} {% endlatex %} und Studien zum Zerfallskanal {% latex %} \mathrm{Y} \to \mathrm{e}^{+} \mathrm{e}^{-} {% endlatex %}”    
+„Messung des Verzweigungsverhältnisses \\( \mathrm{Y} \to \mathrm{\mu}^{+} \mathrm{\mu}^{-} \\) und Studien zum Zerfallskanal \\( \mathrm{Y} \to \mathrm{e}^{+} \mathrm{e}^{-} \\)”    
 *E5 – Herr Albrecht*
 
 **09.11.2017** Lina Heydenreich   

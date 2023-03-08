@@ -6,7 +6,7 @@ author: Steven Becker
 ---
 
 To further increase the accuracy and efficiency of the CMS Inner Tracker a new generation (Phase-2) of pixel sensors is required. However, new approaches must
-first be validated on the current sensor generation (Phase-1) with test systems.  
+first be validated on the current sensor generation (Phase-1) with test systems.
 
 This bachelor thesis commissions such a laser-based test system, which can perform
 the Alive and the S-curve test as well as the Trim calibrations. Furthermore,
@@ -17,8 +17,7 @@ the focal point of the laser is determined.
 
 During the analysis of the sample’s IV-characteristic, an unexpected hysteresis
 was measured, most probably caused by thermal effects. Furthermore, examination
-of the laser focal point with Gaussian optics yields a focal length of 
-{% latex %} 9 \,\mathrm{mm} {% endlatex %}.
+of the laser focal point with Gaussian optics yields a focal length of 9&thinsp;mm.
 However, the determination of the focal length is limited by the pixel size and
 charge sharing effects. Nevertheless, the results indicate that the setup can
 perform tests and calibrations that could be used in the development process of

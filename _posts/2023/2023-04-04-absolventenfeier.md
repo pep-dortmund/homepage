@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Absolventenfeier der Jahrgänge 2019-2023
+title: Absolventenfeier der Jahrgänge 2019-2022
 categories: special absolventenfeier veranstaltungen
-image: /images/absolventenfeier2018.jpg
+image: /images/absolventenfeier2023.jpg
 author: Ludwig
 ---
 
@@ -26,4 +26,3 @@ Musikalisch untermalt wurde die Veranstaltung von einem Duo aus Cello und Klavie
 Im Anschluss an die Veranstaltung wurde zu Canapés und Sekt das ein oder andere Gespräch geführt.
 
 Unser herzlicher Dank gilt hier noch einmal allen Helfer\*innen aus der Studierendenschaft, die die gelungene Feier erst möglich gemacht haben!
-

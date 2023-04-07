@@ -49,18 +49,7 @@ export PATH="$PATH:$GEM_HOME/bin"
 #### macOS
 ```
 $ brew install ruby node
-```
-As suggested by the output of the `ruby` installation, add the following lines to your `~/.zshrc`:
-```
-export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
-export LDFLAGS="-L/opt/homebrew/opt/ruby/lib"
-export CPPFLAGS="-I/opt/homebrew/opt/ruby/include"
-export PKG_CONFIG_PATH="/opt/homebrew/opt/ruby/lib/pkgconfig"
-```
-
-Then run
-```
-$ sudo gem install -n /usr/local/bin bundler
+$ gem install bundler
 ```
 
 ### Testing

@@ -1,5 +1,5 @@
 <!-- Carousel -->
-<div id="{{ include.name }}" class="carousel slide" data-ride="carousel" data-interval="30000">
+<div id="{{ include.name }}" class="carousel carousel-dark slide" data-bs-ride="carousel" data-interval="30000">
   <div class="carousel-inner">
     {% for post in include.data reversed %}
     <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
@@ -22,19 +22,19 @@
     <ol class="carousel-indicators">
       {% for post in include.data reversed %}
       <li
-        data-target="#{{ include.name }}"
-        data-slide-to="{{ forloop.index0 }}"
+        data-bs-target="#{{ include.name }}"
+        data-bs-slide-to="{{ forloop.index0 }}"
         class="{% if forloop.first == true %}active{% endif %}">
       </li>
       {% endfor %}
     </ol>
   </div>
 
-  <a class="carousel-control-prev" href="#{{ include.name }}" role="button" data-slide="prev" style="width : 3%">
+  <a class="carousel-control-prev" href="#{{ include.name }}" role="button" data-bs-slide="prev" style="width : 3%">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#{{ include.name }}" role="button" data-slide="next" style="width : 3%">
+  <a class="carousel-control-next" href="#{{ include.name }}" role="button" data-bs-slide="next" style="width : 3%">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

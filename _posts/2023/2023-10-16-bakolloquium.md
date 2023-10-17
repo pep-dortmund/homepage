@@ -16,5 +16,5 @@ Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarb
 
 Die Termine im Oktober sind:
 
-| **19.10.2023** || _AG Uhrig_ || Benedikt Sander |  
+| **19.10.2023** || _AG Uhrig_ || Benedikt Sander (abgesagt) |  
 | **26.10.2023** || _AG Schneider_ || Yannick Falkenhain |

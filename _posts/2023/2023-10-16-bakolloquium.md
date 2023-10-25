@@ -14,7 +14,11 @@ Du möchtest nächstes Semester deine Bachelorarbeit schreiben, weißt aber noch
 Dann ist das Bachelor-Kolloquium genau richtig für dich.
 Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarbeit vor und ermöglichen dir so einen Einblick in die verschiedenen Arbeitsgruppen bei entspannter Atmosphäre.
 
-Die Termine im Oktober sind:
+Die Termine im Oktober und November sind:
 
-| **19.10.2023** || _AG Uhrig_ || Benedikt Sander |  
 | **26.10.2023** || _AG Schneider_ || Yannick Falkenhain |
+| **02.11.2023** || _AG Cinchetti_ || Lars Sternemann |
+| **09.11.2023** || _AG Delitzsch_ || Joel Koch |
+| **16.11.2023** || _AG Reiter_ || Quentin Richter |
+| **23.11.2023** || _AG Uhrig_ (Abroad) || Nikola Mang |
+| **30.11.2023** || _AG Mitzel_ || Tabea Hacheney |

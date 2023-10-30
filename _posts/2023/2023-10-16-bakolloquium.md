@@ -21,3 +21,4 @@ Die Termine im Oktober und November sind:
 | **09.11.2023** || _AG Delitzsch_ || Joel Koch |
 | **16.11.2023** || _AG Reiter_ || Quentin Richter |
 | **23.11.2023** || _AG Uhrig_ (Abroad) || Nikola Mang |
+| **30.11.2023** || _AG Mitzel_ || Tabea Hacheney |

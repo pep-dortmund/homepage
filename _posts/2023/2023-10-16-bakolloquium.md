@@ -17,7 +17,7 @@ Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarb
 Die Termine im Oktober und November sind:
 
 | **26.10.2023** || _AG Schneider_ || Yannick Falkenhain |
-| **02.11.2023** || _AG Cinchetti_ || Lars Sternemann |
+| **02.11.2023** || _AG Cinchetti_ || Lasse Sternemann |
 | **09.11.2023** || _AG Delitzsch_ || Joel Koch |
 | **16.11.2023** || _AG Reiter_ || Quentin Richter |
 | **23.11.2023** || _AG Uhrig_ (Abroad) || Nikola Mang |

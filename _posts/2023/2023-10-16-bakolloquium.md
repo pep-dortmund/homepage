@@ -22,3 +22,7 @@ Die Termine im Oktober und November sind:
 | **16.11.2023** || _AG Reiter_ || Quentin Richter |
 | **23.11.2023** || _AG Uhrig_ (Abroad) || Nikola Mang |
 | **30.11.2023** || _AG Mitzel_ || Tabea Hacheney |
+| **07.12.2023** || _AG Uhrig_ || Benedikt Sander |
+| **14.12.2023** || _AG Lühr_ || Laura Tsu |
+| **21.12.2023** || _AG Stamou_ || Maximilian Freiheit |
+

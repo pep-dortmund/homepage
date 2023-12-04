@@ -8,20 +8,15 @@ vorstand:
       - name: "Karl Schiller"
         role: "2. Vorsitzender"
         image: "/images/vorstand/karl.jpg"
-      - name: "Jan Peter Herdieckerhoff"
+      - name: "Lars Bollmann"
         role: "Finanzreferent"
-        image: "/images/vorstand/jan.jpg"
+        image: "/images/vorstand/lars.jpg"
 
   - name: "Koordination"
     email: "koordination@pep-dortmund.org"
     people:
       - name: "Ludwig Neste"
         image: "/images/vorstand/ludwig.jpg"
-
-  - name: "Mitgliederverwaltung"
-    people:
-      - name: "Lars Bollmann"
-        image: "/images/vorstand/lars.jpg"
 
   - name: "Ressourcenverwaltung"
     email: "ressourcenverwaltung@pep-dortmund.org"
@@ -104,6 +99,12 @@ vorstand:
     people:
       - name: "Joshua Luckey"
         image: "/images/vorstand/joshua.jpg"
+  
+  - name: "Bachelorkolloquium"
+    email: "bachelorkolloquium@pep-dortmund.org"
+    people:
+      - name: "Jan Peter Herdieckerhoff"
+        image: "/images/vorstand/jan.jpg"
 
 kassenpruefer:
   - "Florian Kruse"

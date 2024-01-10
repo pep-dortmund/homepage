@@ -98,7 +98,6 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-paginate
   popper_js (~> 2.11)
-  webrick (~> 1.7)
 
 BUNDLED WITH
    2.4.1

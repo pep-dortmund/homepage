@@ -19,3 +19,4 @@ Die Termine im Januar sind:
 | **11.01.2024** || _AG Weingarten_ || Alina Hild/Jessica Mnischek |
 | **18.01.2024** || _AG Albrecht_ || Annika Bennemann/Lukas Bertsch |
 | **25.01.2024** || _AG Rhode_ || Christian Arauner/Samuel Haefs |
+| **01.02.2024** || _AG Narevicius_ || Dr. Daniel Rösch (Neue AG) |

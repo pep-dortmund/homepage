@@ -6,6 +6,7 @@ layout: one-card
 Einmal im Jahr findet eine Mitgliederversammlung statt. Dabei wird ein Resümee über das vergangene Jahr gezogen. Außerdem stehen verschiedene Berichte auf der Tagesordnung. Unter anderem wird der geschäftsführende Vorstand entlastet.
 Zudem werden zukünftige Projekte geplant und bewilligt. Darüber hinaus wird der Vorstand gewählt.
 
+|[Protokoll der Mitgliederversammlung von 2023](/dokumente/jhv_2023.pdf)|
 |[Protokoll der Mitgliederversammlung von 2022](/dokumente/jhv_2022.pdf)|
 |[Protokoll der Mitgliederversammlung von 2021](/dokumente/jhv_2021.pdf)|
 |[Protokoll der Mitgliederversammlung von 2020](/dokumente/jhv_2020.pdf)|

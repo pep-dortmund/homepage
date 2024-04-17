@@ -13,13 +13,13 @@ Hier kannst du wegweisende Projekte und deine Fähigkeiten perfekt weiterentwick
 
 Folgende Stellenangebote sind für Physiker:innen besonders interessant: 
 
-* [Junior Digital Marketer Paid Social (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22907/?_gl=1*1e0sgx3*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Junior Data Analyst (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22829/?_gl=1*1e0sgx3*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Junior Data Engineer (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22830/?_gl=1*1e0sgx3*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Praktikant:in (m/w/d) Marketing Operations (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22911/?_gl=1*1e0sgx3*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Praktikant:in eCommerce Growth & Strategy (m/w/d)](https://www.deichmann-karriere.de/jobs/2022-9845/?_gl=1*1jnl7da*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Praktikant:in Projektmanagement Digitale Innovation & Omnichannel Services (m/w/d)](https://www.deichmann-karriere.de/jobs/2023-16771/?_gl=1*1jnl7da*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Werkstudent:in Content Manager (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22838/?_gl=1*1e0sgx3*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Werkstudent:in Digital Content (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22682/?_gl=1*1jnl7da*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
-* [Werkstudent:in Digital Platform PIM (m/w/d)](https://www.deichmann-karriere.de/jobs/2023-17231/?_gl=1*1jnl7da*_up*MQ..*_ga*OTYyODE5NDYwLjE3MTMxNzQxMzg.*_ga_74BHZ6JW9K*MTcxMzE3NDEzOC4xLjAuMTcxMzE3NDEzOC4wLjAuMA..)
+* [Junior Digital Marketer Paid Social (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22907/)
+* [Junior Data Analyst (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22829/)
+* [Junior Data Engineer (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22830/)
+* [Praktikant:in (m/w/d) Marketing Operations (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22911/)
+* [Praktikant:in eCommerce Growth & Strategy (m/w/d)](https://www.deichmann-karriere.de/jobs/2022-9845/)
+* [Praktikant:in Projektmanagement Digitale Innovation & Omnichannel Services (m/w/d)](https://www.deichmann-karriere.de/jobs/2023-16771/)
+* [Werkstudent:in Content Manager (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22838/)
+* [Werkstudent:in Digital Content (m/w/d)](https://www.deichmann-karriere.de/jobs/2024-22682/)
+* [Werkstudent:in Digital Platform PIM (m/w/d)](https://www.deichmann-karriere.de/jobs/2023-17231/)
  

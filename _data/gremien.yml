@@ -2,7 +2,7 @@ vorstand:
   - name: "Geschäftsführender Vorstand"
     email: "vorstand@pep-dortmund.org"
     people:
-      - name: "Kevin Schmidt"
+      - name: "Kevin Schmitz"
         role: "1. Vorsitzender"
         image: "/images/vorstand/kevinS.jpg"
       - name: "Karl Schiller"

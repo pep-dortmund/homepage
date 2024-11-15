@@ -18,7 +18,7 @@ jobs:
         run: |
           bundle exec htmlproofer ./_site \
             --allow-hash-href \
-            --checks Images Scripts Links\
+            --checks \
             --only-4xx \
             --disable-external \
-            --ignore-empty-alt true
+            --ignore-empty-alt

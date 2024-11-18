@@ -16,7 +16,7 @@ Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarb
 
 Die nächsten Termine sind:
 
-| **21.11.2025** || _AG Kröninger_ || Mohammed Hasan Kadhim Jawad |
-| **28.11.2025** || _AG Reiter_ || Jan Lucca Voila |
-| **05.12.2025** || _AG Uhrig_ || Benedikt Sander |
-| **12.12.2025** || _AG Stamou_ || Clara Sondermann |
+| **21.11.2024** || _AG Kröninger_ || Mohammed Hasan Kadhim Jawad |
+| **28.11.2024** || _AG Reiter_ || Jan Lucca Voila |
+| **05.12.2024** || _AG Uhrig_ || Benedikt Sander |
+| **12.12.2024** || _AG Stamou_ || Clara Sondermann |

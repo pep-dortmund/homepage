@@ -10,7 +10,7 @@ vorstand:
         image: "/images/vorstand/rene.jpg"
       - name: "Anno Knierim"
         role: "Finanzreferent"
-        image: "/images/vorstand/lars.jpg"
+        image: "/images/vorstand/anno.jpg"
 
   - name: "Absolventenfeier"
     email: "koordination@pep-dortmund.org"

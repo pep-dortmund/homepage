@@ -32,7 +32,7 @@ vorstand:
       - name: "Maximilian Linhoff"
         image: "/images/vorstand/max.jpg"
 
-  - name: "Fortbildungen"
+  - name: "Workshops"
     email: "workshop@pep-dortmund.org"
     people:
       - name: "Anneka Schreiter"
@@ -62,7 +62,7 @@ vorstand:
       - name: "Anita Kohlwes"
         image: "/images/vorstand/rene.jpg"
 
-  - name: "Wirtschaft"
+  - name: "PhysiKon"
     email: "wirtschaft@pep-dortmund.org"
     people:
       - name: "Till Willershausen"

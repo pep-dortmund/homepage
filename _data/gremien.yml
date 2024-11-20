@@ -1,6 +1,6 @@
 vorstand:
   - name: "Geschäftsführender Vorstand"
-    email: "vorstand@pep-dortmund.org"
+    email: "kontakt@pep-dortmund.org"
     people:
       - name: "Christian Arauner"
         role: "1. Vorsitzender"
@@ -13,7 +13,7 @@ vorstand:
         image: "/images/vorstand/anno.jpg"
 
   - name: "Absolventenfeier"
-    email: "koordination@pep-dortmund.org"
+    email: "absolventenfeier@pep-dortmund.org"
     people:
       - name: "Mira Arndt"
         image: "/images/vorstand/mira.jpg"
@@ -63,7 +63,7 @@ vorstand:
         image: "/images/vorstand/anita.jpg"
 
   - name: "PhysiKon"
-    email: "wirtschaft@pep-dortmund.org"
+    email: "physikon@pep-dortmund.org"
     people:
       - name: "Till Willershausen"
         image: "/images/vorstand/till.jpg"
@@ -75,7 +75,7 @@ vorstand:
         image: "/images/vorstand/jan.jpg"
 
   - name: "Lehramt"
-    email: "klassenzimmer@pep-dortmund.org"
+    email: "lehramt@pep-dortmund.org"
     people:
       #  - name: "Joshua Luckey"
       #  image: "/images/vorstand/joshua.jpg"

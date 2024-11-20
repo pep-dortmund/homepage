@@ -36,7 +36,7 @@ vorstand:
     email: "workshop@pep-dortmund.org"
     people:
       - name: "Anneka Schreiter"
-        image: "/images/vorstand/christian_Arauner.jpg"
+        image: "/images/vorstand/anneka.jpg"
 
   - name: "Toolbox-Workshop"
     email: "toolbox@pep-dortmund.org"
@@ -60,7 +60,7 @@ vorstand:
     email: "sommerakademie@pep-dortmund.org"
     people:
       - name: "Anita Kohlwes"
-        image: "/images/vorstand/rene.jpg"
+        image: "/images/vorstand/anita.jpg"
 
   - name: "PhysiKon"
     email: "wirtschaft@pep-dortmund.org"

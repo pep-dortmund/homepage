@@ -12,8 +12,8 @@ vorstand:
         role: "Finanzreferent"
         image: "/images/vorstand/anno.jpg"
 
-  - name: "Absolventenfeier"
-    email: "absolventenfeier@pep-dortmund.org"
+  - name: "Graduiertenfeier"
+    email: "graduiertenfeier@pep-dortmund.org"
     people:
       - name: "Mira Arndt"
         image: "/images/vorstand/mira.jpg"

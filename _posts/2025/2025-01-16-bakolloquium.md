@@ -17,6 +17,6 @@ Hier stellen jede Woche Bacheloranden aus den letzten Semestern ihre Bachelorarb
 Die nächsten Termine sind:
 
 | **16.01.2025** || _AG Schneider_ (MedPhy) || Annabelle Sömer & Anna Mendel |
-| **20.01.2025** || _AG Cinchetti_ || Till Willershausen |
 | **23.01.2025** || _AG Albrecht_ || Tabea Hacheney & Tom Troska |
+| **27.01.2025** || _AG Cinchetti_ || Till Willershausen & Timo Frieg |
 | **30.01.2025** || _AG Aßmann/Debus_ (MedPhy) || Hakon Ettelfeld & Lasse Leukefeld |

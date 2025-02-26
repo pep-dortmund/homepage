@@ -6,6 +6,8 @@ category: jahresrueckblicke
 ---
 In den Jahresrückblicken ist jeweils die Vereinsarbeit eines Jahres kurz zusammengefasst:
 
+|[Jahresrückblick 2022](/dokumente/jahresrueckblick_2022.pdf)|
+|[Jahresrückblick 2021](/dokumente/jahresrueckblick_2021.pdf)|
 |[Jahresrückblick 2020](/dokumente/jahresrueckblick_2020.pdf)|
 |[Jahresrückblick 2019](/dokumente/jahresrueckblick_2019.pdf)|
 |[Jahresrückblick 2018](/dokumente/jahresrueckblick_2018.pdf)|

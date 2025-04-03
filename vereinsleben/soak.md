@@ -35,7 +35,10 @@ statt, und steht unter dem Motto
 
 <h5 align="center"> Physik von A-Z </h5>
 
-den Moodleraum zur Anmeldung findet ihr demnächst hier ....
+den Moodleraum zur <span style="font-weight: bold;">Anmeldung</span> findet ihr hier: 
+
+<strong><a href="https://moodle.tu-dortmund.de/course/section.php?id=596783" target="_blank">Moodle-Raum zur SoAk25</a></strong>
+
 
 Wir freuen uns auf eine spannende und inspirierende Sommerakademie mit euch!
 

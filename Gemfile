@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 gem 'jekyll', '~> 4.4'
 gem 'jekyll-paginate'
-gem 'html-proofer', '~> 4.4'
+gem 'html-proofer', '~> 5.0'
 gem 'execjs'
 
+gem 'benchmark'
 gem 'logger'
 gem 'csv'
 gem 'base64'

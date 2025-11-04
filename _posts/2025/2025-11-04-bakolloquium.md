@@ -2,7 +2,7 @@
 layout: post
 title: Bachelor-Kolloquium - WS 2025/26
 categories: special bachelorkolloquium veranstaltungen
-image: /images/2025-11-04_bakolloquium.jpg
+image: /images/2024-01-03_bakolloquium.jpg
 author: Anneka
 ---
 

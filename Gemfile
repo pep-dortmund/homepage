@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'jekyll', '~> 4.4'
 gem 'jekyll-paginate'
-gem 'html-proofer', '~> 5.0'
+gem 'html-proofer', '~> 5.1'
 gem 'execjs'
 
 gem 'benchmark'

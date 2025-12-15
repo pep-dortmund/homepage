@@ -1,20 +1,30 @@
-name: Build and Verify
-on: [push, pull_request]
+name: Build, verify and deploy on main
+
+on:
+  push:
+    branches:
+      - "**"
+  schedule:
+    # Every Sunday at 23:00 UTC
+    - cron: "0 23 * * 0"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: ruby/setup-ruby@v1
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.4"
           bundler-cache: true
 
-      - name: build
+      - name: Build the website
         run: bundle exec jekyll build
 
-      - name: check output
+      - name: Check the build
         run: |
           bundle exec htmlproofer ./_site \
             --allow-hash-href \
@@ -22,3 +32,43 @@ jobs:
             --only-4xx \
             --disable-external \
             --ignore-empty-alt
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          name: homepage-build
+          path: ./_site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Download artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: homepage-build
+          path: ./_site
+
+      - name: Unpack artifact
+        run: |
+          tar -xvf ./_site/artifact.tar -C ./_site/
+          rm -rf ./_site/artifact.tar
+
+      - name: Upload to server
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -t rsa "$DEPLOY_HOST" 2> /dev/null | sort -u  -o ~/.ssh/known_hosts
+          echo "$DEPLOY_KEY" > ~/.ssh/deploy_key
+          eval "$(ssh-agent -s)"
+          chmod 600 ~/.ssh/deploy_key
+          ssh-add ~/.ssh/deploy_key
+          rsync -rq --links --delete --exclude=".*" ./_site/ "$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH"

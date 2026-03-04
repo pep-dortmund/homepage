@@ -5,18 +5,18 @@ vorstand:
       - name: "Christian Arauner"
         role: "1. Vorsitzender"
         image: "/images/vorstand/christian_Arauner.jpg"
-      - name: "Rene-Marcel Lehner"
+      - name: "Tom Groß"
         role: "2. Vorsitzender"
-        image: "/images/vorstand/rene.jpg"
-      - name: "Anno Knierim"
+        image: "/images/vorstand/tom_gross.jpg"
+      - name: "Luca Di Bella"
         role: "Finanzreferent"
-        image: "/images/vorstand/anno.jpg"
+        image: "/images/vorstand/luca_di_bella.jpg"
 
   - name: "Graduiertenfeier"
     email: "graduiertenfeier@pep-dortmund.org"
     people:
-      - name: "Mira Arndt"
-        image: "/images/vorstand/mira.jpg"
+      - name: "Antonia Bock"
+        image: "/images/vorstand/antonia_bock.jpg"
 
   - name: "Ressourcenverwaltung"
     email: "ressourcenverwaltung@pep-dortmund.org"
@@ -27,58 +27,58 @@ vorstand:
   - name: "Begabtenförderung"
     email: "begabtenfoerderung@pep-dortmund.org"
     people:
-      - name: "Thorben Menne"
-        image: "/images/vorstand/thorben.jpg"
-      - name: "Maximilian Linhoff"
-        image: "/images/vorstand/max.jpg"
+      - name: "Kevin Schmitz"
+        image: "/images/vorstand/kevinS.jpg"
+      # - name: "Maximilian Linhoff"
+      #   image: "/images/vorstand/max.jpg"
 
   - name: "Workshops"
     email: "workshop@pep-dortmund.org"
     people:
-      - name: "Anneka Schreiter"
-        image: "/images/vorstand/anneka.jpg"
+      - name: "Anna Mendel"
+        # image: "/images/vorstand/anneka.jpg"
 
   - name: "Toolbox-Workshop"
     email: "toolbox@pep-dortmund.org"
     people:
-      - name: "Christian Beckmann"
-        image: "/images/vorstand/christian.jpg"
+      - name: "Anno Knierim"
+        image: "/images/vorstand/anno.jpg"
 
   - name: "Öffentlichkeitsarbeit"
     email: "oeffentlichkeitsarbeit@pep-dortmund.org"
     people:
-      - name: "Kevin Schmitz"
-        image: "/images/vorstand/kevinS.jpg"
+      - name: "Max Rademacher"
+        image: "/images/vorstand/max_rademacher.jpg"
 
   - name: "Alumniarbeit"
     email: "alumniarbeit@pep-dortmund.org"
     people:
-      - name: "Karl Schiller"
-        image: "/images/vorstand/karl.jpg"
+      - name: "Anita Kohlwes"
+        image: "/images/vorstand/anita.jpg"
 
   - name: "Sommerakademie"
     email: "sommerakademie@pep-dortmund.org"
     people:
-      - name: "Anita Kohlwes"
-        image: "/images/vorstand/anita.jpg"
+      - name: "Joschija Oelkrug"
+        image: "/images/vorstand/joschija_oelkrug.jpg"
 
   - name: "PhysiKon"
     email: "physikon@pep-dortmund.org"
     people:
-      - name: "Till Willershausen"
-        image: "/images/vorstand/till.jpg"
+      - name: "Lars Petermann"
+        image: "/images/vorstand/lars_petermann.jpg"
   
   - name: "Bachelorkolloquium"
     email: "bachelorkolloquium@pep-dortmund.org"
     people:
-      - name: "Jan Peter Wagner"
-        image: "/images/vorstand/jan.jpg"
+      - name: "Anneka Schreiter"
+        image: "/images/vorstand/anneka.jpg"
 
   - name: "Lehramt"
     email: "lehramt@pep-dortmund.org"
     people:
-      #  - name: "Joshua Luckey"
-      #  image: "/images/vorstand/joshua.jpg"
+       - name: "Ngọc Lê"
+         image: "/images/vorstand/ngoc_le.jpg"
 
 kassenpruefer:
   - "Florian Kruse"

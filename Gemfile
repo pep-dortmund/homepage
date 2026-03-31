@@ -10,3 +10,4 @@ gem 'csv'
 gem 'base64'
 gem "bootstrap", "~> 5.3"
 gem "popper_js", "~> 2.11"
+gem 'io-event', '< 1.14'

@@ -5,7 +5,7 @@ GEM
     addressable (2.8.9)
       public_suffix (>= 2.0.2, < 8.0)
     afm (1.0.0)
-    async (2.38.1)
+    async (2.37.0)
       console (~> 1.29)
       fiber-annotation
       io-event (~> 1.11)

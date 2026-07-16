@@ -8,7 +8,7 @@ Jeden Sommer packen wir unsere Wanderschuhe, Spiele und jede Menge Material für
 Teilnehmen können alle Dortmunder Physik- und Medizinphysikstudierenden. Besonders freuen wir uns, wenn auch Alumni dabei sind.
 
 Jedes Jahr steht die Sommerakademie unter einem neuen Oberthema, das wir aus verschiedenen Perspektiven in Vorträgen und Projekten beleuchten.
-Neben dem wissenschaftlichen Programm sind Wanderungen, Spieleabende, gutes Essen und das große Tischtennis-Turnier feste Bestandteile unseres Programms.
+Neben dem wissenschaftlichen Programm sind Wanderungen, Spieleabende und gutes Essen feste Bestandteile unseres Programms.
 Außerdem bietet die Sommerakademie eine großartige Gelegenheit, Studierende aus allen Jahrgängen kennen zu lernen
 und Themen zu diskutieren, die in keinem Modulhandbuch zu finden sind.
 
@@ -25,20 +25,17 @@ Welche Projekte angeboten werden, wird im Laufe der Zeit im Moodle-Raum bekannt 
 
 
 
-<h5 align="left"> Termin für die Sommerakademie 2025:</h5>
+<h5 align="left"> Termin für die Sommerakademie 2026:</h5>
 
 Dieses Jahr findet die SoAk vom
 
-<h5 align="center"> 18.08.25 - 25.08.25 </h5>
+<h5 align="center"> 17.08.26 - 24.08.26 </h5>
 
 statt, und steht unter dem Motto
 
-<h5 align="center"> Physik von A-Z </h5>
+<h5 align="center"> Magnetismus </h5>
 
-den Moodleraum zur <span style="font-weight: bold;">Anmeldung</span> findet ihr hier: 
-
-<strong><a href="https://moodle.tu-dortmund.de/course/section.php?id=596783" target="_blank">Moodle-Raum zur SoAk25</a></strong>
+die <span style="font-weight: bold;">Anmeldung</span> und weite Informationen findet ihr <strong><a href="https://registration.pep-dortmund.org/events/soak2026/registration/" target="_blank">unter diesem Link</a></strong>.
 
 
 Wir freuen uns auf eine spannende und inspirierende Sommerakademie mit euch!
-

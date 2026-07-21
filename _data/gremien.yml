@@ -36,6 +36,7 @@ vorstand:
     email: "workshop@pep-dortmund.org"
     people:
       - name: "Anna Mendel"
+        image: "/images/vorstand/anna.jpg"
         # image: "/images/vorstand/anneka.jpg"
 
   - name: "Toolbox-Workshop"

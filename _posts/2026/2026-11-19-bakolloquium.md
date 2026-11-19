@@ -22,7 +22,7 @@ Die nächsten Termine sind:
 <div style="height: 15px;"></div>
 
 <span style="color: red;">
-**Am 14.01.2026 findet aufgrund der CERN-Exkursion KEIN Bachelor-Kolloquium statt!**
+**Am 14.01.2027 findet aufgrund der CERN-Exkursion KEIN Bachelor-Kolloquium statt!**
 </span>
 
 Ab diesem Semester existiert für das Bachelor-Kolloquium ein eigener Moodle-Raum. 

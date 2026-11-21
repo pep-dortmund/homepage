@@ -10,16 +10,39 @@ category: vorstand
 {% for block in site.data.gremien.vorstand %}
 <div class="card mb-3">
   <div class="card-body text-center">
-    <h3 class="card-title">{{ block.name }}
+    <!-- <h3 class="card-title">{{ block.name }}
       {% if block.email %}
       <a href="mailto:{{ block.email }}">
         <span class="fa fa-envelope" style="color: var(--dark)"></span>
       </a>
       {% endif %}
+    </h3> -->
+    <!-- for individual card titles-->
+    {% if block.name %}
+    <h3 class="card-title">{{ block.name }}
+      {% if block.email %}
+      <a href="mailto:{{ block.email }}">
+        <span class="fa fa-envelope" style="color: car(--dark)"></span>
+      </a>
+      {% endif %}
     </h3>
+    {% endif %}
+    <!---->
     <div class="row d-flex justify-content-evenly">
       {% for person in block.people %}
       <div class="col-12 col-md-4">
+        <!-- for individual card titles-->
+        {% if person.title %}
+        <h3 class="card-title">
+          {{ person.title }}
+          {% if person.email %}
+          <a href="mailto:{{ person.email }}">
+            <span class="fa fa-envelope" style="color: var(--dark)"></span>
+          </a>
+          {% endif %}
+        </h3>
+        {% endif %}
+        <!---->
         {% if person.image %}
         <img class="card-img portrait" alt="" src="{{ person.image }}">
         {% endif %}

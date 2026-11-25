@@ -12,74 +12,135 @@ vorstand:
         role: "Finanzreferent"
         image: "/images/vorstand/luca_di_bella.jpg"
 
-  - name: "Graduiertenfeier"
-    email: "graduiertenfeier@pep-dortmund.org"
-    people:
-      - name: "Antonia Bock"
-        image: "/images/vorstand/antonia_bock.jpg"
+  # - name: "Graduiertenfeier"
+  #   email: "graduiertenfeier@pep-dortmund.org"
+  #   people:
+  #     - name: "Anna Mendel"
+  #       image: "/images/vorstand/anna.jpg"
 
-  - name: "Ressourcenverwaltung"
-    email: "ressourcenverwaltung@pep-dortmund.org"
-    people:
-      - name: "Lars Bollmann"
-        image: "/images/vorstand/lars.jpg"
+  # - name: "Ressourcenverwaltung"
+  #   email: "ressourcenverwaltung@pep-dortmund.org"
+  #   people:
+  #     - name: "Lars Bollmann"
+  #       image: "/images/vorstand/lars.jpg"
 
-  - name: "Begabtenförderung"
-    email: "begabtenfoerderung@pep-dortmund.org"
-    people:
-      - name: "Kevin Schmitz"
-        image: "/images/vorstand/kevinS.jpg"
-      # - name: "Maximilian Linhoff"
-      #   image: "/images/vorstand/max.jpg"
+  # - name: "Begabtenförderung"
+  #   email: "begabtenfoerderung@pep-dortmund.org"
+  #   people:
+  #     - name: "Karl Schiller"
+  #       image: "/images/vorstand/karl.jpg"
 
-  - name: "Workshops"
-    email: "workshop@pep-dortmund.org"
+  - name: ""
     people:
       - name: "Anna Mendel"
+        title: "Graduiertenfeier"
+        email: "graduiertenfeier@pep-dortmund.org"
         image: "/images/vorstand/anna.jpg"
-        # image: "/images/vorstand/anneka.jpg"
+        role: "VP Graduiertenfeier"
+      - name: "Lars Bollmann"
+        title: "Ressourcenverwaltung"
+        email: "ressourcenverwaltung@pep-dortmund.org"
+        image: "/images/vorstand/lars.jpg"
+        role: "VP Resourcenverwaltung"
+      - name: "Karl Schiller"
+        title: "Begabtenförderung"
+        email: "begabtenfoerderung@pep-dortmund.org"
+        image: "/images/vorstand/karl.jpg"
+        role: "VP Begabtenförderung"
 
-  - name: "Toolbox-Workshop"
-    email: "toolbox@pep-dortmund.org"
+  # - name: "Workshops"
+  #   email: "workshop@pep-dortmund.org"
+  #   people:
+  #     - name: "Julian Rosenbaum"
+  #       image: ""
+  #       role: "kommissarisch"
+
+  # - name: "Toolbox-Workshop"
+  #   email: "toolbox@pep-dortmund.org"
+  #   people:
+  #     - name: "Anno Knierim"
+  #       image: "/images/vorstand/anno.jpg"
+
+  # - name: "Öffentlichkeitsarbeit"
+  #   email: "oeffentlichkeitsarbeit@pep-dortmund.org"
+  #   people:
+  #     - name: "Max Rademacher"
+  #       image: "/images/vorstand/max_rademacher.jpg"
+
+  - name: ""
     people:
+      - name: "Julian Rosenbaum"
+        title: "Workshops"
+        email: "workshop@pep-dortmund.org"
+        image: "/images/vorstand/Platzhalter.jpg"
+        role: "VP Workshops (kommissarisch)"
       - name: "Anno Knierim"
+        title: "Toolbox-Workshop"
+        email: "toolbox@pep-dortmund.org"
         image: "/images/vorstand/anno.jpg"
-
-  - name: "Öffentlichkeitsarbeit"
-    email: "oeffentlichkeitsarbeit@pep-dortmund.org"
-    people:
+        role: "VP Toolbox-Workshop"
       - name: "Max Rademacher"
+        title: "Öffentlichkeitsarbeit"
+        email: "oeffentlichkeitsarbeit@pep-dortmund.org"
         image: "/images/vorstand/max_rademacher.jpg"
+        role: "VP Öffentlichkeitsarbeit"
+
+  # - name: "PhysiKon"
+  #   email: "physikon@pep-dortmund.org"
+  #   people:
+  #     - name: "Hakon Etteldorf"
+  #       image: ""
+  
+  # - name: "Bachelorkolloquium"
+  #   email: "bachelorkolloquium@pep-dortmund.org"
+  #   people:
+  #     - name: "Anneka Schreiter"
+  #       image: "/images/vorstand/anneka.jpg"
+
+  # - name: "Lehramt"
+  #   email: "lehramt@pep-dortmund.org"
+  #   people:
+  #      - name: "Sadiah Azeem"
+  #        image: ""
+
+  - name: ""
+    people:
+      - name: "Hakon Etteldorf"
+        title: "PhysiKon"
+        email: "physikon@pep-dortmund.org"
+        image: "/images/vorstand/Platzhalter.jpg"
+        role: "VP PhysiKon"
+      - name: "Anneka Schreiter"
+        title: "Bachelorkolloquium"
+        email: "bachelorkolloquium@pep-dortmund.org"
+        image: "/images/vorstand/anneka.jpg"
+        role: "VP Bachelorkolloquium"
+      - name: "Sadiah Azeem"
+        title: "Lehramt"
+        email: "lehramt@pep-dortmund.org" 
+        image: "/images/vorstand/Platzhalter.jpg"
+        role: "VP Lehramt"
 
   - name: "Alumniarbeit"
     email: "alumniarbeit@pep-dortmund.org"
     people:
       - name: "Anita Kohlwes"
         image: "/images/vorstand/anita.jpg"
+        role: "VP Alumniarbeit"
+      - name: "Marina Brand"
+        image: "/images/vorstand/Platzhalter.jpg"
+        role: "Stellvertretung Alumniarbeit"
 
   - name: "Sommerakademie"
     email: "sommerakademie@pep-dortmund.org"
     people:
-      - name: "Joschija Oelkrug"
-        image: "/images/vorstand/joschija_oelkrug.jpg"
+      - name: "Lukas Beck"
+        image: "/images/vorstand/Platzhalter.jpg"
+        role: "VP Sommerakademie"
+      - name: "Simon Wördemann"
+        image: "/images/vorstand/Platzhalter.jpg"
+        role: "Stellvertretung Sommerakademie"
 
-  - name: "PhysiKon"
-    email: "physikon@pep-dortmund.org"
-    people:
-      - name: "Lars Petermann"
-        image: "/images/vorstand/lars_petermann.jpg"
-  
-  - name: "Bachelorkolloquium"
-    email: "bachelorkolloquium@pep-dortmund.org"
-    people:
-      - name: "Anneka Schreiter"
-        image: "/images/vorstand/anneka.jpg"
-
-  - name: "Lehramt"
-    email: "lehramt@pep-dortmund.org"
-    people:
-       - name: "Ngọc Lê"
-         image: "/images/vorstand/ngoc_le.jpg"
 
 kassenpruefer:
   - "Florian Kruse"

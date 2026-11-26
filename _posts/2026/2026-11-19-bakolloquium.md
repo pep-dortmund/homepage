@@ -16,6 +16,7 @@ Hier stellen jede Woche Bachelorand*innen aus den letzten Semestern ihre Bachelo
 Die nächsten Termine sind:
 
 | **10.12.2026** || _AG Albrecht_ || Nick Trosky & Jenny Tiede |
+| **17.12.2026** || _AG Aßmann/Debus_ || Simon Kugler & Malte Zimmermann |
 | **07.01.2027** || _AG Stamou_ || Moritz Drake & Lukas Beck |
 | **21.01.2027** || _AG Rhode/Elsässer_ || Nele Preißler & Evan Kornberger |
 
